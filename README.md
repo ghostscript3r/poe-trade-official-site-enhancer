@@ -74,8 +74,8 @@ I'd like to see some votes before starting on new features. I already put some i
 
 #### For pathofexile.com/trade
 
-* [Install](https://raw.githubusercontent.com/ghostscript3r/poe-trade-official-site-enhancer/master/poe-trade-enhancer.user.js) *from github.com*
-* [Install](https://greasyfork.org/scripts/387586-poe-trade-official-site-enhancer/code/poe-trade-enhancer.user.js) *from greasyfork.org*
+* [Install](https://raw.githubusercontent.com/ghostscript3r/poe-trade-official-site-enhancer/master/poe-trade-official-site-enhancer.user.js) *from github.com*
+* [Install](https://greasyfork.org/scripts/387586-poe-trade-official-site-enhancer/code/poe-trade-official-site-enhancer.user.js) *from greasyfork.org*
 * [Install](https://openuserjs.org/install/ghostscript3r/poe-trade-official-site-enhancer.user.js) *from openuserjs.org*
 
 ### Step 3: Enjoy & Support Author
