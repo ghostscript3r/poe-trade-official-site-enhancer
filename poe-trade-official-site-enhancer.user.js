@@ -103,7 +103,7 @@ var repositoriesParagraph = /* html */`
   <h3 class="">Repositories</h3>
   <p>
     <a href="https://github.com/ghostscript3r/poe-trade-official-site-enhancer" target="_blank">GitHub</a><br />
-    <a href="https://greasyfork.org/scripts/387586-poe-trade-official-site-enhancer" target="_blank">GreasyFork</a><br />
+    <a href="https://greasyfork.org/scripts/389702-poe-trade-official-site-enhancer" target="_blank">GreasyFork</a><br />
     <a href="https://openuserjs.org/scripts/ghostscript3r/poe-trade-official-site-enhancer" target="_blank">OpenUserJS</a>
   </p>
 </div>
@@ -233,7 +233,7 @@ var frameContent = /* html */ `
     <div class="tab-content" id="myTabContent">
       <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
         <div class="">
-          <h2 class="">Poe Trade Official Site Enhancer <small class="text-secondary font-italic font-weight-light">v. 1.2.4</small></h2>
+          <h2 class="">Poe Trade Official Site Enhancer <small class="text-secondary font-italic font-weight-light">v. 1.2.0</small></h2>
           ${shortDescriptionParagraph}
           <hr class="my-4">
           ${donateTemplate}
@@ -941,7 +941,7 @@ var endInit = function() {
 };
 
 
-info("version: 1.2.4");
+info("version: 1.2.0");
 
 
 
