@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         poe-trade-official-site-enhancer
 // @namespace    https://github.com/ghostscript3r/poe-trade-enhancer
-// @version      1.2.8
+// @version      1.2.9
 // @description  Adds tons of usefull features to poe.trade, from a very easy to use save manager to save and laod your searches and even live search them all in one page, to an auto sort by real currency values (from poe.ninja), passing from gems max quality cost and more. I have some other very good idea for features to add, I'll gladly push them forward if I see people start using this.
 // @author       ghostscript3r@gmail.com | https://www.patreon.com/ghostscripter
 // @license      MIT
@@ -233,7 +233,7 @@ var frameContent = /* html */ `
     <div class="tab-content" id="myTabContent">
       <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
         <div class="">
-          <h2 class="">Poe Trade Official Site Enhancer <small class="text-secondary font-italic font-weight-light">v. 1.2.8</small></h2>
+          <h2 class="">Poe Trade Official Site Enhancer <small class="text-secondary font-italic font-weight-light">v. 1.2.9</small></h2>
           ${shortDescriptionParagraph}
           <hr class="my-4">
           ${donateTemplate}
@@ -941,7 +941,7 @@ var endInit = function() {
 };
 
 
-info("version: 1.2.8");
+info("version: 1.2.9");
 
 
 
@@ -3157,15 +3157,6 @@ var initSaveManager = function() {
       }
     });
   };
-
-  // app.$store.mutations({
-  //   loadSavedSearch(stete, payload) {
-  //     log(state);
-  //     log(payload);
-  //     state.persistant.filters = (payload.query && payload.query.filters) || {};
-  //   }
-  // });
-
 
   var matchers = [
     
