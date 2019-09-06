@@ -2,11 +2,11 @@
 
 Adds tons of usefull features to pathofexile.com/trade, from a very easy to use save manager to save and laod your searches and even live search them all in one page, to an auto sort by real currency values (from poe.ninja), passing from gems max quality cost and more. I have some other very good idea for features to add, I'll gladly push them forward if I see people start using this.
 
-*THERE'S ALSO A VERSION OF THIS SCRIPT FOR THE POE.TRADE SITE: [you can find it here](https://github.com/ghostscript3r/poe-trade-enhancer)*
+***THERE'S ALSO A VERSION OF THIS SCRIPT FOR THE POE.TRADE SITE: [you can find it here](https://github.com/ghostscript3r/poe-trade-enhancer)***
 
 ## Features
 
-* Sort item and currency searches on **poe.trade** by current chaos equivalent using **poe.ninja** values.
+* Sort item and currency searches on **pathofexile.com/trade** by current chaos equivalent using **poe.ninja** values.
 
 ### Item Search enhancements
 
@@ -108,7 +108,7 @@ For a list of all projects published or planned visit [my patreon page](https://
 
 ## Poe Trade Official Site Enhancer Showcase
 
-* Sort item and currency searches on **poe.trade** by current chaos equivalent using **poe.ninja** values.
+* Sort item and currency searches on **pathofexile.com/trade** by current chaos equivalent using **poe.ninja** values.
 ![](https://raw.githubusercontent.com/ghostscript3r/poe-trade-official-site-enhancer/master/images/sort-real-curr-off.gif)
 * Adds a save manager to easily save and reload any item search.
 ![](https://raw.githubusercontent.com/ghostscript3r/poe-trade-official-site-enhancer/master/images/save-man-off.gif)
