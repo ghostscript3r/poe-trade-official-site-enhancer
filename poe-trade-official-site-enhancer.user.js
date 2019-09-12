@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         poe-trade-official-site-enhancer
 // @namespace    https://github.com/ghostscript3r/poe-trade-enhancer
-// @version      1.2.20
+// @version      1.2.37
 // @description  Adds tons of usefull features to poe.trade, from a very easy to use save manager to save and laod your searches and even live search them all in one page, to an auto sort by real currency values (from poe.ninja), passing from gems max quality cost and more. I have some other very good idea for features to add, I'll gladly push them forward if I see people start using this.
 // @author       ghostscript3r@gmail.com | https://www.patreon.com/ghostscripter
 // @license      MIT
@@ -233,7 +233,7 @@ var frameContent = /* html */ `
     <div class="tab-content" id="myTabContent">
       <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
         <div class="">
-          <h2 class="">Poe Trade Official Site Enhancer <small class="text-secondary font-italic font-weight-light">v. 1.2.20</small></h2>
+          <h2 class="">Poe Trade Official Site Enhancer <small class="text-secondary font-italic font-weight-light">v. 1.2.37</small></h2>
           ${shortDescriptionParagraph}
           <hr class="my-4">
           ${donateTemplate}
@@ -695,7 +695,15 @@ function exec(fn) {
     script.setAttribute("type", "application/javascript");
     script.textContent = '(' + fn + ')();';
     document.body.appendChild(script); // run the script
-    document.body.removeChild(script); // clean up
+    // document.body.removeChild(script); // clean up
+}
+
+function execText(fn) {
+    var script = document.createElement('script');
+    script.setAttribute("type", "application/javascript");
+    script.textContent = fn;
+    document.body.appendChild(script); // run the script
+    // document.body.removeChild(script); // clean up
 }
 
 (function(window,undefined){
@@ -941,7 +949,7 @@ var endInit = function() {
 };
 
 
-info("version: 1.2.20");
+info("version: 1.2.37");
 
 
 
@@ -1538,8 +1546,10 @@ var sortFullPage = function(sortKey, localId, resultId, message) {
         var failure = function(error) {
           if (retry > 0) {
             debug("loadFullPage.FAIL FETCHING, RETRY - ", error);
-            var innerDeferred = getDeferredFetch(ids, retry -1);
-            innerDeferred.done(success).fail(failure);
+            setTimeout(function(){
+              var innerDeferred = getDeferredFetch(ids, retry -1);
+              innerDeferred.done(success).fail(failure);
+            }, 300);
           } else {
             debug("loadFullPage.FAIL FETCHING: ", error);
             deferred.reject(error);
@@ -1701,26 +1711,29 @@ var resetConnections = function () {
   connections = [];
 };
 
-var openMultiSearch = function(searches) {
+var openMultiSearch = function(searches, names) {
   debug(searches);
   app.$store.commit("resetActiveUnreadHits", null);
   app.$store.commit("removeCurrentSearch", null);
   resetConnections();
 
   var fetches = [];
-  var getDeferredSearchId = function(search, retry) {
+  var getDeferredSearchId = function(name, search, retry) {
     var deferred = $.Deferred();
     var success = function(response) {
       response.search = search;
-      debug("getDeferredSearchId.DONE FETCHING: ", response);
+      debug("getDeferredSearchId.DONE FETCHING: "+name, response);
       deferred.resolve(response);
     };
     var failure = function(error) {
       if (retry > 0) {
-        debug("getDeferredSearchId.FAIL FETCHING, RETRY - ", error);
-        return getDeferredSearchId(search, retry -1);
+        debug("getDeferredSearchId.FAIL FETCHING, RETRY - "+name, error);
+        setTimeout(function(){
+          var innerDeferred = getDeferredSearchId(name, search, retry -1);
+          innerDeferred.done(success).fail(failure);
+        }, 300);
       } else {
-        debug("getDeferredSearchId.FAIL FETCHING: ", error);
+        debug("getDeferredSearchId.FAIL FETCHING: "+name, error);
         deferred.reject(error);
       }
     };
@@ -1734,7 +1747,7 @@ var openMultiSearch = function(searches) {
     .done(success)
     .fail(failure)
     .always(function() {
-      debug("getDeferredSearchId.ALWAYS FETCHING: ", arguments);
+      debug("getDeferredSearchId.ALWAYS FETCHING: "+name, arguments);
     }));
     return deferred;
   };
@@ -1757,7 +1770,7 @@ var openMultiSearch = function(searches) {
       query: fixSearchParam(search.query),
       sort: fixSearchParam(search.sort)
     }
-    fetches.push(getDeferredSearchId(s, 3));
+    fetches.push(getDeferredSearchId(names[i], s, 3));
   });
 
   $.when.apply(this, fetches)
@@ -2813,7 +2826,7 @@ var createMultiFrame = function(iframe, callback) {
       names.push(dt.name);
     });
     setSetting("last-multiLive", names);
-    openMultiSearch(multiSearches);
+    openMultiSearch(multiSearches, names);
   });
 
   filterSearch(iframe);
