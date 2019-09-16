@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         poe-trade-official-site-enhancer
 // @namespace    https://github.com/ghostscript3r/poe-trade-enhancer
-// @version      1.2.37
+// @version      1.2.38
 // @description  Adds tons of usefull features to poe.trade, from a very easy to use save manager to save and laod your searches and even live search them all in one page, to an auto sort by real currency values (from poe.ninja), passing from gems max quality cost and more. I have some other very good idea for features to add, I'll gladly push them forward if I see people start using this.
 // @author       ghostscript3r@gmail.com | https://www.patreon.com/ghostscripter
 // @license      MIT
@@ -233,7 +233,7 @@ var frameContent = /* html */ `
     <div class="tab-content" id="myTabContent">
       <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
         <div class="">
-          <h2 class="">Poe Trade Official Site Enhancer <small class="text-secondary font-italic font-weight-light">v. 1.2.37</small></h2>
+          <h2 class="">Poe Trade Official Site Enhancer <small class="text-secondary font-italic font-weight-light">v. 1.2.38</small></h2>
           ${shortDescriptionParagraph}
           <hr class="my-4">
           ${donateTemplate}
@@ -949,7 +949,7 @@ var endInit = function() {
 };
 
 
-info("version: 1.2.37");
+info("version: 1.2.38");
 
 
 
@@ -1298,7 +1298,7 @@ var renderMaxNormalized = function(item, data, localId, resultId) {
 };
 
 function addMaxQtCostToItem(data) {
-  if (data.listing.price && data.listing.price.amount && !data.item.corrupted && !data.item.duplicated && data.item.category && data.item.category.gems) {
+  if (data.listing.price && data.listing.price.amount && !data.item.corrupted && !data.item.duplicated && ((data.item.category && data.item.category.gems) || _.has(data.item, "support"))) {
     var qt = data.item.properties.find(function(x) {return x.name == "Quality" && x.values && x.values[0];});
     if (qt) {
       var match = /^\+?([\d]+)%?$/.exec(qt.values[0][0]);
