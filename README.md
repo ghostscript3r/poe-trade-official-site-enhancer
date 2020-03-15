@@ -55,6 +55,7 @@ I'd like to see some votes before starting on new features. I already put some i
 ### Step 1: Install a ScriptManager
 
 > #### Note: Right now it is tested with Tampermonkey on Chrome and Firefox. If need arises I'll test/debug on other browsers and ScriptManagers.
+> #### Note: Greasemonkey 4+ not supported at the moment and unless some tools to help backward compatibility arise I'm not sure it will ever be.
 
 * ![firefox](https://raw.githubusercontent.com/ghostscript3r/poe-trade-official-site-enhancer/master/images/firefox.png) Firefox: [Tampermonkey](https://www.tampermonkey.net/index.php?ext=dhdg&browser=firefox) - [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/)
 * ![chrome](https://raw.githubusercontent.com/ghostscript3r/poe-trade-official-site-enhancer/master/images/chrome.png) Chrome: [Tampermonkey](https://www.tampermonkey.net/index.php?ext=dhdg&browser=chrome)
