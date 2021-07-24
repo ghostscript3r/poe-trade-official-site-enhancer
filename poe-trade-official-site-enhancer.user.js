@@ -2136,8 +2136,8 @@ var sortFullPage = function(sortKey, localId, resultId, message) {
 };
 
 function getCurrentLeague() {
-  debug("current league", app.$store.state.persistant.league);
-  return app.$store.state.persistant.league;
+  debug("current league", app.$store.state.persistent.league);
+  return app.$store.state.persistent.league;
 }
 
 function getAvailableLeagues() {
@@ -2161,7 +2161,7 @@ function getSaveIcons() {
 }
 
 var getSearchKey = function() {
-  return searchesKey + ((app.$store.state.persistant.tab == 'exchange') ? '-exchange' : '-items');
+  return searchesKey + ((app.$store.state.persistent.tab == 'exchange') ? '-exchange' : '-items');
 };
 
 var saveSearch = function() {
@@ -2223,7 +2223,7 @@ var openSearch = function(search, newTab, target, quickFilters) {
   addQuickFiltersMessage(quickFilters, function() {openSearch(origSearch, newTab, target, {});});
   addQuickFilters(search, quickFilters);
   var st = $.extend({}, app.$store.state, {
-    persistant: {
+    persistent: {
       league: search.league,
       tab: search.type,
       exchange: {
@@ -2348,13 +2348,13 @@ var openMultiSearch = function(searches, names, live, quickFilters) {
           deferred.reject(error);
         }
       };
-      var payload = (app.$store.state.persistant.tab == 'exchange') ? {
+      var payload = (app.$store.state.persistent.tab == 'exchange') ? {
         exchange: search.query
       } : {
         query: search.query,
         sort: search.sort
       };
-      app.$root.service[(app.$store.state.persistant.tab == 'exchange')?'performExchangeSearch':'performSearch'](search.league, payload, (new $.Deferred)
+      app.$root.service[(app.$store.state.persistent.tab == 'exchange')?'performExchangeSearch':'performSearch'](search.league, payload, (new $.Deferred)
       .done(success)
       .fail(failure)
       .always(function() {
@@ -4183,8 +4183,8 @@ var initSaveManager = function() {
           debug("Some features are disabled because we've been unable to load Poe.Ninja currency values.")
         }
       });
-      waitFor(["app.$store.state.persistant.tab[0]"], function () {
-        tabSelected(app.$store.state.persistant.tab);
+      waitFor(["app.$store.state.persistent.tab[0]"], function () {
+        tabSelected(app.$store.state.persistent.tab);
       });
       if (getSetting('trackContactedOnCurrencySearches')) {
         $(document).on('click', '.slider-middle textarea', function(e) {
