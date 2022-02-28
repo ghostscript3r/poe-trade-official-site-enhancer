@@ -1856,7 +1856,7 @@ var renderWikiLink = function(item, data, localId, resultId) {
   var name = ((_.get(data, 'item.frameType') == 3) ? _.get(data, 'item.name') : _.get(data, 'item.baseType'));
   debug("renderWikiLink", item, data, name);
   if (name) {
-    item.find(".itemName").last().append(`<a target="_blank" class="wiki-link gs-style gs-wikiLink" href="http://pathofexile.gamepedia.com/${name}">wiki</a>`);
+    item.find(".itemName").last().append(`<a target="_blank" class="wiki-link gs-style gs-wikiLink" href="https://www.poewiki.net/w/index.php?search=${name}">wiki</a>`);
   }
 };
 
