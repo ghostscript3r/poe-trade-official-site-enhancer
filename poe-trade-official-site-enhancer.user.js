@@ -2249,7 +2249,7 @@ var openSearch = function(search, newTab, target, quickFilters) {
   addQuickFilters(search, quickFilters);
   var st = $.extend({}, app.$store.state, {
     persistent: {
-      league: search.league,
+      league: search.league, realm: 'pc',
       tab: search.type,
       exchange: {
         fulfillable: true,
@@ -2270,7 +2270,7 @@ var openSearch = function(search, newTab, target, quickFilters) {
 
   var uid = _.uniqueId('search_');
   app.$store.commit("addSearchQuery", {
-      localId: uid,
+      localId: uid, realm: 'pc',
       type: search.type,
       league: search.league,
       query: search.query,
@@ -2379,7 +2379,7 @@ var openMultiSearch = function(searches, names, live, quickFilters) {
         query: search.query,
         sort: search.sort
       };
-      app.$root.service[(app.$store.state.persistent.tab == 'exchange')?'performExchangeSearch':'performSearch'](search.league, payload, (new $.Deferred)
+      app.$root.service[(app.$store.state.persistent.tab == 'exchange')?'performExchangeSearch':'performSearch']('pc', search.league, payload, (new $.Deferred)
       .done(success)
       .fail(failure)
       .always(function() {
@@ -2403,7 +2403,7 @@ var openMultiSearch = function(searches, names, live, quickFilters) {
 
   $.each( searches, function( i, search ) {
     var s = {
-      league: fixSearchParam(search.league),
+      league: fixSearchParam(search.league), realm: 'pc',
       query: fixSearchParam(search.query),
       sort: fixSearchParam(search.sort)
     }
@@ -2417,7 +2417,7 @@ var openMultiSearch = function(searches, names, live, quickFilters) {
     var srcType = {type: "search", league: getCurrentLeague(), query: {status:{option:"any"},term:""+(new Date()).getTime(),stats:[{type:"and",filters:[]}]}};
     debug("setting search query to", srcType);
     app.$store.commit("addSearchQuery", {
-        localId: msLiveUid,
+        localId: msLiveUid, realm: 'pc',
         live: false,
         type: srcType.type,
         league: srcType.league,
