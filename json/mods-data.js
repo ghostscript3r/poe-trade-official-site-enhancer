@@ -19866,21 +19866,23 @@ var mods = {
                 ]
             }
         ],
-        "bow attacks fire an additional arrow": [
+        "bow attacks fire # additional arrows": [
             {
                 "affinities": [
                     "normal"
                 ],
                 "key": "bow attacks fire an additional arrow",
                 "level": "70",
-                "values": [],
+                "values": [
+                    [
+                        "1"
+                    ]
+                ],
                 "types": [
                     "bow",
                     "quiver"
                 ]
-            }
-        ],
-        "bow attacks fire # additional arrows": [
+            },
             {
                 "affinities": [
                     "normal"
@@ -81227,19 +81229,25 @@ var mods = {
                 ]
             }
         ],
-        "bow attacks fire an additional arrow": [
+        "bow attacks fire # additional arrows": [
             {
                 "affinities": [
                     "scourgeup"
                 ],
                 "key": "bow attacks fire an additional arrow",
                 "level": "68",
-                "values": [],
+                "values": [
+                    [
+                        "1"
+                    ]
+                ],
                 "types": [
                     "bow",
                     "quiver"
                 ]
-            },
+            }
+        ],
+        "bow attacks fire an additional arrow": [
             {
                 "affinities": [
                     "corrupted"
