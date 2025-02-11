@@ -81255,9 +81255,7 @@ var mods = {
                     "bow",
                     "quiver"
                 ]
-            }
-        ],
-        "bow attacks fire an additional arrow": [
+            },
             {
                 "affinities": [
                     "corrupted"
