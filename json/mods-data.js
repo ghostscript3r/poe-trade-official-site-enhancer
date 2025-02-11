@@ -16569,21 +16569,23 @@ var mods = {
                 ]
             }
         ],
-        "projectiles pierce an additional target": [
+        "projectiles pierce # additional targets": [
             {
                 "affinities": [
                     "shaper"
                 ],
                 "key": "projectiles pierce an additional target",
                 "level": "68",
-                "values": [],
+                "values": [
+                    [
+                        "1"
+                    ]
+                ],
                 "types": [
                     "wands",
                     "bow"
                 ]
-            }
-        ],
-        "projectiles pierce # additional targets": [
+            },
             {
                 "affinities": [
                     "shaper"
@@ -27931,14 +27933,18 @@ var mods = {
                 ]
             }
         ],
-        "gain alchemist's genius when you use a flask": [
+        "#% chance to gain alchemist's genius when you use a flask": [
             {
                 "affinities": [
                     "essence"
                 ],
                 "key": "gain alchemist's genius when you use a flask",
                 "level": "63",
-                "values": [],
+                "values": [
+                    [
+                        "100"
+                    ]
+                ],
                 "types": [
                     "belt"
                 ]
@@ -59738,14 +59744,33 @@ var mods = {
                 ]
             }
         ],
-        "projectiles pierce an additional target": [
+        "projectiles pierce # additional targets": [
+            {
+                "affinities": [
+                    "essence"
+                ],
+                "key": "projectiles pierce 2 additional targets",
+                "level": "1",
+                "values": [
+                    [
+                        "2"
+                    ]
+                ],
+                "types": [
+                    "quiver"
+                ]
+            },
             {
                 "affinities": [
                     "elder"
                 ],
                 "key": "projectiles pierce an additional target",
                 "level": "68",
-                "values": [],
+                "values": [
+                    [
+                        "1"
+                    ]
+                ],
                 "types": [
                     "quiver",
                     "amulet"
@@ -59757,7 +59782,11 @@ var mods = {
                 ],
                 "key": "projectiles pierce an additional target",
                 "level": "75",
-                "values": [],
+                "values": [
+                    [
+                        "1"
+                    ]
+                ],
                 "types": [
                     "quiver",
                     "amulet"
@@ -60760,23 +60789,6 @@ var mods = {
                 "types": [
                     "quiver",
                     "ring"
-                ]
-            }
-        ],
-        "projectiles pierce # additional targets": [
-            {
-                "affinities": [
-                    "essence"
-                ],
-                "key": "projectiles pierce 2 additional targets",
-                "level": "1",
-                "values": [
-                    [
-                        "2"
-                    ]
-                ],
-                "types": [
-                    "quiver"
                 ]
             }
         ],
@@ -67815,9 +67827,7 @@ var mods = {
                     "hybrid-flask",
                     "utility-flask"
                 ]
-            }
-        ],
-        "gain # charges when you are hit by an enemy": [
+            },
             {
                 "affinities": [
                     "normal"
@@ -84001,7 +84011,7 @@ var mods = {
                 ]
             }
         ],
-        "chill enemy for # seconds when hit, reducing their action speed by #%": [
+        "chill enemy for # second when hit, reducing their action speed by #%": [
             {
                 "affinities": [
                     "scourgeup"
