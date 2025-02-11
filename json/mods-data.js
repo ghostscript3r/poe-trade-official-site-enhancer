@@ -54911,7 +54911,7 @@ var mods = {
                 ]
             }
         ],
-        "#% increased physical damage|||||projectiles pierce an additional target": [
+        "#% increased physical damage|||||projectiles pierce # additional targets": [
             {
                 "affinities": [
                     "hunter"
