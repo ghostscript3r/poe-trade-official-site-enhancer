@@ -23,6 +23,11 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring"
                 ]
@@ -49,6 +54,11 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring"
                 ]
@@ -75,6 +85,11 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring"
                 ]
@@ -101,6 +116,11 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring"
                 ]
@@ -127,6 +147,11 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring"
                 ]
@@ -153,6 +178,11 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring"
                 ]
@@ -179,6 +209,11 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring"
                 ]
@@ -205,8 +240,29 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(34–36) to dexterity",
+                "level": "81",
+                "values": [
+                    [
+                        "34",
+                        "36"
+                    ]
+                ],
+                "types": [
+                    "gloves"
                 ]
             }
         ],
@@ -239,7 +295,12 @@ var mods2 = {
                     "two-hand-mace",
                     "quarterstaff",
                     "crossbow",
-                    "focus"
+                    "shield",
+                    "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
                 ]
             },
             {
@@ -270,7 +331,12 @@ var mods2 = {
                     "two-hand-mace",
                     "quarterstaff",
                     "crossbow",
-                    "focus"
+                    "shield",
+                    "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
                 ]
             },
             {
@@ -301,7 +367,12 @@ var mods2 = {
                     "two-hand-mace",
                     "quarterstaff",
                     "crossbow",
-                    "focus"
+                    "shield",
+                    "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
                 ]
             },
             {
@@ -332,7 +403,12 @@ var mods2 = {
                     "two-hand-mace",
                     "quarterstaff",
                     "crossbow",
-                    "focus"
+                    "shield",
+                    "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
                 ]
             },
             {
@@ -363,7 +439,12 @@ var mods2 = {
                     "two-hand-mace",
                     "quarterstaff",
                     "crossbow",
-                    "focus"
+                    "shield",
+                    "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
                 ]
             }
         ],
@@ -420,6 +501,7 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "gloves",
                     "amulet"
                 ]
             },
@@ -513,6 +595,7 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "gloves",
                     "amulet"
                 ]
             },
@@ -921,6 +1004,7 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -953,6 +1037,7 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -985,6 +1070,7 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -1017,6 +1103,7 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -1049,6 +1136,7 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -1081,6 +1169,7 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -1111,7 +1200,8 @@ var mods2 = {
                     "two-hand-axe",
                     "two-hand-mace",
                     "quarterstaff",
-                    "crossbow"
+                    "crossbow",
+                    "gloves"
                 ]
             },
             {
@@ -1141,7 +1231,8 @@ var mods2 = {
                     "two-hand-axe",
                     "two-hand-mace",
                     "quarterstaff",
-                    "crossbow"
+                    "crossbow",
+                    "gloves"
                 ]
             }
         ],
@@ -1175,6 +1266,7 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -1207,6 +1299,7 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -1239,6 +1332,7 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -1271,6 +1365,7 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -1303,6 +1398,7 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -1335,6 +1431,7 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -1365,7 +1462,8 @@ var mods2 = {
                     "two-hand-axe",
                     "two-hand-mace",
                     "quarterstaff",
-                    "crossbow"
+                    "crossbow",
+                    "gloves"
                 ]
             },
             {
@@ -1395,7 +1493,8 @@ var mods2 = {
                     "two-hand-axe",
                     "two-hand-mace",
                     "quarterstaff",
-                    "crossbow"
+                    "crossbow",
+                    "gloves"
                 ]
             }
         ],
@@ -1536,7 +1635,8 @@ var mods2 = {
                     "two-hand-mace",
                     "quarterstaff",
                     "crossbow",
-                    "quiver"
+                    "quiver",
+                    "gloves"
                 ]
             },
             {
@@ -1608,7 +1708,8 @@ var mods2 = {
                     ]
                 ],
                 "types": [
-                    "quiver"
+                    "quiver",
+                    "gloves"
                 ]
             },
             {
@@ -1680,7 +1781,8 @@ var mods2 = {
                     ]
                 ],
                 "types": [
-                    "quiver"
+                    "quiver",
+                    "gloves"
                 ]
             },
             {
@@ -1748,7 +1850,8 @@ var mods2 = {
                     ]
                 ],
                 "types": [
-                    "quiver"
+                    "quiver",
+                    "gloves"
                 ]
             },
             {
@@ -2147,7 +2250,8 @@ var mods2 = {
                     "two-hand-axe",
                     "two-hand-mace",
                     "quarterstaff",
-                    "crossbow"
+                    "crossbow",
+                    "helmet"
                 ]
             },
             {
@@ -2178,7 +2282,8 @@ var mods2 = {
                     "two-hand-axe",
                     "two-hand-mace",
                     "quarterstaff",
-                    "crossbow"
+                    "crossbow",
+                    "helmet"
                 ]
             },
             {
@@ -2209,7 +2314,8 @@ var mods2 = {
                     "two-hand-axe",
                     "two-hand-mace",
                     "quarterstaff",
-                    "crossbow"
+                    "crossbow",
+                    "helmet"
                 ]
             }
         ],
@@ -2549,6 +2655,11 @@ var mods2 = {
                     "flail",
                     "staff",
                     "quarterstaff",
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring"
                 ]
@@ -2572,6 +2683,11 @@ var mods2 = {
                     "flail",
                     "staff",
                     "quarterstaff",
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring"
                 ]
@@ -2595,6 +2711,11 @@ var mods2 = {
                     "flail",
                     "staff",
                     "quarterstaff",
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring"
                 ]
@@ -2618,6 +2739,11 @@ var mods2 = {
                     "flail",
                     "staff",
                     "quarterstaff",
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring"
                 ]
@@ -2641,6 +2767,11 @@ var mods2 = {
                     "flail",
                     "staff",
                     "quarterstaff",
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring"
                 ]
@@ -2664,6 +2795,11 @@ var mods2 = {
                     "flail",
                     "staff",
                     "quarterstaff",
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring"
                 ]
@@ -2687,6 +2823,11 @@ var mods2 = {
                     "flail",
                     "staff",
                     "quarterstaff",
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring"
                 ]
@@ -2710,8 +2851,29 @@ var mods2 = {
                     "flail",
                     "staff",
                     "quarterstaff",
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(34–36) to intelligence",
+                "level": "81",
+                "values": [
+                    [
+                        "34",
+                        "36"
+                    ]
+                ],
+                "types": [
+                    "helmet"
                 ]
             }
         ],
@@ -2729,6 +2891,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus",
                     "amulet"
                 ]
@@ -2791,6 +2954,7 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
                     "amulet"
                 ]
@@ -3659,6 +3823,7 @@ var mods2 = {
                     "wand",
                     "sceptre",
                     "staff",
+                    "shield",
                     "focus",
                     "amulet",
                     "ring"
@@ -3680,6 +3845,7 @@ var mods2 = {
                     "wand",
                     "sceptre",
                     "staff",
+                    "shield",
                     "focus",
                     "amulet",
                     "ring"
@@ -3701,6 +3867,7 @@ var mods2 = {
                     "wand",
                     "sceptre",
                     "staff",
+                    "shield",
                     "focus",
                     "amulet",
                     "ring"
@@ -3722,6 +3889,7 @@ var mods2 = {
                     "wand",
                     "sceptre",
                     "staff",
+                    "shield",
                     "focus",
                     "amulet",
                     "ring"
@@ -3743,6 +3911,7 @@ var mods2 = {
                     "wand",
                     "sceptre",
                     "staff",
+                    "shield",
                     "focus",
                     "amulet",
                     "ring"
@@ -3764,6 +3933,7 @@ var mods2 = {
                     "wand",
                     "sceptre",
                     "staff",
+                    "shield",
                     "focus",
                     "amulet",
                     "ring"
@@ -3785,6 +3955,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus",
                     "amulet",
                     "ring"
@@ -3820,6 +3991,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus",
                     "amulet",
                     "ring"
@@ -3855,6 +4027,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus",
                     "amulet",
                     "ring"
@@ -3890,6 +4063,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus",
                     "amulet",
                     "ring"
@@ -3925,6 +4099,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus",
                     "amulet"
                 ]
@@ -3959,6 +4134,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -4027,6 +4203,7 @@ var mods2 = {
                 "types": [
                     "wand",
                     "staff",
+                    "shield",
                     "focus"
                 ]
             },
@@ -4045,6 +4222,7 @@ var mods2 = {
                 "types": [
                     "wand",
                     "staff",
+                    "shield",
                     "focus"
                 ]
             },
@@ -4063,6 +4241,7 @@ var mods2 = {
                 "types": [
                     "wand",
                     "staff",
+                    "shield",
                     "focus"
                 ]
             },
@@ -4081,6 +4260,7 @@ var mods2 = {
                 "types": [
                     "wand",
                     "staff",
+                    "shield",
                     "focus"
                 ]
             },
@@ -4099,6 +4279,7 @@ var mods2 = {
                 "types": [
                     "wand",
                     "staff",
+                    "shield",
                     "focus"
                 ]
             },
@@ -4136,6 +4317,7 @@ var mods2 = {
                 "types": [
                     "wand",
                     "staff",
+                    "shield",
                     "focus"
                 ]
             },
@@ -4154,6 +4336,7 @@ var mods2 = {
                 "types": [
                     "wand",
                     "staff",
+                    "shield",
                     "focus"
                 ]
             },
@@ -4172,6 +4355,7 @@ var mods2 = {
                 "types": [
                     "wand",
                     "staff",
+                    "shield",
                     "focus"
                 ]
             },
@@ -4190,6 +4374,7 @@ var mods2 = {
                 "types": [
                     "wand",
                     "staff",
+                    "shield",
                     "focus"
                 ]
             },
@@ -4208,6 +4393,7 @@ var mods2 = {
                 "types": [
                     "wand",
                     "staff",
+                    "shield",
                     "focus"
                 ]
             },
@@ -4582,6 +4768,11 @@ var mods2 = {
                     "two-hand-axe",
                     "two-hand-mace",
                     "crossbow",
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -4610,6 +4801,11 @@ var mods2 = {
                     "two-hand-axe",
                     "two-hand-mace",
                     "crossbow",
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -4638,6 +4834,11 @@ var mods2 = {
                     "two-hand-axe",
                     "two-hand-mace",
                     "crossbow",
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -4666,6 +4867,11 @@ var mods2 = {
                     "two-hand-axe",
                     "two-hand-mace",
                     "crossbow",
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -4694,6 +4900,11 @@ var mods2 = {
                     "two-hand-axe",
                     "two-hand-mace",
                     "crossbow",
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -4722,6 +4933,11 @@ var mods2 = {
                     "two-hand-axe",
                     "two-hand-mace",
                     "crossbow",
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -4750,6 +4966,11 @@ var mods2 = {
                     "two-hand-axe",
                     "two-hand-mace",
                     "crossbow",
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -4778,6 +4999,11 @@ var mods2 = {
                     "two-hand-axe",
                     "two-hand-mace",
                     "crossbow",
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -4926,6 +5152,7 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "helmet",
                     "amulet"
                 ]
             },
@@ -4971,6 +5198,7 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "helmet",
                     "amulet"
                 ]
             },
@@ -6231,7 +6459,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6250,7 +6483,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6269,7 +6507,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6288,7 +6531,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6307,7 +6555,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6326,7 +6579,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6345,7 +6603,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6364,7 +6627,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6385,7 +6653,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6404,7 +6677,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6423,7 +6701,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6442,7 +6725,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6461,7 +6749,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6480,7 +6773,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6499,7 +6797,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6518,7 +6821,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6539,7 +6847,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6558,7 +6871,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6577,7 +6895,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6596,7 +6919,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6615,7 +6943,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6634,7 +6967,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6653,7 +6991,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6672,7 +7015,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6693,7 +7041,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6712,7 +7065,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6731,7 +7089,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6750,7 +7113,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6769,7 +7137,12 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -6788,10 +7161,520 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
+                ]
+            }
+        ],
+        "# to stun threshold": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(6–11) to stun threshold",
+                "level": "1",
+                "values": [
+                    [
+                        "6",
+                        "11"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots",
+                    "body-armour",
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(12–29) to stun threshold",
+                "level": "8",
+                "values": [
+                    [
+                        "12",
+                        "29"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots",
+                    "body-armour",
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(30–49) to stun threshold",
+                "level": "15",
+                "values": [
+                    [
+                        "30",
+                        "49"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots",
+                    "body-armour",
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(50–72) to stun threshold",
+                "level": "22",
+                "values": [
+                    [
+                        "50",
+                        "72"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots",
+                    "body-armour",
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(73–97) to stun threshold",
+                "level": "29",
+                "values": [
+                    [
+                        "73",
+                        "97"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots",
+                    "body-armour",
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(98–124) to stun threshold",
+                "level": "36",
+                "values": [
+                    [
+                        "98",
+                        "124"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots",
+                    "body-armour",
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(125–163) to stun threshold",
+                "level": "45",
+                "values": [
+                    [
+                        "125",
+                        "163"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots",
+                    "body-armour",
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(164–206) to stun threshold",
+                "level": "54",
+                "values": [
+                    [
+                        "164",
+                        "206"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots",
+                    "body-armour",
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(207–253) to stun threshold",
+                "level": "63",
+                "values": [
+                    [
+                        "207",
+                        "253"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots",
+                    "body-armour",
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(254–304) to stun threshold",
+                "level": "72",
+                "values": [
+                    [
+                        "254",
+                        "304"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots",
+                    "body-armour",
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(305–352) to stun threshold",
+                "level": "80",
+                "values": [
+                    [
+                        "305",
+                        "352"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            }
+        ],
+        "#% additional physical damage reduction": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "4% additional physical damage reduction",
+                "level": "32",
+                "values": [
+                    [
+                        "4"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "5% additional physical damage reduction",
+                "level": "41",
+                "values": [
+                    [
+                        "5"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "6% additional physical damage reduction",
+                "level": "53",
+                "values": [
+                    [
+                        "6"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "7% additional physical damage reduction",
+                "level": "66",
+                "values": [
+                    [
+                        "7"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "8% additional physical damage reduction",
+                "level": "77",
+                "values": [
+                    [
+                        "8"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            }
+        ],
+        "#% to maximum fire resistance": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+1% to maximum fire resistance",
+                "level": "68",
+                "values": [
+                    [
+                        "1"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+2% to maximum fire resistance",
+                "level": "75",
+                "values": [
+                    [
+                        "2"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+3% to maximum fire resistance",
+                "level": "81",
+                "values": [
+                    [
+                        "3"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            }
+        ],
+        "#% to maximum cold resistance": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+1% to maximum cold resistance",
+                "level": "68",
+                "values": [
+                    [
+                        "1"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+2% to maximum cold resistance",
+                "level": "75",
+                "values": [
+                    [
+                        "2"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+3% to maximum cold resistance",
+                "level": "81",
+                "values": [
+                    [
+                        "3"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            }
+        ],
+        "#% to maximum lightning resistance": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+1% to maximum lightning resistance",
+                "level": "68",
+                "values": [
+                    [
+                        "1"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+2% to maximum lightning resistance",
+                "level": "75",
+                "values": [
+                    [
+                        "2"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+3% to maximum lightning resistance",
+                "level": "81",
+                "values": [
+                    [
+                        "3"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            }
+        ],
+        "#% to maximum chaos resistance": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+1% to maximum chaos resistance",
+                "level": "68",
+                "values": [
+                    [
+                        "1"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+2% to maximum chaos resistance",
+                "level": "75",
+                "values": [
+                    [
+                        "2"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+3% to maximum chaos resistance",
+                "level": "81",
+                "values": [
+                    [
+                        "3"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            }
+        ],
+        "#% to all maximum elemental resistances": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+1% to all maximum elemental resistances",
+                "level": "75",
+                "values": [
+                    [
+                        "1"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+2% to all maximum elemental resistances",
+                "level": "81",
+                "values": [
+                    [
+                        "2"
+                    ]
+                ],
+                "types": [
+                    "shield"
                 ]
             }
         ],
@@ -6809,6 +7692,7 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus"
                 ]
             },
@@ -6825,6 +7709,7 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus"
                 ]
             },
@@ -6841,6 +7726,7 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus"
                 ]
             },
@@ -6857,6 +7743,7 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus"
                 ]
             },
@@ -6873,7 +7760,1451 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
                     "focus"
+                ]
+            }
+        ],
+        "hits against you have #% reduced critical damage bonus": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "hits against you have (21–27)% reduced critical damage bonus",
+                "level": "33",
+                "values": [
+                    [
+                        "21",
+                        "27"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "hits against you have (28–34)% reduced critical damage bonus",
+                "level": "45",
+                "values": [
+                    [
+                        "28",
+                        "34"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "hits against you have (35–41)% reduced critical damage bonus",
+                "level": "58",
+                "values": [
+                    [
+                        "35",
+                        "41"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "hits against you have (42–47)% reduced critical damage bonus",
+                "level": "69",
+                "values": [
+                    [
+                        "42",
+                        "47"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "hits against you have (48–54)% reduced critical damage bonus",
+                "level": "81",
+                "values": [
+                    [
+                        "48",
+                        "54"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            }
+        ],
+        "#% to all elemental resistances": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(3–5)% to all elemental resistances",
+                "level": "12",
+                "values": [
+                    [
+                        "3",
+                        "5"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "amulet",
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(6–8)% to all elemental resistances",
+                "level": "26",
+                "values": [
+                    [
+                        "6",
+                        "8"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "amulet",
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(9–11)% to all elemental resistances",
+                "level": "40",
+                "values": [
+                    [
+                        "9",
+                        "11"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "amulet",
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(12–14)% to all elemental resistances",
+                "level": "54",
+                "values": [
+                    [
+                        "12",
+                        "14"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "amulet",
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(15–16)% to all elemental resistances",
+                "level": "68",
+                "values": [
+                    [
+                        "15",
+                        "16"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "amulet",
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(17–18)% to all elemental resistances",
+                "level": "80",
+                "values": [
+                    [
+                        "17",
+                        "18"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "amulet"
+                ]
+            }
+        ],
+        "leech #% of physical attack damage as life": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "leech (5–5.9)% of physical attack damage as life",
+                "level": "21",
+                "values": [
+                    [
+                        "5",
+                        "5.9"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "leech (6–6.9)% of physical attack damage as life",
+                "level": "38",
+                "values": [
+                    [
+                        "6",
+                        "6.9"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "leech (7–7.9)% of physical attack damage as life",
+                "level": "54",
+                "values": [
+                    [
+                        "7",
+                        "7.9"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "leech (8–8.9)% of physical attack damage as life",
+                "level": "68",
+                "values": [
+                    [
+                        "8",
+                        "8.9"
+                    ]
+                ],
+                "types": [
+                    "gloves"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "leech (9–9.9)% of physical attack damage as life",
+                "level": "81",
+                "values": [
+                    [
+                        "9",
+                        "9.9"
+                    ]
+                ],
+                "types": [
+                    "gloves"
+                ]
+            }
+        ],
+        "leech #% of physical attack damage as mana": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "leech (4–4.9)% of physical attack damage as mana",
+                "level": "21",
+                "values": [
+                    [
+                        "4",
+                        "4.9"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "leech (5–5.9)% of physical attack damage as mana",
+                "level": "38",
+                "values": [
+                    [
+                        "5",
+                        "5.9"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "leech (6–6.9)% of physical attack damage as mana",
+                "level": "54",
+                "values": [
+                    [
+                        "6",
+                        "6.9"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "leech (7–7.9)% of physical attack damage as mana",
+                "level": "68",
+                "values": [
+                    [
+                        "7",
+                        "7.9"
+                    ]
+                ],
+                "types": [
+                    "gloves"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "leech (8–8.9)% of physical attack damage as mana",
+                "level": "81",
+                "values": [
+                    [
+                        "8",
+                        "8.9"
+                    ]
+                ],
+                "types": [
+                    "gloves"
+                ]
+            }
+        ],
+        "gain # life per enemy hit with attacks": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "gain 2 life per enemy hit with attacks",
+                "level": "8",
+                "values": [
+                    [
+                        "2"
+                    ]
+                ],
+                "types": [
+                    "gloves"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "gain 3 life per enemy hit with attacks",
+                "level": "20",
+                "values": [
+                    [
+                        "3"
+                    ]
+                ],
+                "types": [
+                    "gloves"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "gain 4 life per enemy hit with attacks",
+                "level": "30",
+                "values": [
+                    [
+                        "4"
+                    ]
+                ],
+                "types": [
+                    "gloves"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "gain 5 life per enemy hit with attacks",
+                "level": "40",
+                "values": [
+                    [
+                        "5"
+                    ]
+                ],
+                "types": [
+                    "gloves"
+                ]
+            }
+        ],
+        "#% increased critical damage bonus": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(10–14)% increased critical damage bonus",
+                "level": "8",
+                "values": [
+                    [
+                        "10",
+                        "14"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(15–19)% increased critical damage bonus",
+                "level": "21",
+                "values": [
+                    [
+                        "15",
+                        "19"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(20–24)% increased critical damage bonus",
+                "level": "31",
+                "values": [
+                    [
+                        "20",
+                        "24"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(25–29)% increased critical damage bonus",
+                "level": "45",
+                "values": [
+                    [
+                        "25",
+                        "29"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(30–34)% increased critical damage bonus",
+                "level": "59",
+                "values": [
+                    [
+                        "30",
+                        "34"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(35–39)% increased critical damage bonus",
+                "level": "74",
+                "values": [
+                    [
+                        "35",
+                        "39"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            }
+        ],
+        "#% increased rarity of items found": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(6–10)% increased rarity of items found",
+                "level": "3",
+                "values": [
+                    [
+                        "6",
+                        "10"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "helmet",
+                    "amulet",
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(11–15)% increased rarity of items found",
+                "level": "24",
+                "values": [
+                    [
+                        "11",
+                        "15"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "helmet",
+                    "amulet",
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(16–20)% increased rarity of items found",
+                "level": "40",
+                "values": [
+                    [
+                        "16",
+                        "20"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "helmet",
+                    "amulet",
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(21–25)% increased rarity of items found",
+                "level": "63",
+                "values": [
+                    [
+                        "21",
+                        "25"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "helmet",
+                    "amulet",
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(26–30)% increased rarity of items found",
+                "level": "75",
+                "values": [
+                    [
+                        "26",
+                        "30"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "helmet",
+                    "amulet",
+                    "ring"
+                ]
+            }
+        ],
+        "# life regeneration per second": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(1–2) life regeneration per second",
+                "level": "1",
+                "values": [
+                    [
+                        "1",
+                        "2"
+                    ]
+                ],
+                "types": [
+                    "boots",
+                    "body-armour",
+                    "helmet",
+                    "amulet",
+                    "ring",
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(2.1–3) life regeneration per second",
+                "level": "5",
+                "values": [
+                    [
+                        "2.1",
+                        "3"
+                    ]
+                ],
+                "types": [
+                    "boots",
+                    "body-armour",
+                    "helmet",
+                    "amulet",
+                    "ring",
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(3.1–4) life regeneration per second",
+                "level": "11",
+                "values": [
+                    [
+                        "3.1",
+                        "4"
+                    ]
+                ],
+                "types": [
+                    "boots",
+                    "body-armour",
+                    "helmet",
+                    "amulet",
+                    "ring",
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(4.1–6) life regeneration per second",
+                "level": "17",
+                "values": [
+                    [
+                        "4.1",
+                        "6"
+                    ]
+                ],
+                "types": [
+                    "boots",
+                    "body-armour",
+                    "helmet",
+                    "amulet",
+                    "ring",
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(6.1–9) life regeneration per second",
+                "level": "26",
+                "values": [
+                    [
+                        "6.1",
+                        "9"
+                    ]
+                ],
+                "types": [
+                    "boots",
+                    "body-armour",
+                    "helmet",
+                    "amulet",
+                    "ring",
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(9.1–13) life regeneration per second",
+                "level": "35",
+                "values": [
+                    [
+                        "9.1",
+                        "13"
+                    ]
+                ],
+                "types": [
+                    "boots",
+                    "body-armour",
+                    "helmet",
+                    "amulet",
+                    "ring",
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(13.1–18) life regeneration per second",
+                "level": "47",
+                "values": [
+                    [
+                        "13.1",
+                        "18"
+                    ]
+                ],
+                "types": [
+                    "boots",
+                    "body-armour",
+                    "helmet",
+                    "amulet",
+                    "ring",
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(18.1–23) life regeneration per second",
+                "level": "58",
+                "values": [
+                    [
+                        "18.1",
+                        "23"
+                    ]
+                ],
+                "types": [
+                    "boots",
+                    "body-armour",
+                    "helmet",
+                    "amulet",
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(23.1–29) life regeneration per second",
+                "level": "68",
+                "values": [
+                    [
+                        "23.1",
+                        "29"
+                    ]
+                ],
+                "types": [
+                    "body-armour",
+                    "amulet",
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(29.1–33) life regeneration per second",
+                "level": "75",
+                "values": [
+                    [
+                        "29.1",
+                        "33"
+                    ]
+                ],
+                "types": [
+                    "body-armour",
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(33.1–36) life regeneration per second",
+                "level": "81",
+                "values": [
+                    [
+                        "33.1",
+                        "36"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            }
+        ],
+        "#% reduced shock duration on you": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(36–40)% reduced shock duration on you",
+                "level": "20",
+                "values": [
+                    [
+                        "36",
+                        "40"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(41–45)% reduced shock duration on you",
+                "level": "36",
+                "values": [
+                    [
+                        "41",
+                        "45"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(46–50)% reduced shock duration on you",
+                "level": "49",
+                "values": [
+                    [
+                        "46",
+                        "50"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(51–55)% reduced shock duration on you",
+                "level": "63",
+                "values": [
+                    [
+                        "51",
+                        "55"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(56–60)% reduced shock duration on you",
+                "level": "75",
+                "values": [
+                    [
+                        "56",
+                        "60"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            }
+        ],
+        "#% reduced chill duration on you": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(36–40)% reduced chill duration on you",
+                "level": "20",
+                "values": [
+                    [
+                        "36",
+                        "40"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(41–45)% reduced chill duration on you",
+                "level": "36",
+                "values": [
+                    [
+                        "41",
+                        "45"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(46–50)% reduced chill duration on you",
+                "level": "49",
+                "values": [
+                    [
+                        "46",
+                        "50"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(51–55)% reduced chill duration on you",
+                "level": "63",
+                "values": [
+                    [
+                        "51",
+                        "55"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(56–60)% reduced chill duration on you",
+                "level": "75",
+                "values": [
+                    [
+                        "56",
+                        "60"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            }
+        ],
+        "#% reduced freeze duration on you": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(36–40)% reduced freeze duration on you",
+                "level": "20",
+                "values": [
+                    [
+                        "36",
+                        "40"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(41–45)% reduced freeze duration on you",
+                "level": "36",
+                "values": [
+                    [
+                        "41",
+                        "45"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(46–50)% reduced freeze duration on you",
+                "level": "49",
+                "values": [
+                    [
+                        "46",
+                        "50"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(51–55)% reduced freeze duration on you",
+                "level": "63",
+                "values": [
+                    [
+                        "51",
+                        "55"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(56–60)% reduced freeze duration on you",
+                "level": "75",
+                "values": [
+                    [
+                        "56",
+                        "60"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            }
+        ],
+        "#% reduced bleeding duration on you": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(36–40)% reduced bleeding duration on you",
+                "level": "21",
+                "values": [
+                    [
+                        "36",
+                        "40"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(41–45)% reduced bleeding duration on you",
+                "level": "37",
+                "values": [
+                    [
+                        "41",
+                        "45"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(46–50)% reduced bleeding duration on you",
+                "level": "50",
+                "values": [
+                    [
+                        "46",
+                        "50"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(51–55)% reduced bleeding duration on you",
+                "level": "64",
+                "values": [
+                    [
+                        "51",
+                        "55"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(56–60)% reduced bleeding duration on you",
+                "level": "76",
+                "values": [
+                    [
+                        "56",
+                        "60"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            }
+        ],
+        "#% reduced poison duration on you": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(36–40)% reduced poison duration on you",
+                "level": "21",
+                "values": [
+                    [
+                        "36",
+                        "40"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(41–45)% reduced poison duration on you",
+                "level": "37",
+                "values": [
+                    [
+                        "41",
+                        "45"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(46–50)% reduced poison duration on you",
+                "level": "50",
+                "values": [
+                    [
+                        "46",
+                        "50"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(51–55)% reduced poison duration on you",
+                "level": "64",
+                "values": [
+                    [
+                        "51",
+                        "55"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(56–60)% reduced poison duration on you",
+                "level": "76",
+                "values": [
+                    [
+                        "56",
+                        "60"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            }
+        ],
+        "#% reduced ignite duration on you": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(36–40)% reduced ignite duration on you",
+                "level": "21",
+                "values": [
+                    [
+                        "36",
+                        "40"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(41–45)% reduced ignite duration on you",
+                "level": "37",
+                "values": [
+                    [
+                        "41",
+                        "45"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(46–50)% reduced ignite duration on you",
+                "level": "50",
+                "values": [
+                    [
+                        "46",
+                        "50"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(51–55)% reduced ignite duration on you",
+                "level": "64",
+                "values": [
+                    [
+                        "51",
+                        "55"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(56–60)% reduced ignite duration on you",
+                "level": "76",
+                "values": [
+                    [
+                        "56",
+                        "60"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            }
+        ],
+        "#% increased critical hit chance": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(10–14)% increased critical hit chance",
+                "level": "5",
+                "values": [
+                    [
+                        "10",
+                        "14"
+                    ]
+                ],
+                "types": [
+                    "helmet",
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(15–19)% increased critical hit chance",
+                "level": "20",
+                "values": [
+                    [
+                        "15",
+                        "19"
+                    ]
+                ],
+                "types": [
+                    "helmet",
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(20–24)% increased critical hit chance",
+                "level": "30",
+                "values": [
+                    [
+                        "20",
+                        "24"
+                    ]
+                ],
+                "types": [
+                    "helmet",
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(25–29)% increased critical hit chance",
+                "level": "44",
+                "values": [
+                    [
+                        "25",
+                        "29"
+                    ]
+                ],
+                "types": [
+                    "helmet",
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(30–34)% increased critical hit chance",
+                "level": "58",
+                "values": [
+                    [
+                        "30",
+                        "34"
+                    ]
+                ],
+                "types": [
+                    "helmet",
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(35–38)% increased critical hit chance",
+                "level": "72",
+                "values": [
+                    [
+                        "35",
+                        "38"
+                    ]
+                ],
+                "types": [
+                    "amulet"
                 ]
             }
         ],
@@ -7024,570 +9355,6 @@ var mods2 = {
                 ],
                 "types": [
                     "amulet"
-                ]
-            }
-        ],
-        "#% to all elemental resistances": [
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(3–5)% to all elemental resistances",
-                "level": "12",
-                "values": [
-                    [
-                        "3",
-                        "5"
-                    ]
-                ],
-                "types": [
-                    "amulet",
-                    "ring"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(6–8)% to all elemental resistances",
-                "level": "26",
-                "values": [
-                    [
-                        "6",
-                        "8"
-                    ]
-                ],
-                "types": [
-                    "amulet",
-                    "ring"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(9–11)% to all elemental resistances",
-                "level": "40",
-                "values": [
-                    [
-                        "9",
-                        "11"
-                    ]
-                ],
-                "types": [
-                    "amulet",
-                    "ring"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(12–14)% to all elemental resistances",
-                "level": "54",
-                "values": [
-                    [
-                        "12",
-                        "14"
-                    ]
-                ],
-                "types": [
-                    "amulet",
-                    "ring"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(15–16)% to all elemental resistances",
-                "level": "68",
-                "values": [
-                    [
-                        "15",
-                        "16"
-                    ]
-                ],
-                "types": [
-                    "amulet",
-                    "ring"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(17–18)% to all elemental resistances",
-                "level": "80",
-                "values": [
-                    [
-                        "17",
-                        "18"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            }
-        ],
-        "# life regeneration per second": [
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(1–2) life regeneration per second",
-                "level": "1",
-                "values": [
-                    [
-                        "1",
-                        "2"
-                    ]
-                ],
-                "types": [
-                    "amulet",
-                    "ring",
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(2.1–3) life regeneration per second",
-                "level": "5",
-                "values": [
-                    [
-                        "2.1",
-                        "3"
-                    ]
-                ],
-                "types": [
-                    "amulet",
-                    "ring",
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(3.1–4) life regeneration per second",
-                "level": "11",
-                "values": [
-                    [
-                        "3.1",
-                        "4"
-                    ]
-                ],
-                "types": [
-                    "amulet",
-                    "ring",
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(4.1–6) life regeneration per second",
-                "level": "17",
-                "values": [
-                    [
-                        "4.1",
-                        "6"
-                    ]
-                ],
-                "types": [
-                    "amulet",
-                    "ring",
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(6.1–9) life regeneration per second",
-                "level": "26",
-                "values": [
-                    [
-                        "6.1",
-                        "9"
-                    ]
-                ],
-                "types": [
-                    "amulet",
-                    "ring",
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(9.1–13) life regeneration per second",
-                "level": "35",
-                "values": [
-                    [
-                        "9.1",
-                        "13"
-                    ]
-                ],
-                "types": [
-                    "amulet",
-                    "ring",
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(13.1–18) life regeneration per second",
-                "level": "47",
-                "values": [
-                    [
-                        "13.1",
-                        "18"
-                    ]
-                ],
-                "types": [
-                    "amulet",
-                    "ring",
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(18.1–23) life regeneration per second",
-                "level": "58",
-                "values": [
-                    [
-                        "18.1",
-                        "23"
-                    ]
-                ],
-                "types": [
-                    "amulet",
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(23.1–29) life regeneration per second",
-                "level": "68",
-                "values": [
-                    [
-                        "23.1",
-                        "29"
-                    ]
-                ],
-                "types": [
-                    "amulet",
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(29.1–33) life regeneration per second",
-                "level": "75",
-                "values": [
-                    [
-                        "29.1",
-                        "33"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            }
-        ],
-        "#% increased critical hit chance": [
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(10–14)% increased critical hit chance",
-                "level": "5",
-                "values": [
-                    [
-                        "10",
-                        "14"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(15–19)% increased critical hit chance",
-                "level": "20",
-                "values": [
-                    [
-                        "15",
-                        "19"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(20–24)% increased critical hit chance",
-                "level": "30",
-                "values": [
-                    [
-                        "20",
-                        "24"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(25–29)% increased critical hit chance",
-                "level": "44",
-                "values": [
-                    [
-                        "25",
-                        "29"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(30–34)% increased critical hit chance",
-                "level": "58",
-                "values": [
-                    [
-                        "30",
-                        "34"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(35–38)% increased critical hit chance",
-                "level": "72",
-                "values": [
-                    [
-                        "35",
-                        "38"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            }
-        ],
-        "#% increased critical damage bonus": [
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(10–14)% increased critical damage bonus",
-                "level": "8",
-                "values": [
-                    [
-                        "10",
-                        "14"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(15–19)% increased critical damage bonus",
-                "level": "21",
-                "values": [
-                    [
-                        "15",
-                        "19"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(20–24)% increased critical damage bonus",
-                "level": "31",
-                "values": [
-                    [
-                        "20",
-                        "24"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(25–29)% increased critical damage bonus",
-                "level": "45",
-                "values": [
-                    [
-                        "25",
-                        "29"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(30–34)% increased critical damage bonus",
-                "level": "59",
-                "values": [
-                    [
-                        "30",
-                        "34"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(35–39)% increased critical damage bonus",
-                "level": "74",
-                "values": [
-                    [
-                        "35",
-                        "39"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            }
-        ],
-        "#% increased rarity of items found": [
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(6–10)% increased rarity of items found",
-                "level": "3",
-                "values": [
-                    [
-                        "6",
-                        "10"
-                    ]
-                ],
-                "types": [
-                    "amulet",
-                    "ring"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(11–15)% increased rarity of items found",
-                "level": "24",
-                "values": [
-                    [
-                        "11",
-                        "15"
-                    ]
-                ],
-                "types": [
-                    "amulet",
-                    "ring"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(16–20)% increased rarity of items found",
-                "level": "40",
-                "values": [
-                    [
-                        "16",
-                        "20"
-                    ]
-                ],
-                "types": [
-                    "amulet",
-                    "ring"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(21–25)% increased rarity of items found",
-                "level": "63",
-                "values": [
-                    [
-                        "21",
-                        "25"
-                    ]
-                ],
-                "types": [
-                    "amulet",
-                    "ring"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(26–30)% increased rarity of items found",
-                "level": "75",
-                "values": [
-                    [
-                        "26",
-                        "30"
-                    ]
-                ],
-                "types": [
-                    "amulet",
-                    "ring"
                 ]
             }
         ],
@@ -7752,268 +9519,6 @@ var mods2 = {
                 ],
                 "types": [
                     "amulet"
-                ]
-            }
-        ],
-        "leech #% of physical attack damage as life": [
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "leech (5–5.9)% of physical attack damage as life",
-                "level": "21",
-                "values": [
-                    [
-                        "5",
-                        "5.9"
-                    ]
-                ],
-                "types": [
-                    "ring"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "leech (6–6.9)% of physical attack damage as life",
-                "level": "38",
-                "values": [
-                    [
-                        "6",
-                        "6.9"
-                    ]
-                ],
-                "types": [
-                    "ring"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "leech (7–7.9)% of physical attack damage as life",
-                "level": "54",
-                "values": [
-                    [
-                        "7",
-                        "7.9"
-                    ]
-                ],
-                "types": [
-                    "ring"
-                ]
-            }
-        ],
-        "leech #% of physical attack damage as mana": [
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "leech (4–4.9)% of physical attack damage as mana",
-                "level": "21",
-                "values": [
-                    [
-                        "4",
-                        "4.9"
-                    ]
-                ],
-                "types": [
-                    "ring"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "leech (5–5.9)% of physical attack damage as mana",
-                "level": "38",
-                "values": [
-                    [
-                        "5",
-                        "5.9"
-                    ]
-                ],
-                "types": [
-                    "ring"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "leech (6–6.9)% of physical attack damage as mana",
-                "level": "54",
-                "values": [
-                    [
-                        "6",
-                        "6.9"
-                    ]
-                ],
-                "types": [
-                    "ring"
-                ]
-            }
-        ],
-        "# to stun threshold": [
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(6–11) to stun threshold",
-                "level": "1",
-                "values": [
-                    [
-                        "6",
-                        "11"
-                    ]
-                ],
-                "types": [
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(12–29) to stun threshold",
-                "level": "8",
-                "values": [
-                    [
-                        "12",
-                        "29"
-                    ]
-                ],
-                "types": [
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(30–49) to stun threshold",
-                "level": "15",
-                "values": [
-                    [
-                        "30",
-                        "49"
-                    ]
-                ],
-                "types": [
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(50–72) to stun threshold",
-                "level": "22",
-                "values": [
-                    [
-                        "50",
-                        "72"
-                    ]
-                ],
-                "types": [
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(73–97) to stun threshold",
-                "level": "29",
-                "values": [
-                    [
-                        "73",
-                        "97"
-                    ]
-                ],
-                "types": [
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(98–124) to stun threshold",
-                "level": "36",
-                "values": [
-                    [
-                        "98",
-                        "124"
-                    ]
-                ],
-                "types": [
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(125–163) to stun threshold",
-                "level": "45",
-                "values": [
-                    [
-                        "125",
-                        "163"
-                    ]
-                ],
-                "types": [
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(164–206) to stun threshold",
-                "level": "54",
-                "values": [
-                    [
-                        "164",
-                        "206"
-                    ]
-                ],
-                "types": [
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(207–253) to stun threshold",
-                "level": "63",
-                "values": [
-                    [
-                        "207",
-                        "253"
-                    ]
-                ],
-                "types": [
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(254–304) to stun threshold",
-                "level": "72",
-                "values": [
-                    [
-                        "254",
-                        "304"
-                    ]
-                ],
-                "types": [
-                    "belt"
                 ]
             }
         ],
@@ -11338,6 +12843,8 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "gloves",
+                    "helmet",
                     "amulet",
                     "ring"
                 ]
@@ -11369,6 +12876,8 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "gloves",
+                    "helmet",
                     "amulet",
                     "ring"
                 ]
@@ -11400,6 +12909,8 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "gloves",
+                    "helmet",
                     "amulet",
                     "ring"
                 ]
@@ -11431,6 +12942,8 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "gloves",
+                    "helmet",
                     "amulet",
                     "ring"
                 ]
@@ -11462,6 +12975,8 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "gloves",
+                    "helmet",
                     "amulet",
                     "ring"
                 ]
@@ -11493,6 +13008,8 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "gloves",
+                    "helmet",
                     "amulet",
                     "ring"
                 ]
@@ -11524,6 +13041,8 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "gloves",
+                    "helmet",
                     "amulet",
                     "ring"
                 ]
@@ -11555,6 +13074,8 @@ var mods2 = {
                     "quarterstaff",
                     "crossbow",
                     "quiver",
+                    "gloves",
+                    "helmet",
                     "amulet",
                     "ring"
                 ]
@@ -11585,7 +13106,9 @@ var mods2 = {
                     "two-hand-mace",
                     "quarterstaff",
                     "crossbow",
-                    "quiver"
+                    "quiver",
+                    "gloves",
+                    "helmet"
                 ]
             },
             {
@@ -11882,7 +13405,11 @@ var mods2 = {
                 "types": [
                     "wand",
                     "sceptre",
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -11919,7 +13446,11 @@ var mods2 = {
                 "types": [
                     "wand",
                     "sceptre",
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -11956,7 +13487,11 @@ var mods2 = {
                 "types": [
                     "wand",
                     "sceptre",
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -11993,7 +13528,11 @@ var mods2 = {
                 "types": [
                     "wand",
                     "sceptre",
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -12030,7 +13569,11 @@ var mods2 = {
                 "types": [
                     "wand",
                     "sceptre",
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -12067,7 +13610,11 @@ var mods2 = {
                 "types": [
                     "wand",
                     "sceptre",
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -12104,7 +13651,11 @@ var mods2 = {
                 "types": [
                     "wand",
                     "sceptre",
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -12141,7 +13692,11 @@ var mods2 = {
                 "types": [
                     "wand",
                     "sceptre",
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -12178,7 +13733,11 @@ var mods2 = {
                 "types": [
                     "wand",
                     "sceptre",
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -12215,7 +13774,11 @@ var mods2 = {
                 "types": [
                     "wand",
                     "sceptre",
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -12252,7 +13815,11 @@ var mods2 = {
                 "types": [
                     "wand",
                     "sceptre",
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -12289,7 +13856,11 @@ var mods2 = {
                 "types": [
                     "wand",
                     "sceptre",
+                    "shield",
                     "focus",
+                    "gloves",
+                    "boots",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -12344,6 +13915,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -12393,6 +13965,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -12442,6 +14015,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -12475,6 +14049,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -12524,6 +14099,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -12573,6 +14149,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -12622,6 +14199,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -12671,6 +14249,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -12988,6 +14567,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -13037,6 +14617,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -13086,6 +14667,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -13119,6 +14701,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -13168,6 +14751,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -13217,6 +14801,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -13266,6 +14851,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -13315,6 +14901,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -13350,6 +14937,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -13399,6 +14987,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -13432,6 +15021,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -13481,6 +15071,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -13530,6 +15121,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -13579,6 +15171,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -13628,6 +15221,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -13677,6 +15271,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -13712,6 +15307,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -13761,6 +15357,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -13810,6 +15407,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -13843,6 +15441,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -13892,6 +15491,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -13941,6 +15541,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -13990,6 +15591,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -14039,6 +15641,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -14074,6 +15677,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -14123,6 +15727,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -14156,6 +15761,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -14205,6 +15811,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -14254,6 +15861,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -14303,6 +15911,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -14352,6 +15961,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -14401,6 +16011,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -14436,6 +16047,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -14469,6 +16081,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -14502,6 +16115,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -14535,6 +16149,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -14568,6 +16183,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -14601,6 +16217,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -14634,6 +16251,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -14667,6 +16285,7 @@ var mods2 = {
                 ],
                 "types": [
                     "wand",
+                    "shield",
                     "focus"
                 ]
             },
@@ -16273,6 +17892,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16294,6 +17914,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16315,6 +17936,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16336,6 +17958,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16357,6 +17980,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16378,6 +18002,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16399,6 +18024,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16420,6 +18046,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16441,6 +18068,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             }
@@ -16464,6 +18092,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16485,6 +18114,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16506,6 +18136,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16527,6 +18158,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16548,6 +18180,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16569,6 +18202,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16590,6 +18224,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16611,6 +18246,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16632,6 +18268,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             }
@@ -16655,6 +18292,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16676,6 +18314,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16697,6 +18336,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16718,6 +18358,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16739,6 +18380,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16760,6 +18402,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16781,6 +18424,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16802,6 +18446,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16823,6 +18468,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             }
@@ -16845,6 +18491,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16865,6 +18512,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16885,6 +18533,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16905,6 +18554,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16925,6 +18575,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16946,6 +18597,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16967,6 +18619,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -16988,6 +18641,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             },
@@ -17009,6 +18663,7 @@ var mods2 = {
                 ],
                 "types": [
                     "quiver",
+                    "gloves",
                     "ring"
                 ]
             }
@@ -17207,6 +18862,11 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -17225,6 +18885,11 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -17243,6 +18908,11 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -17261,6 +18931,11 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -17279,6 +18954,11 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -17297,6 +18977,11 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -17315,6 +19000,11 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -17333,6 +19023,11 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "ring",
                     "belt"
@@ -17351,6 +19046,11 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet",
                     "amulet",
                     "belt"
                 ]
@@ -17368,7 +19068,6568 @@ var mods2 = {
                     ]
                 ],
                 "types": [
+                    "shield",
+                    "body-armour",
+                    "helmet",
                     "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(175–189) to maximum life",
+                "level": "74",
+                "values": [
+                    [
+                        "175",
+                        "189"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(190–199) to maximum life",
+                "level": "78",
+                "values": [
+                    [
+                        "190",
+                        "199"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(200–214) to maximum life",
+                "level": "82",
+                "values": [
+                    [
+                        "200",
+                        "214"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            }
+        ],
+        "# to armour": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(16–27) to armour",
+                "level": "1",
+                "values": [
+                    [
+                        "16",
+                        "27"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(12–22) to armour",
+                "level": "1",
+                "values": [
+                    [
+                        "12",
+                        "22"
+                    ]
+                ],
+                "types": [
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(28–50) to armour",
+                "level": "11",
+                "values": [
+                    [
+                        "28",
+                        "50"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(23–42) to armour",
+                "level": "11",
+                "values": [
+                    [
+                        "23",
+                        "42"
+                    ]
+                ],
+                "types": [
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(51–68) to armour",
+                "level": "17",
+                "values": [
+                    [
+                        "51",
+                        "68"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(43–54) to armour",
+                "level": "17",
+                "values": [
+                    [
+                        "43",
+                        "54"
+                    ]
+                ],
+                "types": [
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(69–82) to armour",
+                "level": "23",
+                "values": [
+                    [
+                        "69",
+                        "82"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(55–81) to armour",
+                "level": "28",
+                "values": [
+                    [
+                        "55",
+                        "81"
+                    ]
+                ],
+                "types": [
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(83–102) to armour",
+                "level": "29",
+                "values": [
+                    [
+                        "83",
+                        "102"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(103–122) to armour",
+                "level": "35",
+                "values": [
+                    [
+                        "103",
+                        "122"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(82–106) to armour",
+                "level": "37",
+                "values": [
+                    [
+                        "82",
+                        "106"
+                    ]
+                ],
+                "types": [
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(123–160) to armour",
+                "level": "47",
+                "values": [
+                    [
+                        "123",
+                        "160"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(107–138) to armour",
+                "level": "48",
+                "values": [
+                    [
+                        "107",
+                        "138"
+                    ]
+                ],
+                "types": [
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(139–168) to armour",
+                "level": "57",
+                "values": [
+                    [
+                        "139",
+                        "168"
+                    ]
+                ],
+                "types": [
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(161–202) to armour",
+                "level": "59",
+                "values": [
+                    [
+                        "161",
+                        "202"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(203–225) to armour",
+                "level": "66",
+                "values": [
+                    [
+                        "203",
+                        "225"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(169–195) to armour",
+                "level": "66",
+                "values": [
+                    [
+                        "169",
+                        "195"
+                    ]
+                ],
+                "types": [
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(226–256) to armour",
+                "level": "74",
+                "values": [
+                    [
+                        "226",
+                        "256"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(196–224) to armour",
+                "level": "74",
+                "values": [
+                    [
+                        "196",
+                        "224"
+                    ]
+                ],
+                "types": [
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(257–276) to armour",
+                "level": "79",
+                "values": [
+                    [
+                        "257",
+                        "276"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(225–255) to armour",
+                "level": "82",
+                "values": [
+                    [
+                        "225",
+                        "255"
+                    ]
+                ],
+                "types": [
+                    "belt"
+                ]
+            }
+        ],
+        "#% increased armour": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(15–26)% increased armour",
+                "level": "2",
+                "values": [
+                    [
+                        "15",
+                        "26"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(10–13)% increased armour",
+                "level": "2",
+                "values": [
+                    [
+                        "10",
+                        "13"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(27–42)% increased armour",
+                "level": "15",
+                "values": [
+                    [
+                        "27",
+                        "42"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(15–20)% increased armour",
+                "level": "18",
+                "values": [
+                    [
+                        "15",
+                        "20"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(43–55)% increased armour",
+                "level": "27",
+                "values": [
+                    [
+                        "43",
+                        "55"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(21–26)% increased armour",
+                "level": "30",
+                "values": [
+                    [
+                        "21",
+                        "26"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(56–67)% increased armour",
+                "level": "39",
+                "values": [
+                    [
+                        "56",
+                        "67"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(27–32)% increased armour",
+                "level": "42",
+                "values": [
+                    [
+                        "27",
+                        "32"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(68–79)% increased armour",
+                "level": "51",
+                "values": [
+                    [
+                        "68",
+                        "79"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(33–38)% increased armour",
+                "level": "56",
+                "values": [
+                    [
+                        "33",
+                        "38"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(80–91)% increased armour",
+                "level": "66",
+                "values": [
+                    [
+                        "80",
+                        "91"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(39–44)% increased armour",
+                "level": "70",
+                "values": [
+                    [
+                        "39",
+                        "44"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(92–100)% increased armour",
+                "level": "75",
+                "values": [
+                    [
+                        "92",
+                        "100"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(45–50)% increased armour",
+                "level": "77",
+                "values": [
+                    [
+                        "45",
+                        "50"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(101–110)% increased armour",
+                "level": "82",
+                "values": [
+                    [
+                        "101",
+                        "110"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour"
+                ]
+            }
+        ],
+        "#% increased armour|||||# to stun threshold": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(6–13)% increased armour|||||+(8–13) to stun threshold",
+                "level": "10",
+                "values": [
+                    [
+                        "6",
+                        "13"
+                    ],
+                    [
+                        "8",
+                        "13"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(14–20)% increased armour|||||+(14–24) to stun threshold",
+                "level": "19",
+                "values": [
+                    [
+                        "14",
+                        "20"
+                    ],
+                    [
+                        "14",
+                        "24"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(21–26)% increased armour|||||+(25–40) to stun threshold",
+                "level": "30",
+                "values": [
+                    [
+                        "21",
+                        "26"
+                    ],
+                    [
+                        "25",
+                        "40"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(27–32)% increased armour|||||+(41–63) to stun threshold",
+                "level": "44",
+                "values": [
+                    [
+                        "27",
+                        "32"
+                    ],
+                    [
+                        "41",
+                        "63"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(33–38)% increased armour|||||+(64–94) to stun threshold",
+                "level": "60",
+                "values": [
+                    [
+                        "33",
+                        "38"
+                    ],
+                    [
+                        "64",
+                        "94"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(39–42)% increased armour|||||+(95–136) to stun threshold",
+                "level": "78",
+                "values": [
+                    [
+                        "39",
+                        "42"
+                    ],
+                    [
+                        "95",
+                        "136"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            }
+        ],
+        "# to # physical thorns damage": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(1–2) to (3–4) physical thorns damage",
+                "level": "1",
+                "values": [
+                    [
+                        "1",
+                        "2"
+                    ],
+                    [
+                        "3",
+                        "4"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour",
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(4–5) to (6–7) physical thorns damage",
+                "level": "10",
+                "values": [
+                    [
+                        "4",
+                        "5"
+                    ],
+                    [
+                        "6",
+                        "7"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour",
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(7–9) to (10–13) physical thorns damage",
+                "level": "20",
+                "values": [
+                    [
+                        "7",
+                        "9"
+                    ],
+                    [
+                        "10",
+                        "13"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour",
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(12–15) to (18–22) physical thorns damage",
+                "level": "35",
+                "values": [
+                    [
+                        "12",
+                        "15"
+                    ],
+                    [
+                        "18",
+                        "22"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour",
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(17–21) to (26–32) physical thorns damage",
+                "level": "48",
+                "values": [
+                    [
+                        "17",
+                        "21"
+                    ],
+                    [
+                        "26",
+                        "32"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour",
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(23–28) to (35–43) physical thorns damage",
+                "level": "61",
+                "values": [
+                    [
+                        "23",
+                        "28"
+                    ],
+                    [
+                        "35",
+                        "43"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour",
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(31–38) to (46–56) physical thorns damage",
+                "level": "75",
+                "values": [
+                    [
+                        "31",
+                        "38"
+                    ],
+                    [
+                        "46",
+                        "56"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour",
+                    "belt"
+                ]
+            }
+        ],
+        "#% increased block chance": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(40–45)% increased block chance",
+                "level": "2",
+                "values": [
+                    [
+                        "40",
+                        "45"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(46–51)% increased block chance",
+                "level": "15",
+                "values": [
+                    [
+                        "46",
+                        "51"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(52–57)% increased block chance",
+                "level": "30",
+                "values": [
+                    [
+                        "52",
+                        "57"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(58–63)% increased block chance",
+                "level": "46",
+                "values": [
+                    [
+                        "58",
+                        "63"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(64–69)% increased block chance",
+                "level": "61",
+                "values": [
+                    [
+                        "64",
+                        "69"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(70–75)% increased block chance",
+                "level": "74",
+                "values": [
+                    [
+                        "70",
+                        "75"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(76–81)% increased block chance",
+                "level": "82",
+                "values": [
+                    [
+                        "76",
+                        "81"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            }
+        ],
+        "# to evasion rating": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(11–18) to evasion rating",
+                "level": "1",
+                "values": [
+                    [
+                        "11",
+                        "18"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(8–15) to evasion rating",
+                "level": "1",
+                "values": [
+                    [
+                        "8",
+                        "15"
+                    ]
+                ],
+                "types": [
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(19–39) to evasion rating",
+                "level": "11",
+                "values": [
+                    [
+                        "19",
+                        "39"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(16–33) to evasion rating",
+                "level": "11",
+                "values": [
+                    [
+                        "16",
+                        "33"
+                    ]
+                ],
+                "types": [
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(40–56) to evasion rating",
+                "level": "17",
+                "values": [
+                    [
+                        "40",
+                        "56"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(34–44) to evasion rating",
+                "level": "17",
+                "values": [
+                    [
+                        "34",
+                        "44"
+                    ]
+                ],
+                "types": [
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(57–70) to evasion rating",
+                "level": "23",
+                "values": [
+                    [
+                        "57",
+                        "70"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(45–69) to evasion rating",
+                "level": "28",
+                "values": [
+                    [
+                        "45",
+                        "69"
+                    ]
+                ],
+                "types": [
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(71–88) to evasion rating",
+                "level": "29",
+                "values": [
+                    [
+                        "71",
+                        "88"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(89–107) to evasion rating",
+                "level": "35",
+                "values": [
+                    [
+                        "89",
+                        "107"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(70–93) to evasion rating",
+                "level": "37",
+                "values": [
+                    [
+                        "70",
+                        "93"
+                    ]
+                ],
+                "types": [
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(108–142) to evasion rating",
+                "level": "47",
+                "values": [
+                    [
+                        "108",
+                        "142"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(94–123) to evasion rating",
+                "level": "48",
+                "values": [
+                    [
+                        "94",
+                        "123"
+                    ]
+                ],
+                "types": [
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(124–151) to evasion rating",
+                "level": "57",
+                "values": [
+                    [
+                        "124",
+                        "151"
+                    ]
+                ],
+                "types": [
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(143–181) to evasion rating",
+                "level": "59",
+                "values": [
+                    [
+                        "143",
+                        "181"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(182–204) to evasion rating",
+                "level": "66",
+                "values": [
+                    [
+                        "182",
+                        "204"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(152–176) to evasion rating",
+                "level": "66",
+                "values": [
+                    [
+                        "152",
+                        "176"
+                    ]
+                ],
+                "types": [
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(205–232) to evasion rating",
+                "level": "74",
+                "values": [
+                    [
+                        "205",
+                        "232"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(177–203) to evasion rating",
+                "level": "74",
+                "values": [
+                    [
+                        "177",
+                        "203"
+                    ]
+                ],
+                "types": [
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(233–251) to evasion rating",
+                "level": "79",
+                "values": [
+                    [
+                        "233",
+                        "251"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            }
+        ],
+        "#% increased evasion rating": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(15–26)% increased evasion rating",
+                "level": "2",
+                "values": [
+                    [
+                        "15",
+                        "26"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(10–13)% increased evasion rating",
+                "level": "2",
+                "values": [
+                    [
+                        "10",
+                        "13"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(27–42)% increased evasion rating",
+                "level": "15",
+                "values": [
+                    [
+                        "27",
+                        "42"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(15–20)% increased evasion rating",
+                "level": "18",
+                "values": [
+                    [
+                        "15",
+                        "20"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(43–55)% increased evasion rating",
+                "level": "27",
+                "values": [
+                    [
+                        "43",
+                        "55"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(21–26)% increased evasion rating",
+                "level": "30",
+                "values": [
+                    [
+                        "21",
+                        "26"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(56–67)% increased evasion rating",
+                "level": "39",
+                "values": [
+                    [
+                        "56",
+                        "67"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(27–32)% increased evasion rating",
+                "level": "42",
+                "values": [
+                    [
+                        "27",
+                        "32"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(68–79)% increased evasion rating",
+                "level": "51",
+                "values": [
+                    [
+                        "68",
+                        "79"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(33–38)% increased evasion rating",
+                "level": "56",
+                "values": [
+                    [
+                        "33",
+                        "38"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(80–91)% increased evasion rating",
+                "level": "66",
+                "values": [
+                    [
+                        "80",
+                        "91"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(39–44)% increased evasion rating",
+                "level": "70",
+                "values": [
+                    [
+                        "39",
+                        "44"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(92–100)% increased evasion rating",
+                "level": "75",
+                "values": [
+                    [
+                        "92",
+                        "100"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(45–50)% increased evasion rating",
+                "level": "77",
+                "values": [
+                    [
+                        "45",
+                        "50"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(101–110)% increased evasion rating",
+                "level": "82",
+                "values": [
+                    [
+                        "101",
+                        "110"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour"
+                ]
+            }
+        ],
+        "#% increased evasion rating|||||# to stun threshold": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(6–13)% increased evasion rating|||||+(8–13) to stun threshold",
+                "level": "10",
+                "values": [
+                    [
+                        "6",
+                        "13"
+                    ],
+                    [
+                        "8",
+                        "13"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(14–20)% increased evasion rating|||||+(14–24) to stun threshold",
+                "level": "19",
+                "values": [
+                    [
+                        "14",
+                        "20"
+                    ],
+                    [
+                        "14",
+                        "24"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(21–26)% increased evasion rating|||||+(25–40) to stun threshold",
+                "level": "30",
+                "values": [
+                    [
+                        "21",
+                        "26"
+                    ],
+                    [
+                        "25",
+                        "40"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(27–32)% increased evasion rating|||||+(41–63) to stun threshold",
+                "level": "44",
+                "values": [
+                    [
+                        "27",
+                        "32"
+                    ],
+                    [
+                        "41",
+                        "63"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(33–38)% increased evasion rating|||||+(64–94) to stun threshold",
+                "level": "60",
+                "values": [
+                    [
+                        "33",
+                        "38"
+                    ],
+                    [
+                        "64",
+                        "94"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(39–42)% increased evasion rating|||||+(95–136) to stun threshold",
+                "level": "78",
+                "values": [
+                    [
+                        "39",
+                        "42"
+                    ],
+                    [
+                        "95",
+                        "136"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            }
+        ],
+        "# to maximum energy shield": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(10–17) to maximum energy shield",
+                "level": "1",
+                "values": [
+                    [
+                        "10",
+                        "17"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(8–14) to maximum energy shield",
+                "level": "1",
+                "values": [
+                    [
+                        "8",
+                        "14"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(18–24) to maximum energy shield",
+                "level": "11",
+                "values": [
+                    [
+                        "18",
+                        "24"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(15–20) to maximum energy shield",
+                "level": "11",
+                "values": [
+                    [
+                        "15",
+                        "20"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(25–30) to maximum energy shield",
+                "level": "17",
+                "values": [
+                    [
+                        "25",
+                        "30"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(21–24) to maximum energy shield",
+                "level": "17",
+                "values": [
+                    [
+                        "21",
+                        "24"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(31–35) to maximum energy shield",
+                "level": "23",
+                "values": [
+                    [
+                        "31",
+                        "35"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(25–33) to maximum energy shield",
+                "level": "28",
+                "values": [
+                    [
+                        "25",
+                        "33"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(36–41) to maximum energy shield",
+                "level": "29",
+                "values": [
+                    [
+                        "36",
+                        "41"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(42–47) to maximum energy shield",
+                "level": "35",
+                "values": [
+                    [
+                        "42",
+                        "47"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(34–41) to maximum energy shield",
+                "level": "37",
+                "values": [
+                    [
+                        "34",
+                        "41"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(48–60) to maximum energy shield",
+                "level": "47",
+                "values": [
+                    [
+                        "48",
+                        "60"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(42–51) to maximum energy shield",
+                "level": "48",
+                "values": [
+                    [
+                        "42",
+                        "51"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(52–61) to maximum energy shield",
+                "level": "57",
+                "values": [
+                    [
+                        "52",
+                        "61"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(61–73) to maximum energy shield",
+                "level": "59",
+                "values": [
+                    [
+                        "61",
+                        "73"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(74–80) to maximum energy shield",
+                "level": "66",
+                "values": [
+                    [
+                        "74",
+                        "80"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(62–70) to maximum energy shield",
+                "level": "66",
+                "values": [
+                    [
+                        "62",
+                        "70"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(81–90) to maximum energy shield",
+                "level": "74",
+                "values": [
+                    [
+                        "81",
+                        "90"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(71–79) to maximum energy shield",
+                "level": "74",
+                "values": [
+                    [
+                        "71",
+                        "79"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(91–96) to maximum energy shield",
+                "level": "79",
+                "values": [
+                    [
+                        "91",
+                        "96"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(80–89) to maximum energy shield",
+                "level": "82",
+                "values": [
+                    [
+                        "80",
+                        "89"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            }
+        ],
+        "#% increased energy shield": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(15–26)% increased energy shield",
+                "level": "2",
+                "values": [
+                    [
+                        "15",
+                        "26"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(27–42)% increased energy shield",
+                "level": "15",
+                "values": [
+                    [
+                        "27",
+                        "42"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(43–55)% increased energy shield",
+                "level": "27",
+                "values": [
+                    [
+                        "43",
+                        "55"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(56–67)% increased energy shield",
+                "level": "39",
+                "values": [
+                    [
+                        "56",
+                        "67"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(68–79)% increased energy shield",
+                "level": "51",
+                "values": [
+                    [
+                        "68",
+                        "79"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(80–91)% increased energy shield",
+                "level": "66",
+                "values": [
+                    [
+                        "80",
+                        "91"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(92–100)% increased energy shield",
+                "level": "75",
+                "values": [
+                    [
+                        "92",
+                        "100"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(101–110)% increased energy shield",
+                "level": "82",
+                "values": [
+                    [
+                        "101",
+                        "110"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour"
+                ]
+            }
+        ],
+        "# to armour|||||# to evasion rating": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(8–14) to armour|||||+(6–9) to evasion rating",
+                "level": "1",
+                "values": [
+                    [
+                        "8",
+                        "14"
+                    ],
+                    [
+                        "6",
+                        "9"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(15–35) to armour|||||+(10–30) to evasion rating",
+                "level": "18",
+                "values": [
+                    [
+                        "15",
+                        "35"
+                    ],
+                    [
+                        "10",
+                        "30"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(36–53) to armour|||||+(31–46) to evasion rating",
+                "level": "30",
+                "values": [
+                    [
+                        "36",
+                        "53"
+                    ],
+                    [
+                        "31",
+                        "46"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(54–65) to armour|||||+(47–57) to evasion rating",
+                "level": "38",
+                "values": [
+                    [
+                        "54",
+                        "65"
+                    ],
+                    [
+                        "47",
+                        "57"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(66–78) to armour|||||+(58–69) to evasion rating",
+                "level": "46",
+                "values": [
+                    [
+                        "66",
+                        "78"
+                    ],
+                    [
+                        "58",
+                        "69"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(79–98) to armour|||||+(70–88) to evasion rating",
+                "level": "58",
+                "values": [
+                    [
+                        "79",
+                        "98"
+                    ],
+                    [
+                        "70",
+                        "88"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(99–117) to armour|||||+(89–107) to evasion rating",
+                "level": "69",
+                "values": [
+                    [
+                        "99",
+                        "117"
+                    ],
+                    [
+                        "89",
+                        "107"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(118–138) to armour|||||+(108–126) to evasion rating",
+                "level": "79",
+                "values": [
+                    [
+                        "118",
+                        "138"
+                    ],
+                    [
+                        "108",
+                        "126"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            }
+        ],
+        "#% increased armour and evasion": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(15–26)% increased armour and evasion",
+                "level": "2",
+                "values": [
+                    [
+                        "15",
+                        "26"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(27–42)% increased armour and evasion",
+                "level": "15",
+                "values": [
+                    [
+                        "27",
+                        "42"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(43–55)% increased armour and evasion",
+                "level": "27",
+                "values": [
+                    [
+                        "43",
+                        "55"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(56–67)% increased armour and evasion",
+                "level": "39",
+                "values": [
+                    [
+                        "56",
+                        "67"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(68–79)% increased armour and evasion",
+                "level": "51",
+                "values": [
+                    [
+                        "68",
+                        "79"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(80–91)% increased armour and evasion",
+                "level": "66",
+                "values": [
+                    [
+                        "80",
+                        "91"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(92–100)% increased armour and evasion",
+                "level": "75",
+                "values": [
+                    [
+                        "92",
+                        "100"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(101–110)% increased armour and evasion",
+                "level": "82",
+                "values": [
+                    [
+                        "101",
+                        "110"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour"
+                ]
+            }
+        ],
+        "#% increased armour and evasion|||||# to stun threshold": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(6–13)% increased armour and evasion|||||+(8–13) to stun threshold",
+                "level": "10",
+                "values": [
+                    [
+                        "6",
+                        "13"
+                    ],
+                    [
+                        "8",
+                        "13"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(14–20)% increased armour and evasion|||||+(14–24) to stun threshold",
+                "level": "19",
+                "values": [
+                    [
+                        "14",
+                        "20"
+                    ],
+                    [
+                        "14",
+                        "24"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(21–26)% increased armour and evasion|||||+(25–40) to stun threshold",
+                "level": "30",
+                "values": [
+                    [
+                        "21",
+                        "26"
+                    ],
+                    [
+                        "25",
+                        "40"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(27–32)% increased armour and evasion|||||+(41–63) to stun threshold",
+                "level": "44",
+                "values": [
+                    [
+                        "27",
+                        "32"
+                    ],
+                    [
+                        "41",
+                        "63"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(33–38)% increased armour and evasion|||||+(64–94) to stun threshold",
+                "level": "60",
+                "values": [
+                    [
+                        "33",
+                        "38"
+                    ],
+                    [
+                        "64",
+                        "94"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(39–42)% increased armour and evasion|||||+(95–136) to stun threshold",
+                "level": "78",
+                "values": [
+                    [
+                        "39",
+                        "42"
+                    ],
+                    [
+                        "95",
+                        "136"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            }
+        ],
+        "# to armour|||||# to maximum energy shield": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(8–14) to armour|||||+(5–8) to maximum energy shield",
+                "level": "1",
+                "values": [
+                    [
+                        "8",
+                        "14"
+                    ],
+                    [
+                        "5",
+                        "8"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(15–35) to armour|||||+(9–15) to maximum energy shield",
+                "level": "18",
+                "values": [
+                    [
+                        "15",
+                        "35"
+                    ],
+                    [
+                        "9",
+                        "15"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(36–53) to armour|||||+(16–21) to maximum energy shield",
+                "level": "30",
+                "values": [
+                    [
+                        "36",
+                        "53"
+                    ],
+                    [
+                        "16",
+                        "21"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(54–65) to armour|||||+(22–25) to maximum energy shield",
+                "level": "38",
+                "values": [
+                    [
+                        "54",
+                        "65"
+                    ],
+                    [
+                        "22",
+                        "25"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(66–78) to armour|||||+(26–29) to maximum energy shield",
+                "level": "46",
+                "values": [
+                    [
+                        "66",
+                        "78"
+                    ],
+                    [
+                        "26",
+                        "29"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(79–98) to armour|||||+(30–36) to maximum energy shield",
+                "level": "58",
+                "values": [
+                    [
+                        "79",
+                        "98"
+                    ],
+                    [
+                        "30",
+                        "36"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(99–117) to armour|||||+(37–42) to maximum energy shield",
+                "level": "69",
+                "values": [
+                    [
+                        "99",
+                        "117"
+                    ],
+                    [
+                        "37",
+                        "42"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(118–138) to armour|||||+(43–48) to maximum energy shield",
+                "level": "79",
+                "values": [
+                    [
+                        "118",
+                        "138"
+                    ],
+                    [
+                        "43",
+                        "48"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            }
+        ],
+        "#% increased armour and energy shield": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(15–26)% increased armour and energy shield",
+                "level": "2",
+                "values": [
+                    [
+                        "15",
+                        "26"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(27–42)% increased armour and energy shield",
+                "level": "15",
+                "values": [
+                    [
+                        "27",
+                        "42"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(43–55)% increased armour and energy shield",
+                "level": "27",
+                "values": [
+                    [
+                        "43",
+                        "55"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(56–67)% increased armour and energy shield",
+                "level": "39",
+                "values": [
+                    [
+                        "56",
+                        "67"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(68–79)% increased armour and energy shield",
+                "level": "51",
+                "values": [
+                    [
+                        "68",
+                        "79"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(80–91)% increased armour and energy shield",
+                "level": "66",
+                "values": [
+                    [
+                        "80",
+                        "91"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(92–100)% increased armour and energy shield",
+                "level": "75",
+                "values": [
+                    [
+                        "92",
+                        "100"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(101–110)% increased armour and energy shield",
+                "level": "82",
+                "values": [
+                    [
+                        "101",
+                        "110"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour"
+                ]
+            }
+        ],
+        "#% increased armour and energy shield|||||# to stun threshold": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(6–13)% increased armour and energy shield|||||+(8–13) to stun threshold",
+                "level": "10",
+                "values": [
+                    [
+                        "6",
+                        "13"
+                    ],
+                    [
+                        "8",
+                        "13"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(14–20)% increased armour and energy shield|||||+(14–24) to stun threshold",
+                "level": "19",
+                "values": [
+                    [
+                        "14",
+                        "20"
+                    ],
+                    [
+                        "14",
+                        "24"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(21–26)% increased armour and energy shield|||||+(25–40) to stun threshold",
+                "level": "30",
+                "values": [
+                    [
+                        "21",
+                        "26"
+                    ],
+                    [
+                        "25",
+                        "40"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(27–32)% increased armour and energy shield|||||+(41–63) to stun threshold",
+                "level": "44",
+                "values": [
+                    [
+                        "27",
+                        "32"
+                    ],
+                    [
+                        "41",
+                        "63"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(33–38)% increased armour and energy shield|||||+(64–94) to stun threshold",
+                "level": "60",
+                "values": [
+                    [
+                        "33",
+                        "38"
+                    ],
+                    [
+                        "64",
+                        "94"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(39–42)% increased armour and energy shield|||||+(95–136) to stun threshold",
+                "level": "78",
+                "values": [
+                    [
+                        "39",
+                        "42"
+                    ],
+                    [
+                        "95",
+                        "136"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            }
+        ],
+        "# to evasion rating|||||# to maximum energy shield": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(6–9) to evasion rating|||||+(5–8) to maximum energy shield",
+                "level": "1",
+                "values": [
+                    [
+                        "6",
+                        "9"
+                    ],
+                    [
+                        "5",
+                        "8"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(10–30) to evasion rating|||||+(9–15) to maximum energy shield",
+                "level": "18",
+                "values": [
+                    [
+                        "10",
+                        "30"
+                    ],
+                    [
+                        "9",
+                        "15"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(31–46) to evasion rating|||||+(16–21) to maximum energy shield",
+                "level": "30",
+                "values": [
+                    [
+                        "31",
+                        "46"
+                    ],
+                    [
+                        "16",
+                        "21"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(47–57) to evasion rating|||||+(22–25) to maximum energy shield",
+                "level": "38",
+                "values": [
+                    [
+                        "47",
+                        "57"
+                    ],
+                    [
+                        "22",
+                        "25"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(58–69) to evasion rating|||||+(26–29) to maximum energy shield",
+                "level": "46",
+                "values": [
+                    [
+                        "58",
+                        "69"
+                    ],
+                    [
+                        "26",
+                        "29"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(70–88) to evasion rating|||||+(30–36) to maximum energy shield",
+                "level": "58",
+                "values": [
+                    [
+                        "70",
+                        "88"
+                    ],
+                    [
+                        "30",
+                        "36"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(89–107) to evasion rating|||||+(37–42) to maximum energy shield",
+                "level": "69",
+                "values": [
+                    [
+                        "89",
+                        "107"
+                    ],
+                    [
+                        "37",
+                        "42"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(108–126) to evasion rating|||||+(43–48) to maximum energy shield",
+                "level": "79",
+                "values": [
+                    [
+                        "108",
+                        "126"
+                    ],
+                    [
+                        "43",
+                        "48"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            }
+        ],
+        "#% increased evasion and energy shield": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(15–26)% increased evasion and energy shield",
+                "level": "2",
+                "values": [
+                    [
+                        "15",
+                        "26"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(27–42)% increased evasion and energy shield",
+                "level": "15",
+                "values": [
+                    [
+                        "27",
+                        "42"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(43–55)% increased evasion and energy shield",
+                "level": "27",
+                "values": [
+                    [
+                        "43",
+                        "55"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(56–67)% increased evasion and energy shield",
+                "level": "39",
+                "values": [
+                    [
+                        "56",
+                        "67"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(68–79)% increased evasion and energy shield",
+                "level": "51",
+                "values": [
+                    [
+                        "68",
+                        "79"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(80–91)% increased evasion and energy shield",
+                "level": "66",
+                "values": [
+                    [
+                        "80",
+                        "91"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(92–100)% increased evasion and energy shield",
+                "level": "75",
+                "values": [
+                    [
+                        "92",
+                        "100"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(101–110)% increased evasion and energy shield",
+                "level": "82",
+                "values": [
+                    [
+                        "101",
+                        "110"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "body-armour"
+                ]
+            }
+        ],
+        "#% increased evasion and energy shield|||||# to stun threshold": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(6–13)% increased evasion and energy shield|||||+(8–13) to stun threshold",
+                "level": "10",
+                "values": [
+                    [
+                        "6",
+                        "13"
+                    ],
+                    [
+                        "8",
+                        "13"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(14–20)% increased evasion and energy shield|||||+(14–24) to stun threshold",
+                "level": "19",
+                "values": [
+                    [
+                        "14",
+                        "20"
+                    ],
+                    [
+                        "14",
+                        "24"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(21–26)% increased evasion and energy shield|||||+(25–40) to stun threshold",
+                "level": "30",
+                "values": [
+                    [
+                        "21",
+                        "26"
+                    ],
+                    [
+                        "25",
+                        "40"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(27–32)% increased evasion and energy shield|||||+(41–63) to stun threshold",
+                "level": "44",
+                "values": [
+                    [
+                        "27",
+                        "32"
+                    ],
+                    [
+                        "41",
+                        "63"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(33–38)% increased evasion and energy shield|||||+(64–94) to stun threshold",
+                "level": "60",
+                "values": [
+                    [
+                        "33",
+                        "38"
+                    ],
+                    [
+                        "64",
+                        "94"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(39–42)% increased evasion and energy shield|||||+(95–136) to stun threshold",
+                "level": "78",
+                "values": [
+                    [
+                        "39",
+                        "42"
+                    ],
+                    [
+                        "95",
+                        "136"
+                    ]
+                ],
+                "types": [
+                    "shield",
+                    "boots"
+                ]
+            }
+        ],
+        "#% increased armour|||||# to maximum life": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(6–13)% increased armour|||||+(7–10) to maximum life",
+                "level": "10",
+                "values": [
+                    [
+                        "6",
+                        "13"
+                    ],
+                    [
+                        "7",
+                        "10"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(14–20)% increased armour|||||+(11–19) to maximum life",
+                "level": "19",
+                "values": [
+                    [
+                        "14",
+                        "20"
+                    ],
+                    [
+                        "11",
+                        "19"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(21–26)% increased armour|||||+(20–25) to maximum life",
+                "level": "30",
+                "values": [
+                    [
+                        "21",
+                        "26"
+                    ],
+                    [
+                        "20",
+                        "25"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(27–32)% increased armour|||||+(26–32) to maximum life",
+                "level": "44",
+                "values": [
+                    [
+                        "27",
+                        "32"
+                    ],
+                    [
+                        "26",
+                        "32"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(33–38)% increased armour|||||+(33–41) to maximum life",
+                "level": "60",
+                "values": [
+                    [
+                        "33",
+                        "38"
+                    ],
+                    [
+                        "33",
+                        "41"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(39–42)% increased armour|||||+(42–49) to maximum life",
+                "level": "78",
+                "values": [
+                    [
+                        "39",
+                        "42"
+                    ],
+                    [
+                        "42",
+                        "49"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "#% increased evasion rating|||||# to maximum life": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(6–13)% increased evasion rating|||||+(7–10) to maximum life",
+                "level": "10",
+                "values": [
+                    [
+                        "6",
+                        "13"
+                    ],
+                    [
+                        "7",
+                        "10"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(14–20)% increased evasion rating|||||+(11–19) to maximum life",
+                "level": "19",
+                "values": [
+                    [
+                        "14",
+                        "20"
+                    ],
+                    [
+                        "11",
+                        "19"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(21–26)% increased evasion rating|||||+(20–25) to maximum life",
+                "level": "30",
+                "values": [
+                    [
+                        "21",
+                        "26"
+                    ],
+                    [
+                        "20",
+                        "25"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(27–32)% increased evasion rating|||||+(26–32) to maximum life",
+                "level": "44",
+                "values": [
+                    [
+                        "27",
+                        "32"
+                    ],
+                    [
+                        "26",
+                        "32"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(33–38)% increased evasion rating|||||+(33–41) to maximum life",
+                "level": "60",
+                "values": [
+                    [
+                        "33",
+                        "38"
+                    ],
+                    [
+                        "33",
+                        "41"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(39–42)% increased evasion rating|||||+(42–49) to maximum life",
+                "level": "78",
+                "values": [
+                    [
+                        "39",
+                        "42"
+                    ],
+                    [
+                        "42",
+                        "49"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "#% increased energy shield|||||# to maximum life": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(6–13)% increased energy shield|||||+(7–10) to maximum life",
+                "level": "10",
+                "values": [
+                    [
+                        "6",
+                        "13"
+                    ],
+                    [
+                        "7",
+                        "10"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(14–20)% increased energy shield|||||+(11–19) to maximum life",
+                "level": "19",
+                "values": [
+                    [
+                        "14",
+                        "20"
+                    ],
+                    [
+                        "11",
+                        "19"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(21–26)% increased energy shield|||||+(20–25) to maximum life",
+                "level": "30",
+                "values": [
+                    [
+                        "21",
+                        "26"
+                    ],
+                    [
+                        "20",
+                        "25"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(27–32)% increased energy shield|||||+(26–32) to maximum life",
+                "level": "44",
+                "values": [
+                    [
+                        "27",
+                        "32"
+                    ],
+                    [
+                        "26",
+                        "32"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(33–38)% increased energy shield|||||+(33–41) to maximum life",
+                "level": "60",
+                "values": [
+                    [
+                        "33",
+                        "38"
+                    ],
+                    [
+                        "33",
+                        "41"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(39–42)% increased energy shield|||||+(42–49) to maximum life",
+                "level": "78",
+                "values": [
+                    [
+                        "39",
+                        "42"
+                    ],
+                    [
+                        "42",
+                        "49"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "#% increased armour and evasion|||||# to maximum life": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(6–13)% increased armour and evasion|||||+(7–10) to maximum life",
+                "level": "10",
+                "values": [
+                    [
+                        "6",
+                        "13"
+                    ],
+                    [
+                        "7",
+                        "10"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(14–20)% increased armour and evasion|||||+(11–19) to maximum life",
+                "level": "19",
+                "values": [
+                    [
+                        "14",
+                        "20"
+                    ],
+                    [
+                        "11",
+                        "19"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(21–26)% increased armour and evasion|||||+(20–25) to maximum life",
+                "level": "30",
+                "values": [
+                    [
+                        "21",
+                        "26"
+                    ],
+                    [
+                        "20",
+                        "25"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(27–32)% increased armour and evasion|||||+(26–32) to maximum life",
+                "level": "44",
+                "values": [
+                    [
+                        "27",
+                        "32"
+                    ],
+                    [
+                        "26",
+                        "32"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(33–38)% increased armour and evasion|||||+(33–41) to maximum life",
+                "level": "60",
+                "values": [
+                    [
+                        "33",
+                        "38"
+                    ],
+                    [
+                        "33",
+                        "41"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(39–42)% increased armour and evasion|||||+(42–49) to maximum life",
+                "level": "78",
+                "values": [
+                    [
+                        "39",
+                        "42"
+                    ],
+                    [
+                        "42",
+                        "49"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "#% increased armour and energy shield|||||# to maximum life": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(6–13)% increased armour and energy shield|||||+(7–10) to maximum life",
+                "level": "10",
+                "values": [
+                    [
+                        "6",
+                        "13"
+                    ],
+                    [
+                        "7",
+                        "10"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(14–20)% increased armour and energy shield|||||+(11–19) to maximum life",
+                "level": "19",
+                "values": [
+                    [
+                        "14",
+                        "20"
+                    ],
+                    [
+                        "11",
+                        "19"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(21–26)% increased armour and energy shield|||||+(20–25) to maximum life",
+                "level": "30",
+                "values": [
+                    [
+                        "21",
+                        "26"
+                    ],
+                    [
+                        "20",
+                        "25"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(27–32)% increased armour and energy shield|||||+(26–32) to maximum life",
+                "level": "44",
+                "values": [
+                    [
+                        "27",
+                        "32"
+                    ],
+                    [
+                        "26",
+                        "32"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(33–38)% increased armour and energy shield|||||+(33–41) to maximum life",
+                "level": "60",
+                "values": [
+                    [
+                        "33",
+                        "38"
+                    ],
+                    [
+                        "33",
+                        "41"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(39–42)% increased armour and energy shield|||||+(42–49) to maximum life",
+                "level": "78",
+                "values": [
+                    [
+                        "39",
+                        "42"
+                    ],
+                    [
+                        "42",
+                        "49"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "#% increased evasion and energy shield|||||# to maximum life": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(6–13)% increased evasion and energy shield|||||+(7–10) to maximum life",
+                "level": "10",
+                "values": [
+                    [
+                        "6",
+                        "13"
+                    ],
+                    [
+                        "7",
+                        "10"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(14–20)% increased evasion and energy shield|||||+(11–19) to maximum life",
+                "level": "19",
+                "values": [
+                    [
+                        "14",
+                        "20"
+                    ],
+                    [
+                        "11",
+                        "19"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(21–26)% increased evasion and energy shield|||||+(20–25) to maximum life",
+                "level": "30",
+                "values": [
+                    [
+                        "21",
+                        "26"
+                    ],
+                    [
+                        "20",
+                        "25"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(27–32)% increased evasion and energy shield|||||+(26–32) to maximum life",
+                "level": "44",
+                "values": [
+                    [
+                        "27",
+                        "32"
+                    ],
+                    [
+                        "26",
+                        "32"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(33–38)% increased evasion and energy shield|||||+(33–41) to maximum life",
+                "level": "60",
+                "values": [
+                    [
+                        "33",
+                        "38"
+                    ],
+                    [
+                        "33",
+                        "41"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(39–42)% increased evasion and energy shield|||||+(42–49) to maximum life",
+                "level": "78",
+                "values": [
+                    [
+                        "39",
+                        "42"
+                    ],
+                    [
+                        "42",
+                        "49"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "#% increased movement speed": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "10% increased movement speed",
+                "level": "1",
+                "values": [
+                    [
+                        "10"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "15% increased movement speed",
+                "level": "15",
+                "values": [
+                    [
+                        "15"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "20% increased movement speed",
+                "level": "30",
+                "values": [
+                    [
+                        "20"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "25% increased movement speed",
+                "level": "50",
+                "values": [
+                    [
+                        "25"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "30% increased movement speed",
+                "level": "70",
+                "values": [
+                    [
+                        "30"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "35% increased movement speed",
+                "level": "82",
+                "values": [
+                    [
+                        "35"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            }
+        ],
+        "#% increased energy shield|||||# to stun threshold": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(6–13)% increased energy shield|||||+(8–13) to stun threshold",
+                "level": "10",
+                "values": [
+                    [
+                        "6",
+                        "13"
+                    ],
+                    [
+                        "8",
+                        "13"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(14–20)% increased energy shield|||||+(14–24) to stun threshold",
+                "level": "19",
+                "values": [
+                    [
+                        "14",
+                        "20"
+                    ],
+                    [
+                        "14",
+                        "24"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(21–26)% increased energy shield|||||+(25–40) to stun threshold",
+                "level": "30",
+                "values": [
+                    [
+                        "21",
+                        "26"
+                    ],
+                    [
+                        "25",
+                        "40"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(27–32)% increased energy shield|||||+(41–63) to stun threshold",
+                "level": "44",
+                "values": [
+                    [
+                        "27",
+                        "32"
+                    ],
+                    [
+                        "41",
+                        "63"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(33–38)% increased energy shield|||||+(64–94) to stun threshold",
+                "level": "60",
+                "values": [
+                    [
+                        "33",
+                        "38"
+                    ],
+                    [
+                        "64",
+                        "94"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(39–42)% increased energy shield|||||+(95–136) to stun threshold",
+                "level": "78",
+                "values": [
+                    [
+                        "39",
+                        "42"
+                    ],
+                    [
+                        "95",
+                        "136"
+                    ]
+                ],
+                "types": [
+                    "boots"
+                ]
+            }
+        ],
+        "# to armour|||||#% increased armour": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(7–11) to armour|||||(6–13)% increased armour",
+                "level": "10",
+                "values": [
+                    [
+                        "7",
+                        "11"
+                    ],
+                    [
+                        "6",
+                        "13"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(12–29) to armour|||||(14–20)% increased armour",
+                "level": "19",
+                "values": [
+                    [
+                        "12",
+                        "29"
+                    ],
+                    [
+                        "14",
+                        "20"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(30–39) to armour|||||(21–26)% increased armour",
+                "level": "30",
+                "values": [
+                    [
+                        "30",
+                        "39"
+                    ],
+                    [
+                        "21",
+                        "26"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(40–53) to armour|||||(27–32)% increased armour",
+                "level": "44",
+                "values": [
+                    [
+                        "40",
+                        "53"
+                    ],
+                    [
+                        "27",
+                        "32"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(54–69) to armour|||||(33–38)% increased armour",
+                "level": "60",
+                "values": [
+                    [
+                        "54",
+                        "69"
+                    ],
+                    [
+                        "33",
+                        "38"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(70–86) to armour|||||(39–42)% increased armour",
+                "level": "78",
+                "values": [
+                    [
+                        "70",
+                        "86"
+                    ],
+                    [
+                        "39",
+                        "42"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            }
+        ],
+        "# to spirit": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(30–33) to spirit",
+                "level": "16",
+                "values": [
+                    [
+                        "30",
+                        "33"
+                    ]
+                ],
+                "types": [
+                    "body-armour",
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(34–37) to spirit",
+                "level": "25",
+                "values": [
+                    [
+                        "34",
+                        "37"
+                    ]
+                ],
+                "types": [
+                    "body-armour",
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(38–42) to spirit",
+                "level": "34",
+                "values": [
+                    [
+                        "38",
+                        "42"
+                    ]
+                ],
+                "types": [
+                    "body-armour",
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(43–46) to spirit",
+                "level": "41",
+                "values": [
+                    [
+                        "43",
+                        "46"
+                    ]
+                ],
+                "types": [
+                    "body-armour",
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(47–50) to spirit",
+                "level": "47",
+                "values": [
+                    [
+                        "47",
+                        "50"
+                    ]
+                ],
+                "types": [
+                    "body-armour",
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(51–53) to spirit",
+                "level": "55",
+                "values": [
+                    [
+                        "51",
+                        "53"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(54–56) to spirit",
+                "level": "66",
+                "values": [
+                    [
+                        "54",
+                        "56"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(57–61) to spirit",
+                "level": "78",
+                "values": [
+                    [
+                        "57",
+                        "61"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            }
+        ],
+        "# to evasion rating|||||#% increased evasion rating": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(5–8) to evasion rating|||||(6–13)% increased evasion rating",
+                "level": "10",
+                "values": [
+                    [
+                        "5",
+                        "8"
+                    ],
+                    [
+                        "6",
+                        "13"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(9–24) to evasion rating|||||(14–20)% increased evasion rating",
+                "level": "19",
+                "values": [
+                    [
+                        "9",
+                        "24"
+                    ],
+                    [
+                        "14",
+                        "20"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(25–34) to evasion rating|||||(21–26)% increased evasion rating",
+                "level": "30",
+                "values": [
+                    [
+                        "25",
+                        "34"
+                    ],
+                    [
+                        "21",
+                        "26"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(35–47) to evasion rating|||||(27–32)% increased evasion rating",
+                "level": "44",
+                "values": [
+                    [
+                        "35",
+                        "47"
+                    ],
+                    [
+                        "27",
+                        "32"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(48–62) to evasion rating|||||(33–38)% increased evasion rating",
+                "level": "60",
+                "values": [
+                    [
+                        "48",
+                        "62"
+                    ],
+                    [
+                        "33",
+                        "38"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(63–79) to evasion rating|||||(39–42)% increased evasion rating",
+                "level": "78",
+                "values": [
+                    [
+                        "63",
+                        "79"
+                    ],
+                    [
+                        "39",
+                        "42"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            }
+        ],
+        "# to maximum energy shield|||||#% increased energy shield": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(4–7) to maximum energy shield|||||(6–13)% increased energy shield",
+                "level": "10",
+                "values": [
+                    [
+                        "4",
+                        "7"
+                    ],
+                    [
+                        "6",
+                        "13"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(8–13) to maximum energy shield|||||(14–20)% increased energy shield",
+                "level": "19",
+                "values": [
+                    [
+                        "8",
+                        "13"
+                    ],
+                    [
+                        "14",
+                        "20"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(14–16) to maximum energy shield|||||(21–26)% increased energy shield",
+                "level": "30",
+                "values": [
+                    [
+                        "14",
+                        "16"
+                    ],
+                    [
+                        "21",
+                        "26"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(17–20) to maximum energy shield|||||(27–32)% increased energy shield",
+                "level": "44",
+                "values": [
+                    [
+                        "17",
+                        "20"
+                    ],
+                    [
+                        "27",
+                        "32"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(21–25) to maximum energy shield|||||(33–38)% increased energy shield",
+                "level": "60",
+                "values": [
+                    [
+                        "21",
+                        "25"
+                    ],
+                    [
+                        "33",
+                        "38"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(26–30) to maximum energy shield|||||(39–42)% increased energy shield",
+                "level": "78",
+                "values": [
+                    [
+                        "26",
+                        "30"
+                    ],
+                    [
+                        "39",
+                        "42"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            }
+        ],
+        "# to armour|||||# to evasion rating|||||#% increased armour and evasion": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(4–6) to armour|||||+(3–5) to evasion rating|||||(6–13)% increased armour and evasion",
+                "level": "10",
+                "values": [
+                    [
+                        "4",
+                        "6"
+                    ],
+                    [
+                        "3",
+                        "5"
+                    ],
+                    [
+                        "6",
+                        "13"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(7–15) to armour|||||+(6–12) to evasion rating|||||(14–20)% increased armour and evasion",
+                "level": "19",
+                "values": [
+                    [
+                        "7",
+                        "15"
+                    ],
+                    [
+                        "6",
+                        "12"
+                    ],
+                    [
+                        "14",
+                        "20"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(16–20) to armour|||||+(13–17) to evasion rating|||||(21–26)% increased armour and evasion",
+                "level": "30",
+                "values": [
+                    [
+                        "16",
+                        "20"
+                    ],
+                    [
+                        "13",
+                        "17"
+                    ],
+                    [
+                        "21",
+                        "26"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(21–27) to armour|||||+(18–24) to evasion rating|||||(27–32)% increased armour and evasion",
+                "level": "44",
+                "values": [
+                    [
+                        "21",
+                        "27"
+                    ],
+                    [
+                        "18",
+                        "24"
+                    ],
+                    [
+                        "27",
+                        "32"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(28–34) to armour|||||+(25–31) to evasion rating|||||(33–38)% increased armour and evasion",
+                "level": "60",
+                "values": [
+                    [
+                        "28",
+                        "34"
+                    ],
+                    [
+                        "25",
+                        "31"
+                    ],
+                    [
+                        "33",
+                        "38"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(35–43) to armour|||||+(32–39) to evasion rating|||||(39–42)% increased armour and evasion",
+                "level": "78",
+                "values": [
+                    [
+                        "35",
+                        "43"
+                    ],
+                    [
+                        "32",
+                        "39"
+                    ],
+                    [
+                        "39",
+                        "42"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            }
+        ],
+        "# to armour|||||# to maximum energy shield|||||#% increased armour and energy shield": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(4–6) to armour|||||+(2–4) to maximum energy shield|||||(6–13)% increased armour and energy shield",
+                "level": "10",
+                "values": [
+                    [
+                        "4",
+                        "6"
+                    ],
+                    [
+                        "2",
+                        "4"
+                    ],
+                    [
+                        "6",
+                        "13"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(7–15) to armour|||||+(5–6) to maximum energy shield|||||(14–20)% increased armour and energy shield",
+                "level": "19",
+                "values": [
+                    [
+                        "7",
+                        "15"
+                    ],
+                    [
+                        "5",
+                        "6"
+                    ],
+                    [
+                        "14",
+                        "20"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(16–20) to armour|||||+(7–8) to maximum energy shield|||||(21–26)% increased armour and energy shield",
+                "level": "30",
+                "values": [
+                    [
+                        "16",
+                        "20"
+                    ],
+                    [
+                        "7",
+                        "8"
+                    ],
+                    [
+                        "21",
+                        "26"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(21–27) to armour|||||+(9–10) to maximum energy shield|||||(27–32)% increased armour and energy shield",
+                "level": "44",
+                "values": [
+                    [
+                        "21",
+                        "27"
+                    ],
+                    [
+                        "9",
+                        "10"
+                    ],
+                    [
+                        "27",
+                        "32"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(28–34) to armour|||||+(11–12) to maximum energy shield|||||(33–38)% increased armour and energy shield",
+                "level": "60",
+                "values": [
+                    [
+                        "28",
+                        "34"
+                    ],
+                    [
+                        "11",
+                        "12"
+                    ],
+                    [
+                        "33",
+                        "38"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(35–43) to armour|||||+(13–15) to maximum energy shield|||||(39–42)% increased armour and energy shield",
+                "level": "78",
+                "values": [
+                    [
+                        "35",
+                        "43"
+                    ],
+                    [
+                        "13",
+                        "15"
+                    ],
+                    [
+                        "39",
+                        "42"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            }
+        ],
+        "# to evasion rating|||||# to maximum energy shield|||||#% increased evasion and energy shield": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(3–5) to evasion rating|||||+(2–4) to maximum energy shield|||||(6–13)% increased evasion and energy shield",
+                "level": "10",
+                "values": [
+                    [
+                        "3",
+                        "5"
+                    ],
+                    [
+                        "2",
+                        "4"
+                    ],
+                    [
+                        "6",
+                        "13"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(6–12) to evasion rating|||||+(5–6) to maximum energy shield|||||(14–20)% increased evasion and energy shield",
+                "level": "19",
+                "values": [
+                    [
+                        "6",
+                        "12"
+                    ],
+                    [
+                        "5",
+                        "6"
+                    ],
+                    [
+                        "14",
+                        "20"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(13–17) to evasion rating|||||+(7–8) to maximum energy shield|||||(21–26)% increased evasion and energy shield",
+                "level": "30",
+                "values": [
+                    [
+                        "13",
+                        "17"
+                    ],
+                    [
+                        "7",
+                        "8"
+                    ],
+                    [
+                        "21",
+                        "26"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(18–24) to evasion rating|||||+(9–10) to maximum energy shield|||||(27–32)% increased evasion and energy shield",
+                "level": "44",
+                "values": [
+                    [
+                        "18",
+                        "24"
+                    ],
+                    [
+                        "9",
+                        "10"
+                    ],
+                    [
+                        "27",
+                        "32"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(25–31) to evasion rating|||||+(11–12) to maximum energy shield|||||(33–38)% increased evasion and energy shield",
+                "level": "60",
+                "values": [
+                    [
+                        "25",
+                        "31"
+                    ],
+                    [
+                        "11",
+                        "12"
+                    ],
+                    [
+                        "33",
+                        "38"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(32–39) to evasion rating|||||+(13–15) to maximum energy shield|||||(39–42)% increased evasion and energy shield",
+                "level": "78",
+                "values": [
+                    [
+                        "32",
+                        "39"
+                    ],
+                    [
+                        "13",
+                        "15"
+                    ],
+                    [
+                        "39",
+                        "42"
+                    ]
+                ],
+                "types": [
+                    "body-armour"
+                ]
+            }
+        ],
+        "#% increased armour|||||# to maximum mana": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(6–13)% increased armour|||||+(6–8) to maximum mana",
+                "level": "10",
+                "values": [
+                    [
+                        "6",
+                        "13"
+                    ],
+                    [
+                        "6",
+                        "8"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(14–20)% increased armour|||||+(9–16) to maximum mana",
+                "level": "19",
+                "values": [
+                    [
+                        "14",
+                        "20"
+                    ],
+                    [
+                        "9",
+                        "16"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(21–26)% increased armour|||||+(17–20) to maximum mana",
+                "level": "30",
+                "values": [
+                    [
+                        "21",
+                        "26"
+                    ],
+                    [
+                        "17",
+                        "20"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(27–32)% increased armour|||||+(21–26) to maximum mana",
+                "level": "44",
+                "values": [
+                    [
+                        "27",
+                        "32"
+                    ],
+                    [
+                        "21",
+                        "26"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(33–38)% increased armour|||||+(27–32) to maximum mana",
+                "level": "60",
+                "values": [
+                    [
+                        "33",
+                        "38"
+                    ],
+                    [
+                        "27",
+                        "32"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(39–42)% increased armour|||||+(33–39) to maximum mana",
+                "level": "78",
+                "values": [
+                    [
+                        "39",
+                        "42"
+                    ],
+                    [
+                        "33",
+                        "39"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            }
+        ],
+        "#% increased rarity of items found": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(8–11)% increased rarity of items found",
+                "level": "10",
+                "values": [
+                    [
+                        "8",
+                        "11"
+                    ]
+                ],
+                "types": [
+                    "helmet",
+                    "amulet",
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(13–17)% increased rarity of items found",
+                "level": "29",
+                "values": [
+                    [
+                        "13",
+                        "17"
+                    ]
+                ],
+                "types": [
+                    "helmet",
+                    "amulet",
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(18–22)% increased rarity of items found",
+                "level": "47",
+                "values": [
+                    [
+                        "18",
+                        "22"
+                    ]
+                ],
+                "types": [
+                    "helmet",
+                    "amulet",
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(23–27)% increased rarity of items found",
+                "level": "65",
+                "values": [
+                    [
+                        "23",
+                        "27"
+                    ]
+                ],
+                "types": [
+                    "helmet",
+                    "amulet",
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(28–32)% increased rarity of items found",
+                "level": "81",
+                "values": [
+                    [
+                        "28",
+                        "32"
+                    ]
+                ],
+                "types": [
+                    "helmet",
+                    "amulet",
+                    "ring"
+                ]
+            }
+        ],
+        "#% increased evasion rating|||||# to maximum mana": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(6–13)% increased evasion rating|||||+(6–8) to maximum mana",
+                "level": "10",
+                "values": [
+                    [
+                        "6",
+                        "13"
+                    ],
+                    [
+                        "6",
+                        "8"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(14–20)% increased evasion rating|||||+(9–16) to maximum mana",
+                "level": "19",
+                "values": [
+                    [
+                        "14",
+                        "20"
+                    ],
+                    [
+                        "9",
+                        "16"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(21–26)% increased evasion rating|||||+(17–20) to maximum mana",
+                "level": "30",
+                "values": [
+                    [
+                        "21",
+                        "26"
+                    ],
+                    [
+                        "17",
+                        "20"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(27–32)% increased evasion rating|||||+(21–26) to maximum mana",
+                "level": "44",
+                "values": [
+                    [
+                        "27",
+                        "32"
+                    ],
+                    [
+                        "21",
+                        "26"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(33–38)% increased evasion rating|||||+(27–32) to maximum mana",
+                "level": "60",
+                "values": [
+                    [
+                        "33",
+                        "38"
+                    ],
+                    [
+                        "27",
+                        "32"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(39–42)% increased evasion rating|||||+(33–39) to maximum mana",
+                "level": "78",
+                "values": [
+                    [
+                        "39",
+                        "42"
+                    ],
+                    [
+                        "33",
+                        "39"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            }
+        ],
+        "#% increased energy shield|||||# to maximum mana": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(6–13)% increased energy shield|||||+(6–8) to maximum mana",
+                "level": "10",
+                "values": [
+                    [
+                        "6",
+                        "13"
+                    ],
+                    [
+                        "6",
+                        "8"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(14–20)% increased energy shield|||||+(9–16) to maximum mana",
+                "level": "19",
+                "values": [
+                    [
+                        "14",
+                        "20"
+                    ],
+                    [
+                        "9",
+                        "16"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(21–26)% increased energy shield|||||+(17–20) to maximum mana",
+                "level": "30",
+                "values": [
+                    [
+                        "21",
+                        "26"
+                    ],
+                    [
+                        "17",
+                        "20"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(27–32)% increased energy shield|||||+(21–26) to maximum mana",
+                "level": "44",
+                "values": [
+                    [
+                        "27",
+                        "32"
+                    ],
+                    [
+                        "21",
+                        "26"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(33–38)% increased energy shield|||||+(27–32) to maximum mana",
+                "level": "60",
+                "values": [
+                    [
+                        "33",
+                        "38"
+                    ],
+                    [
+                        "27",
+                        "32"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(39–42)% increased energy shield|||||+(33–39) to maximum mana",
+                "level": "78",
+                "values": [
+                    [
+                        "39",
+                        "42"
+                    ],
+                    [
+                        "33",
+                        "39"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            }
+        ],
+        "#% increased armour and evasion|||||# to maximum mana": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(6–13)% increased armour and evasion|||||+(6–8) to maximum mana",
+                "level": "10",
+                "values": [
+                    [
+                        "6",
+                        "13"
+                    ],
+                    [
+                        "6",
+                        "8"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(14–20)% increased armour and evasion|||||+(9–16) to maximum mana",
+                "level": "19",
+                "values": [
+                    [
+                        "14",
+                        "20"
+                    ],
+                    [
+                        "9",
+                        "16"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(21–26)% increased armour and evasion|||||+(17–20) to maximum mana",
+                "level": "30",
+                "values": [
+                    [
+                        "21",
+                        "26"
+                    ],
+                    [
+                        "17",
+                        "20"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(27–32)% increased armour and evasion|||||+(21–26) to maximum mana",
+                "level": "44",
+                "values": [
+                    [
+                        "27",
+                        "32"
+                    ],
+                    [
+                        "21",
+                        "26"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(33–38)% increased armour and evasion|||||+(27–32) to maximum mana",
+                "level": "60",
+                "values": [
+                    [
+                        "33",
+                        "38"
+                    ],
+                    [
+                        "27",
+                        "32"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(39–42)% increased armour and evasion|||||+(33–39) to maximum mana",
+                "level": "78",
+                "values": [
+                    [
+                        "39",
+                        "42"
+                    ],
+                    [
+                        "33",
+                        "39"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            }
+        ],
+        "#% increased armour and energy shield|||||# to maximum mana": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(6–13)% increased armour and energy shield|||||+(6–8) to maximum mana",
+                "level": "10",
+                "values": [
+                    [
+                        "6",
+                        "13"
+                    ],
+                    [
+                        "6",
+                        "8"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(14–20)% increased armour and energy shield|||||+(9–16) to maximum mana",
+                "level": "19",
+                "values": [
+                    [
+                        "14",
+                        "20"
+                    ],
+                    [
+                        "9",
+                        "16"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(21–26)% increased armour and energy shield|||||+(17–20) to maximum mana",
+                "level": "30",
+                "values": [
+                    [
+                        "21",
+                        "26"
+                    ],
+                    [
+                        "17",
+                        "20"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(27–32)% increased armour and energy shield|||||+(21–26) to maximum mana",
+                "level": "44",
+                "values": [
+                    [
+                        "27",
+                        "32"
+                    ],
+                    [
+                        "21",
+                        "26"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(33–38)% increased armour and energy shield|||||+(27–32) to maximum mana",
+                "level": "60",
+                "values": [
+                    [
+                        "33",
+                        "38"
+                    ],
+                    [
+                        "27",
+                        "32"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(39–42)% increased armour and energy shield|||||+(33–39) to maximum mana",
+                "level": "78",
+                "values": [
+                    [
+                        "39",
+                        "42"
+                    ],
+                    [
+                        "33",
+                        "39"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            }
+        ],
+        "#% increased evasion and energy shield|||||# to maximum mana": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(6–13)% increased evasion and energy shield|||||+(6–8) to maximum mana",
+                "level": "10",
+                "values": [
+                    [
+                        "6",
+                        "13"
+                    ],
+                    [
+                        "6",
+                        "8"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(14–20)% increased evasion and energy shield|||||+(9–16) to maximum mana",
+                "level": "19",
+                "values": [
+                    [
+                        "14",
+                        "20"
+                    ],
+                    [
+                        "9",
+                        "16"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(21–26)% increased evasion and energy shield|||||+(17–20) to maximum mana",
+                "level": "30",
+                "values": [
+                    [
+                        "21",
+                        "26"
+                    ],
+                    [
+                        "17",
+                        "20"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(27–32)% increased evasion and energy shield|||||+(21–26) to maximum mana",
+                "level": "44",
+                "values": [
+                    [
+                        "27",
+                        "32"
+                    ],
+                    [
+                        "21",
+                        "26"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(33–38)% increased evasion and energy shield|||||+(27–32) to maximum mana",
+                "level": "60",
+                "values": [
+                    [
+                        "33",
+                        "38"
+                    ],
+                    [
+                        "27",
+                        "32"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(39–42)% increased evasion and energy shield|||||+(33–39) to maximum mana",
+                "level": "78",
+                "values": [
+                    [
+                        "39",
+                        "42"
+                    ],
+                    [
+                        "33",
+                        "39"
+                    ]
+                ],
+                "types": [
+                    "helmet"
                 ]
             }
         ],
@@ -17465,396 +25726,6 @@ var mods2 = {
                     [
                         "9",
                         "10"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            }
-        ],
-        "# to maximum energy shield": [
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(8–14) to maximum energy shield",
-                "level": "1",
-                "values": [
-                    [
-                        "8",
-                        "14"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(15–20) to maximum energy shield",
-                "level": "11",
-                "values": [
-                    [
-                        "15",
-                        "20"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(21–24) to maximum energy shield",
-                "level": "17",
-                "values": [
-                    [
-                        "21",
-                        "24"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(25–33) to maximum energy shield",
-                "level": "28",
-                "values": [
-                    [
-                        "25",
-                        "33"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(34–41) to maximum energy shield",
-                "level": "37",
-                "values": [
-                    [
-                        "34",
-                        "41"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(42–51) to maximum energy shield",
-                "level": "48",
-                "values": [
-                    [
-                        "42",
-                        "51"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(52–61) to maximum energy shield",
-                "level": "57",
-                "values": [
-                    [
-                        "52",
-                        "61"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(62–70) to maximum energy shield",
-                "level": "66",
-                "values": [
-                    [
-                        "62",
-                        "70"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(71–79) to maximum energy shield",
-                "level": "74",
-                "values": [
-                    [
-                        "71",
-                        "79"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(80–89) to maximum energy shield",
-                "level": "82",
-                "values": [
-                    [
-                        "80",
-                        "89"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            }
-        ],
-        "#% increased armour": [
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(10–13)% increased armour",
-                "level": "2",
-                "values": [
-                    [
-                        "10",
-                        "13"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(15–20)% increased armour",
-                "level": "18",
-                "values": [
-                    [
-                        "15",
-                        "20"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(21–26)% increased armour",
-                "level": "30",
-                "values": [
-                    [
-                        "21",
-                        "26"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(27–32)% increased armour",
-                "level": "42",
-                "values": [
-                    [
-                        "27",
-                        "32"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(33–38)% increased armour",
-                "level": "56",
-                "values": [
-                    [
-                        "33",
-                        "38"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(39–44)% increased armour",
-                "level": "70",
-                "values": [
-                    [
-                        "39",
-                        "44"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(45–50)% increased armour",
-                "level": "77",
-                "values": [
-                    [
-                        "45",
-                        "50"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            }
-        ],
-        "#% increased evasion rating": [
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(10–13)% increased evasion rating",
-                "level": "2",
-                "values": [
-                    [
-                        "10",
-                        "13"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(15–20)% increased evasion rating",
-                "level": "18",
-                "values": [
-                    [
-                        "15",
-                        "20"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(21–26)% increased evasion rating",
-                "level": "30",
-                "values": [
-                    [
-                        "21",
-                        "26"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(27–32)% increased evasion rating",
-                "level": "42",
-                "values": [
-                    [
-                        "27",
-                        "32"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(33–38)% increased evasion rating",
-                "level": "56",
-                "values": [
-                    [
-                        "33",
-                        "38"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(39–44)% increased evasion rating",
-                "level": "70",
-                "values": [
-                    [
-                        "39",
-                        "44"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(45–50)% increased evasion rating",
-                "level": "77",
-                "values": [
-                    [
-                        "45",
-                        "50"
                     ]
                 ],
                 "types": [
@@ -17973,625 +25844,6 @@ var mods2 = {
                 ],
                 "types": [
                     "amulet"
-                ]
-            }
-        ],
-        "#% increased rarity of items found": [
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(8–11)% increased rarity of items found",
-                "level": "10",
-                "values": [
-                    [
-                        "8",
-                        "11"
-                    ]
-                ],
-                "types": [
-                    "amulet",
-                    "ring"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(13–17)% increased rarity of items found",
-                "level": "29",
-                "values": [
-                    [
-                        "13",
-                        "17"
-                    ]
-                ],
-                "types": [
-                    "amulet",
-                    "ring"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(18–22)% increased rarity of items found",
-                "level": "47",
-                "values": [
-                    [
-                        "18",
-                        "22"
-                    ]
-                ],
-                "types": [
-                    "amulet",
-                    "ring"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(23–27)% increased rarity of items found",
-                "level": "65",
-                "values": [
-                    [
-                        "23",
-                        "27"
-                    ]
-                ],
-                "types": [
-                    "amulet",
-                    "ring"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(28–32)% increased rarity of items found",
-                "level": "81",
-                "values": [
-                    [
-                        "28",
-                        "32"
-                    ]
-                ],
-                "types": [
-                    "amulet",
-                    "ring"
-                ]
-            }
-        ],
-        "# to spirit": [
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(30–33) to spirit",
-                "level": "16",
-                "values": [
-                    [
-                        "30",
-                        "33"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(34–37) to spirit",
-                "level": "25",
-                "values": [
-                    [
-                        "34",
-                        "37"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(38–42) to spirit",
-                "level": "34",
-                "values": [
-                    [
-                        "38",
-                        "42"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(43–46) to spirit",
-                "level": "41",
-                "values": [
-                    [
-                        "43",
-                        "46"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(47–50) to spirit",
-                "level": "47",
-                "values": [
-                    [
-                        "47",
-                        "50"
-                    ]
-                ],
-                "types": [
-                    "amulet"
-                ]
-            }
-        ],
-        "# to evasion rating": [
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(8–15) to evasion rating",
-                "level": "1",
-                "values": [
-                    [
-                        "8",
-                        "15"
-                    ]
-                ],
-                "types": [
-                    "ring"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(16–33) to evasion rating",
-                "level": "11",
-                "values": [
-                    [
-                        "16",
-                        "33"
-                    ]
-                ],
-                "types": [
-                    "ring"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(34–44) to evasion rating",
-                "level": "17",
-                "values": [
-                    [
-                        "34",
-                        "44"
-                    ]
-                ],
-                "types": [
-                    "ring"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(45–69) to evasion rating",
-                "level": "28",
-                "values": [
-                    [
-                        "45",
-                        "69"
-                    ]
-                ],
-                "types": [
-                    "ring"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(70–93) to evasion rating",
-                "level": "37",
-                "values": [
-                    [
-                        "70",
-                        "93"
-                    ]
-                ],
-                "types": [
-                    "ring"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(94–123) to evasion rating",
-                "level": "48",
-                "values": [
-                    [
-                        "94",
-                        "123"
-                    ]
-                ],
-                "types": [
-                    "ring"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(124–151) to evasion rating",
-                "level": "57",
-                "values": [
-                    [
-                        "124",
-                        "151"
-                    ]
-                ],
-                "types": [
-                    "ring"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(152–176) to evasion rating",
-                "level": "66",
-                "values": [
-                    [
-                        "152",
-                        "176"
-                    ]
-                ],
-                "types": [
-                    "ring"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(177–203) to evasion rating",
-                "level": "74",
-                "values": [
-                    [
-                        "177",
-                        "203"
-                    ]
-                ],
-                "types": [
-                    "ring"
-                ]
-            }
-        ],
-        "# to armour": [
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(12–22) to armour",
-                "level": "1",
-                "values": [
-                    [
-                        "12",
-                        "22"
-                    ]
-                ],
-                "types": [
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(23–42) to armour",
-                "level": "11",
-                "values": [
-                    [
-                        "23",
-                        "42"
-                    ]
-                ],
-                "types": [
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(43–54) to armour",
-                "level": "17",
-                "values": [
-                    [
-                        "43",
-                        "54"
-                    ]
-                ],
-                "types": [
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(55–81) to armour",
-                "level": "28",
-                "values": [
-                    [
-                        "55",
-                        "81"
-                    ]
-                ],
-                "types": [
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(82–106) to armour",
-                "level": "37",
-                "values": [
-                    [
-                        "82",
-                        "106"
-                    ]
-                ],
-                "types": [
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(107–138) to armour",
-                "level": "48",
-                "values": [
-                    [
-                        "107",
-                        "138"
-                    ]
-                ],
-                "types": [
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(139–168) to armour",
-                "level": "57",
-                "values": [
-                    [
-                        "139",
-                        "168"
-                    ]
-                ],
-                "types": [
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(169–195) to armour",
-                "level": "66",
-                "values": [
-                    [
-                        "169",
-                        "195"
-                    ]
-                ],
-                "types": [
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(196–224) to armour",
-                "level": "74",
-                "values": [
-                    [
-                        "196",
-                        "224"
-                    ]
-                ],
-                "types": [
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+(225–255) to armour",
-                "level": "82",
-                "values": [
-                    [
-                        "225",
-                        "255"
-                    ]
-                ],
-                "types": [
-                    "belt"
-                ]
-            }
-        ],
-        "# to # physical thorns damage": [
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(1–2) to (3–4) physical thorns damage",
-                "level": "1",
-                "values": [
-                    [
-                        "1",
-                        "2"
-                    ],
-                    [
-                        "3",
-                        "4"
-                    ]
-                ],
-                "types": [
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(4–5) to (6–7) physical thorns damage",
-                "level": "10",
-                "values": [
-                    [
-                        "4",
-                        "5"
-                    ],
-                    [
-                        "6",
-                        "7"
-                    ]
-                ],
-                "types": [
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(7–9) to (10–13) physical thorns damage",
-                "level": "20",
-                "values": [
-                    [
-                        "7",
-                        "9"
-                    ],
-                    [
-                        "10",
-                        "13"
-                    ]
-                ],
-                "types": [
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(12–15) to (18–22) physical thorns damage",
-                "level": "35",
-                "values": [
-                    [
-                        "12",
-                        "15"
-                    ],
-                    [
-                        "18",
-                        "22"
-                    ]
-                ],
-                "types": [
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(17–21) to (26–32) physical thorns damage",
-                "level": "48",
-                "values": [
-                    [
-                        "17",
-                        "21"
-                    ],
-                    [
-                        "26",
-                        "32"
-                    ]
-                ],
-                "types": [
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(23–28) to (35–43) physical thorns damage",
-                "level": "61",
-                "values": [
-                    [
-                        "23",
-                        "28"
-                    ],
-                    [
-                        "35",
-                        "43"
-                    ]
-                ],
-                "types": [
-                    "belt"
-                ]
-            },
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "(31–38) to (46–56) physical thorns damage",
-                "level": "75",
-                "values": [
-                    [
-                        "31",
-                        "38"
-                    ],
-                    [
-                        "46",
-                        "56"
-                    ]
-                ],
-                "types": [
-                    "belt"
                 ]
             }
         ],
@@ -19987,7 +27239,11 @@ var mods2 = {
                     "two-hand-axe",
                     "two-hand-mace",
                     "quarterstaff",
-                    "crossbow"
+                    "crossbow",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
                 ]
             }
         ],
@@ -20016,7 +27272,11 @@ var mods2 = {
                     "two-hand-axe",
                     "two-hand-mace",
                     "quarterstaff",
-                    "crossbow"
+                    "crossbow",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
                 ]
             }
         ],
@@ -20045,7 +27305,451 @@ var mods2 = {
                     "two-hand-axe",
                     "two-hand-mace",
                     "quarterstaff",
-                    "crossbow"
+                    "crossbow",
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "#% to fire resistance": [
+            {
+                "affinities": [
+                    "socketable"
+                ],
+                "key": "+12% to fire resistance",
+                "level": 1,
+                "values": [
+                    [
+                        "12"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "#% to cold resistance": [
+            {
+                "affinities": [
+                    "socketable"
+                ],
+                "key": "+12% to cold resistance",
+                "level": 1,
+                "values": [
+                    [
+                        "12"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "#% to lightning resistance": [
+            {
+                "affinities": [
+                    "socketable"
+                ],
+                "key": "+12% to lightning resistance",
+                "level": 1,
+                "values": [
+                    [
+                        "12"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "#% increased armour, evasion and energy shield": [
+            {
+                "affinities": [
+                    "socketable"
+                ],
+                "key": "20% increased armour, evasion and energy shield",
+                "level": 1,
+                "values": [
+                    [
+                        "20"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "# to maximum life": [
+            {
+                "affinities": [
+                    "socketable"
+                ],
+                "key": "+25 to maximum life",
+                "level": 1,
+                "values": [
+                    [
+                        "25"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "# to maximum mana": [
+            {
+                "affinities": [
+                    "socketable"
+                ],
+                "key": "+20 to maximum mana",
+                "level": 1,
+                "values": [
+                    [
+                        "20"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "regenerate #% of life per second": [
+            {
+                "affinities": [
+                    "socketable"
+                ],
+                "key": "regenerate 0.3% of life per second",
+                "level": 1,
+                "values": [
+                    [
+                        "0.3"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "#% increased mana regeneration rate": [
+            {
+                "affinities": [
+                    "socketable"
+                ],
+                "key": "15% increased mana regeneration rate",
+                "level": 1,
+                "values": [
+                    [
+                        "15"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "# to stun threshold": [
+            {
+                "affinities": [
+                    "socketable"
+                ],
+                "key": "+40 to stun threshold",
+                "level": 1,
+                "values": [
+                    [
+                        "40"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "#% increased life and mana recovery from flasks": [
+            {
+                "affinities": [
+                    "socketable"
+                ],
+                "key": "10% increased life and mana recovery from flasks",
+                "level": 1,
+                "values": [
+                    [
+                        "10"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "#% to chaos resistance": [
+            {
+                "affinities": [
+                    "socketable"
+                ],
+                "key": "+7% to chaos resistance",
+                "level": 1,
+                "values": [
+                    [
+                        "7"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "#% increased charm charges gained": [
+            {
+                "affinities": [
+                    "socketable"
+                ],
+                "key": "10% increased charm charges gained",
+                "level": 1,
+                "values": [
+                    [
+                        "10"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "#% increased maximum life": [
+            {
+                "affinities": [
+                    "socketable"
+                ],
+                "key": "2% increased maximum life",
+                "level": 1,
+                "values": [
+                    [
+                        "2"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "#% increased maximum mana": [
+            {
+                "affinities": [
+                    "socketable"
+                ],
+                "key": "2% increased maximum mana",
+                "level": 1,
+                "values": [
+                    [
+                        "2"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "#% to all elemental resistances": [
+            {
+                "affinities": [
+                    "socketable"
+                ],
+                "key": "+5% to all elemental resistances",
+                "level": 1,
+                "values": [
+                    [
+                        "5"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "#% to maximum fire resistance": [
+            {
+                "affinities": [
+                    "socketable"
+                ],
+                "key": "+1% to maximum fire resistance",
+                "level": 1,
+                "values": [
+                    [
+                        "1"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "#% to maximum cold resistance": [
+            {
+                "affinities": [
+                    "socketable"
+                ],
+                "key": "+1% to maximum cold resistance",
+                "level": 1,
+                "values": [
+                    [
+                        "1"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "#% to maximum lightning resistance": [
+            {
+                "affinities": [
+                    "socketable"
+                ],
+                "key": "+1% to maximum lightning resistance",
+                "level": 1,
+                "values": [
+                    [
+                        "1"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "#% increased rarity of items found": [
+            {
+                "affinities": [
+                    "socketable"
+                ],
+                "key": "10% increased rarity of items found",
+                "level": 1,
+                "values": [
+                    [
+                        "10"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "#% increased elemental ailment threshold": [
+            {
+                "affinities": [
+                    "socketable"
+                ],
+                "key": "15% increased elemental ailment threshold",
+                "level": 1,
+                "values": [
+                    [
+                        "15"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "#% reduced slowing potency of debuffs on you": [
+            {
+                "affinities": [
+                    "socketable"
+                ],
+                "key": "10% reduced slowing potency of debuffs on you",
+                "level": 1,
+                "values": [
+                    [
+                        "10"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "hits against you have #% reduced critical damage bonus": [
+            {
+                "affinities": [
+                    "socketable"
+                ],
+                "key": "hits against you have 10% reduced critical damage bonus",
+                "level": 1,
+                "values": [
+                    [
+                        "10"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
                 ]
             }
         ]
