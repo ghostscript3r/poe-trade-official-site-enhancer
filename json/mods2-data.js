@@ -27464,7 +27464,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: chaos bolt": [
+        "grants skill: level # chaos bolt": [
             {
                 "affinities": [
                     "normal"
@@ -27477,7 +27477,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: bone blast": [
+        "grants skill: level # bone blast": [
             {
                 "affinities": [
                     "normal"
@@ -27490,7 +27490,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: mana drain": [
+        "grants skill: level # mana drain": [
             {
                 "affinities": [
                     "normal"
@@ -27503,7 +27503,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: power siphon": [
+        "grants skill: level # power siphon": [
             {
                 "affinities": [
                     "normal"
@@ -27516,7 +27516,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: volatile dead": [
+        "grants skill: level # volatile dead": [
             {
                 "affinities": [
                     "normal"
@@ -27529,7 +27529,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: galvanic field": [
+        "grants skill: level # galvanic field": [
             {
                 "affinities": [
                     "normal"
@@ -27542,7 +27542,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: decompose": [
+        "grants skill: level # decompose": [
             {
                 "affinities": [
                     "normal"
@@ -27555,7 +27555,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: exsanguinate": [
+        "grants skill: level # exsanguinate": [
             {
                 "affinities": [
                     "normal"
@@ -27568,7 +27568,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: wither": [
+        "grants skill: level # wither": [
             {
                 "affinities": [
                     "normal"
@@ -27581,7 +27581,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: skeletal warrior": [
+        "grants skill: level # skeletal warrior": [
             {
                 "affinities": [
                     "normal"
@@ -27594,7 +27594,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: discipline": [
+        "grants skill: level # discipline": [
             {
                 "affinities": [
                     "normal"
@@ -27607,7 +27607,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: malice": [
+        "grants skill: level # malice": [
             {
                 "affinities": [
                     "normal"
@@ -27620,7 +27620,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: purity of fire": [
+        "grants skill: level # purity of fire": [
             {
                 "affinities": [
                     "normal"
@@ -27633,7 +27633,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: purity of ice": [
+        "grants skill: level # purity of ice": [
             {
                 "affinities": [
                     "normal"
@@ -27646,7 +27646,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: purity of lightning": [
+        "grants skill: level # purity of lightning": [
             {
                 "affinities": [
                     "normal"
@@ -27808,7 +27808,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: firebolt": [
+        "grants skill: level # firebolt": [
             {
                 "affinities": [
                     "normal"
@@ -27821,7 +27821,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: freezing shards": [
+        "grants skill: level # freezing shards": [
             {
                 "affinities": [
                     "normal"
@@ -27834,7 +27834,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: lightning bolt": [
+        "grants skill: level # lightning bolt": [
             {
                 "affinities": [
                     "normal"
@@ -27847,7 +27847,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: living bomb": [
+        "grants skill: level # living bomb": [
             {
                 "affinities": [
                     "normal"
@@ -27860,7 +27860,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: sigil of power": [
+        "grants skill: level # sigil of power": [
             {
                 "affinities": [
                     "normal"
@@ -27873,7 +27873,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: soulrend": [
+        "grants skill: level # soulrend": [
             {
                 "affinities": [
                     "normal"
@@ -27886,7 +27886,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: reap": [
+        "grants skill: level # reap": [
             {
                 "affinities": [
                     "normal"
@@ -27899,7 +27899,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: unleash": [
+        "grants skill: level # unleash": [
             {
                 "affinities": [
                     "normal"
@@ -27912,7 +27912,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: shock nova": [
+        "grants skill: level # shock nova": [
             {
                 "affinities": [
                     "normal"
@@ -27925,7 +27925,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: consecrate": [
+        "grants skill: level # consecrate": [
             {
                 "affinities": [
                     "normal"
@@ -27938,7 +27938,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: dark pact": [
+        "grants skill: level # dark pact": [
             {
                 "affinities": [
                     "normal"
@@ -28320,7 +28320,7 @@ var mods2 = {
                 ]
             }
         ],
-        "grants skill: raise shield": [
+        "grants skill: level # raise shield": [
             {
                 "affinities": [
                     "normal"
