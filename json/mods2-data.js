@@ -26724,6 +26724,21 @@ var mods2 = {
         "leeches #% of physical damage as mana": [
             {
                 "affinities": [
+                    "normal"
+                ],
+                "key": "leeches 4% of physical damage as mana",
+                "level": 0,
+                "values": [
+                    [
+                        "4"
+                    ]
+                ],
+                "types": [
+                    "dagger"
+                ]
+            },
+            {
+                "affinities": [
                     "socketable"
                 ],
                 "key": "leeches 2% of physical damage as mana",
@@ -26838,6 +26853,22 @@ var mods2 = {
             }
         ],
         "# to accuracy rating": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(120–160) to accuracy rating",
+                "level": 0,
+                "values": [
+                    [
+                        "120",
+                        "160"
+                    ]
+                ],
+                "types": [
+                    "ring"
+                ]
+            },
             {
                 "affinities": [
                     "socketable"
@@ -27101,6 +27132,22 @@ var mods2 = {
         "# to spirit": [
             {
                 "affinities": [
+                    "normal"
+                ],
+                "key": "+(10–15) to spirit",
+                "level": 0,
+                "values": [
+                    [
+                        "10",
+                        "15"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
                     "socketable"
                 ],
                 "key": "+15 to spirit",
@@ -27157,6 +27204,22 @@ var mods2 = {
             }
         ],
         "#% increased attack speed": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(7–10)% increased attack speed",
+                "level": 0,
+                "values": [
+                    [
+                        "7",
+                        "10"
+                    ]
+                ],
+                "types": [
+                    "quiver"
+                ]
+            },
             {
                 "affinities": [
                     "socketable"
@@ -27313,7 +27376,980 @@ var mods2 = {
                 ]
             }
         ],
+        "grants # life per enemy hit": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants 8 life per enemy hit",
+                "level": 0,
+                "values": [
+                    [
+                        "8"
+                    ]
+                ],
+                "types": [
+                    "claw"
+                ]
+            }
+        ],
+        "#% chance to blind enemies on hit": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(15–25)% chance to blind enemies on hit",
+                "level": 0,
+                "values": [
+                    [
+                        "15",
+                        "25"
+                    ]
+                ],
+                "types": [
+                    "claw"
+                ]
+            }
+        ],
+        "local weapon implicit hidden % base damage is cold [#]": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "local weapon implicit hidden % base damage is cold [100]",
+                "level": 0,
+                "values": [
+                    [
+                        "100"
+                    ]
+                ],
+                "types": [
+                    "dagger",
+                    "flail"
+                ]
+            }
+        ],
+        "#% of spell mana cost converted to life cost": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "25% of spell mana cost converted to life cost",
+                "level": 0,
+                "values": [
+                    [
+                        "25"
+                    ]
+                ],
+                "types": [
+                    "dagger"
+                ]
+            }
+        ],
+        "breaks # armour on critical hit": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "breaks (400–500) armour on critical hit",
+                "level": 0,
+                "values": [
+                    [
+                        "400",
+                        "500"
+                    ]
+                ],
+                "types": [
+                    "dagger"
+                ]
+            }
+        ],
+        "grants skill: chaos bolt": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: chaos bolt",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "wand"
+                ]
+            }
+        ],
+        "grants skill: bone blast": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: bone blast",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "wand"
+                ]
+            }
+        ],
+        "grants skill: mana drain": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: mana drain",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "wand"
+                ]
+            }
+        ],
+        "grants skill: power siphon": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: power siphon",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "wand"
+                ]
+            }
+        ],
+        "grants skill: volatile dead": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: volatile dead",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "wand"
+                ]
+            }
+        ],
+        "grants skill: galvanic field": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: galvanic field",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "wand"
+                ]
+            }
+        ],
+        "grants skill: decompose": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: decompose",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "wand"
+                ]
+            }
+        ],
+        "grants skill: exsanguinate": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: exsanguinate",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "wand"
+                ]
+            }
+        ],
+        "grants skill: wither": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: wither",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "wand"
+                ]
+            }
+        ],
+        "grants skill: skeletal warrior": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: skeletal warrior",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "sceptre"
+                ]
+            }
+        ],
+        "grants skill: discipline": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: discipline",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "sceptre"
+                ]
+            }
+        ],
+        "grants skill: malice": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: malice",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "sceptre"
+                ]
+            }
+        ],
+        "grants skill: purity of fire": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: purity of fire",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "sceptre"
+                ]
+            }
+        ],
+        "grants skill: purity of ice": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: purity of ice",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "sceptre"
+                ]
+            }
+        ],
+        "grants skill: purity of lightning": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: purity of lightning",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "sceptre"
+                ]
+            }
+        ],
+        "#% chance to maim on hit": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(15–25)% chance to maim on hit",
+                "level": 0,
+                "values": [
+                    [
+                        "15",
+                        "25"
+                    ]
+                ],
+                "types": [
+                    "spear"
+                ]
+            }
+        ],
+        "#% increased projectile speed when thrown": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(25–35)% increased projectile speed when thrown",
+                "level": 0,
+                "values": [
+                    [
+                        "25",
+                        "35"
+                    ]
+                ],
+                "types": [
+                    "spear"
+                ]
+            }
+        ],
+        "uses both hand slots": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "uses both hand slots",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "spear"
+                ]
+            }
+        ],
+        "local weapon implicit hidden % base damage is lightning [#]": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "local weapon implicit hidden % base damage is lightning [100]",
+                "level": 0,
+                "values": [
+                    [
+                        "100"
+                    ]
+                ],
+                "types": [
+                    "spear",
+                    "quarterstaff"
+                ]
+            }
+        ],
+        "unblockable": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "unblockable",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "flail"
+                ]
+            }
+        ],
+        "#% chance to chain an additional time": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(20–30)% chance to chain an additional time",
+                "level": 0,
+                "values": [
+                    [
+                        "20",
+                        "30"
+                    ]
+                ],
+                "types": [
+                    "bow"
+                ]
+            }
+        ],
+        "bow attacks fire # additional arrows": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "bow attacks fire an additional arrow",
+                "level": 0,
+                "values": [
+                    [
+                        "1"
+                    ]
+                ],
+                "types": [
+                    "bow"
+                ]
+            }
+        ],
+        "local weapon implicit hidden % base damage is chaos [#]": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "local weapon implicit hidden % base damage is chaos [100]",
+                "level": 0,
+                "values": [
+                    [
+                        "100"
+                    ]
+                ],
+                "types": [
+                    "bow"
+                ]
+            }
+        ],
+        "#% reduced projectile range": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "50% reduced projectile range",
+                "level": 0,
+                "values": [
+                    [
+                        "50"
+                    ]
+                ],
+                "types": [
+                    "bow"
+                ]
+            }
+        ],
+        "grants skill: firebolt": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: firebolt",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "staff"
+                ]
+            }
+        ],
+        "grants skill: freezing shards": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: freezing shards",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "staff"
+                ]
+            }
+        ],
+        "grants skill: lightning bolt": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: lightning bolt",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "staff"
+                ]
+            }
+        ],
+        "grants skill: living bomb": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: living bomb",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "staff"
+                ]
+            }
+        ],
+        "grants skill: sigil of power": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: sigil of power",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "staff"
+                ]
+            }
+        ],
+        "grants skill: soulrend": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: soulrend",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "staff"
+                ]
+            }
+        ],
+        "grants skill: reap": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: reap",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "staff"
+                ]
+            }
+        ],
+        "grants skill: unleash": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: unleash",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "staff"
+                ]
+            }
+        ],
+        "grants skill: shock nova": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: shock nova",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "staff"
+                ]
+            }
+        ],
+        "grants skill: consecrate": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: consecrate",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "staff"
+                ]
+            }
+        ],
+        "grants skill: dark pact": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: dark pact",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "staff"
+                ]
+            }
+        ],
+        "#% increased range": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "16% increased range",
+                "level": 0,
+                "values": [
+                    [
+                        "16"
+                    ]
+                ],
+                "types": [
+                    "quarterstaff"
+                ]
+            }
+        ],
+        "#% to block chance": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(10–15)% to block chance",
+                "level": 0,
+                "values": [
+                    [
+                        "10",
+                        "15"
+                    ]
+                ],
+                "types": [
+                    "quarterstaff"
+                ]
+            }
+        ],
+        "#% increased bolt speed": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(20–30)% increased bolt speed",
+                "level": 0,
+                "values": [
+                    [
+                        "20",
+                        "30"
+                    ]
+                ],
+                "types": [
+                    "crossbow"
+                ]
+            }
+        ],
+        "loads # additional bolts": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "loads an additional bolt",
+                "level": 0,
+                "values": [
+                    [
+                        "1"
+                    ]
+                ],
+                "types": [
+                    "crossbow"
+                ]
+            }
+        ],
+        "grenade skills fire an additional projectile": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grenade skills fire an additional projectile",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "crossbow"
+                ]
+            }
+        ],
+        "#% chance to pierce an enemy": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(20–30)% chance to pierce an enemy",
+                "level": 0,
+                "values": [
+                    [
+                        "20",
+                        "30"
+                    ]
+                ],
+                "types": [
+                    "crossbow"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "100% chance to pierce an enemy",
+                "level": 0,
+                "values": [
+                    [
+                        "100"
+                    ]
+                ],
+                "types": [
+                    "quiver"
+                ]
+            }
+        ],
+        "# to maximum number of summoned ballista totems": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+1 to maximum number of summoned ballista totems",
+                "level": 0,
+                "values": [
+                    [
+                        "1"
+                    ]
+                ],
+                "types": [
+                    "crossbow"
+                ]
+            }
+        ],
+        "adds # to # physical damage to attacks": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "adds 1 to 3 physical damage to attacks",
+                "level": 0,
+                "values": [
+                    [
+                        "1"
+                    ],
+                    [
+                        "3"
+                    ]
+                ],
+                "types": [
+                    "quiver"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "adds 1 to 4 physical damage to attacks",
+                "level": 0,
+                "values": [
+                    [
+                        "1"
+                    ],
+                    [
+                        "4"
+                    ]
+                ],
+                "types": [
+                    "ring"
+                ]
+            }
+        ],
+        "adds # to # fire damage to attacks": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "adds 3 to 5 fire damage to attacks",
+                "level": 0,
+                "values": [
+                    [
+                        "3"
+                    ],
+                    [
+                        "5"
+                    ]
+                ],
+                "types": [
+                    "quiver"
+                ]
+            }
+        ],
+        "gain # life per enemy hit with attacks": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "gain (2–3) life per enemy hit with attacks",
+                "level": 0,
+                "values": [
+                    [
+                        "2",
+                        "3"
+                    ]
+                ],
+                "types": [
+                    "quiver"
+                ]
+            }
+        ],
+        "#% increased accuracy rating": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(20–30)% increased accuracy rating",
+                "level": 0,
+                "values": [
+                    [
+                        "20",
+                        "30"
+                    ]
+                ],
+                "types": [
+                    "quiver"
+                ]
+            }
+        ],
+        "#% reduced enemy stun threshold": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(20–30)% reduced enemy stun threshold",
+                "level": 0,
+                "values": [
+                    [
+                        "20",
+                        "30"
+                    ]
+                ],
+                "types": [
+                    "quiver"
+                ]
+            }
+        ],
+        "#% chance to poison on hit with attacks": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(10–15)% chance to poison on hit with attacks",
+                "level": 0,
+                "values": [
+                    [
+                        "10",
+                        "15"
+                    ]
+                ],
+                "types": [
+                    "quiver"
+                ]
+            }
+        ],
+        "attacks have #% chance to cause bleeding": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "attacks have (10–15)% chance to cause bleeding",
+                "level": 0,
+                "values": [
+                    [
+                        "10",
+                        "15"
+                    ]
+                ],
+                "types": [
+                    "quiver"
+                ]
+            }
+        ],
+        "#% increased arrow speed": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(20–30)% increased arrow speed",
+                "level": 0,
+                "values": [
+                    [
+                        "20",
+                        "30"
+                    ]
+                ],
+                "types": [
+                    "quiver"
+                ]
+            }
+        ],
+        "#% increased critical hit chance for attacks": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(20–30)% increased critical hit chance for attacks",
+                "level": 0,
+                "values": [
+                    [
+                        "20",
+                        "30"
+                    ]
+                ],
+                "types": [
+                    "quiver"
+                ]
+            }
+        ],
+        "#% to chaos resistance": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(11–19)% to chaos resistance",
+                "level": 0,
+                "values": [
+                    [
+                        "11",
+                        "19"
+                    ]
+                ],
+                "types": [
+                    "shield"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(7–13)% to chaos resistance",
+                "level": 0,
+                "values": [
+                    [
+                        "7",
+                        "13"
+                    ]
+                ],
+                "types": [
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "socketable"
+                ],
+                "key": "+7% to chaos resistance",
+                "level": 1,
+                "values": [
+                    [
+                        "7"
+                    ]
+                ],
+                "types": [
+                    "gloves",
+                    "boots",
+                    "body-armour",
+                    "helmet"
+                ]
+            }
+        ],
+        "grants skill: raise shield": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants skill: raise shield",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "shield"
+                ]
+            }
+        ],
         "#% to fire resistance": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(20–30)% to fire resistance",
+                "level": 0,
+                "values": [
+                    [
+                        "20",
+                        "30"
+                    ]
+                ],
+                "types": [
+                    "ring"
+                ]
+            },
             {
                 "affinities": [
                     "socketable"
@@ -27336,6 +28372,22 @@ var mods2 = {
         "#% to cold resistance": [
             {
                 "affinities": [
+                    "normal"
+                ],
+                "key": "+(20–30)% to cold resistance",
+                "level": 0,
+                "values": [
+                    [
+                        "20",
+                        "30"
+                    ]
+                ],
+                "types": [
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
                     "socketable"
                 ],
                 "key": "+12% to cold resistance",
@@ -27354,6 +28406,22 @@ var mods2 = {
             }
         ],
         "#% to lightning resistance": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(20–30)% to lightning resistance",
+                "level": 0,
+                "values": [
+                    [
+                        "20",
+                        "30"
+                    ]
+                ],
+                "types": [
+                    "ring"
+                ]
+            },
             {
                 "affinities": [
                     "socketable"
@@ -27396,6 +28464,38 @@ var mods2 = {
         "# to maximum life": [
             {
                 "affinities": [
+                    "normal"
+                ],
+                "key": "+(20–30) to maximum life",
+                "level": 0,
+                "values": [
+                    [
+                        "20",
+                        "30"
+                    ]
+                ],
+                "types": [
+                    "gloves"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(30–40) to maximum life",
+                "level": 0,
+                "values": [
+                    [
+                        "30",
+                        "40"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
                     "socketable"
                 ],
                 "key": "+25 to maximum life",
@@ -27414,6 +28514,22 @@ var mods2 = {
             }
         ],
         "# to maximum mana": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(20–30) to maximum mana",
+                "level": 0,
+                "values": [
+                    [
+                        "20",
+                        "30"
+                    ]
+                ],
+                "types": [
+                    "ring"
+                ]
+            },
             {
                 "affinities": [
                     "socketable"
@@ -27454,6 +28570,22 @@ var mods2 = {
             }
         ],
         "#% increased mana regeneration rate": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(20–30)% increased mana regeneration rate",
+                "level": 0,
+                "values": [
+                    [
+                        "20",
+                        "30"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
             {
                 "affinities": [
                     "socketable"
@@ -27513,27 +28645,23 @@ var mods2 = {
                 ]
             }
         ],
-        "#% to chaos resistance": [
+        "#% increased charm charges gained": [
             {
                 "affinities": [
-                    "socketable"
+                    "normal"
                 ],
-                "key": "+7% to chaos resistance",
-                "level": 1,
+                "key": "(20–30)% increased charm charges gained",
+                "level": 0,
                 "values": [
                     [
-                        "7"
+                        "20",
+                        "30"
                     ]
                 ],
                 "types": [
-                    "gloves",
-                    "boots",
-                    "body-armour",
-                    "helmet"
+                    "belt"
                 ]
-            }
-        ],
-        "#% increased charm charges gained": [
+            },
             {
                 "affinities": [
                     "socketable"
@@ -27594,6 +28722,39 @@ var mods2 = {
             }
         ],
         "#% to all elemental resistances": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(8–16)% to all elemental resistances",
+                "level": 0,
+                "values": [
+                    [
+                        "8",
+                        "16"
+                    ]
+                ],
+                "types": [
+                    "boots",
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(7–10)% to all elemental resistances",
+                "level": 0,
+                "values": [
+                    [
+                        "7",
+                        "10"
+                    ]
+                ],
+                "types": [
+                    "ring"
+                ]
+            },
             {
                 "affinities": [
                     "socketable"
@@ -27676,6 +28837,54 @@ var mods2 = {
         "#% increased rarity of items found": [
             {
                 "affinities": [
+                    "normal"
+                ],
+                "key": "(12–20)% increased rarity of items found",
+                "level": 0,
+                "values": [
+                    [
+                        "12",
+                        "20"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(6–15)% increased rarity of items found",
+                "level": 0,
+                "values": [
+                    [
+                        "6",
+                        "15"
+                    ]
+                ],
+                "types": [
+                    "ring"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(20–30)% increased rarity of items found",
+                "level": 0,
+                "values": [
+                    [
+                        "20",
+                        "30"
+                    ]
+                ],
+                "types": [
+                    "belt"
+                ]
+            },
+            {
+                "affinities": [
                     "socketable"
                 ],
                 "key": "10% increased rarity of items found",
@@ -27750,6 +28959,548 @@ var mods2 = {
                     "boots",
                     "body-armour",
                     "helmet"
+                ]
+            }
+        ],
+        "# to all attributes": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(16–24) to all attributes",
+                "level": 0,
+                "values": [
+                    [
+                        "16",
+                        "24"
+                    ]
+                ],
+                "types": [
+                    "helmet"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(5–7) to all attributes",
+                "level": 0,
+                "values": [
+                    [
+                        "5",
+                        "7"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            }
+        ],
+        "# life regeneration per second": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(2–4) life regeneration per second",
+                "level": 0,
+                "values": [
+                    [
+                        "2",
+                        "4"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            }
+        ],
+        "# to strength": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(10–15) to strength",
+                "level": 0,
+                "values": [
+                    [
+                        "10",
+                        "15"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            }
+        ],
+        "# to dexterity": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(10–15) to dexterity",
+                "level": 0,
+                "values": [
+                    [
+                        "10",
+                        "15"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            }
+        ],
+        "# to intelligence": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(10–15) to intelligence",
+                "level": 0,
+                "values": [
+                    [
+                        "10",
+                        "15"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            }
+        ],
+        "# to maximum energy shield": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(20–30) to maximum energy shield",
+                "level": 0,
+                "values": [
+                    [
+                        "20",
+                        "30"
+                    ]
+                ],
+                "types": [
+                    "amulet"
+                ]
+            }
+        ],
+        "#% increased cast speed": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(7–10)% increased cast speed",
+                "level": 0,
+                "values": [
+                    [
+                        "7",
+                        "10"
+                    ]
+                ],
+                "types": [
+                    "ring"
+                ]
+            }
+        ],
+        "grants # additional skill slot": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "grants 1 additional skill slot",
+                "level": 0,
+                "values": [
+                    [
+                        "1"
+                    ]
+                ],
+                "types": [
+                    "ring"
+                ]
+            }
+        ],
+        "maximum quality is #%": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "maximum quality is 50%",
+                "level": 0,
+                "values": [
+                    [
+                        "50"
+                    ]
+                ],
+                "types": [
+                    "ring"
+                ]
+            }
+        ],
+        "#% increased life recovery from flasks": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(20–30)% increased life recovery from flasks",
+                "level": 0,
+                "values": [
+                    [
+                        "20",
+                        "30"
+                    ]
+                ],
+                "types": [
+                    "belt"
+                ]
+            }
+        ],
+        "#% increased mana recovery from flasks": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(20–30)% increased mana recovery from flasks",
+                "level": 0,
+                "values": [
+                    [
+                        "20",
+                        "30"
+                    ]
+                ],
+                "types": [
+                    "belt"
+                ]
+            }
+        ],
+        "#% increased flask charges gained": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(20–30)% increased flask charges gained",
+                "level": 0,
+                "values": [
+                    [
+                        "20",
+                        "30"
+                    ]
+                ],
+                "types": [
+                    "belt"
+                ]
+            }
+        ],
+        "#% increased charm effect duration": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(15–20)% increased charm effect duration",
+                "level": 0,
+                "values": [
+                    [
+                        "15",
+                        "20"
+                    ]
+                ],
+                "types": [
+                    "belt"
+                ]
+            }
+        ],
+        "# to armour": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+(100–140) to armour",
+                "level": 0,
+                "values": [
+                    [
+                        "100",
+                        "140"
+                    ]
+                ],
+                "types": [
+                    "belt"
+                ]
+            }
+        ],
+        "#% reduced charm charges used": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(10–15)% reduced charm charges used",
+                "level": 0,
+                "values": [
+                    [
+                        "10",
+                        "15"
+                    ]
+                ],
+                "types": [
+                    "belt"
+                ]
+            }
+        ],
+        "#% reduced flask charges used": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(10–15)% reduced flask charges used",
+                "level": 0,
+                "values": [
+                    [
+                        "10",
+                        "15"
+                    ]
+                ],
+                "types": [
+                    "belt"
+                ]
+            }
+        ],
+        "#% increased stun threshold": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "(20–30)% increased stun threshold",
+                "level": 0,
+                "values": [
+                    [
+                        "20",
+                        "30"
+                    ]
+                ],
+                "types": [
+                    "belt"
+                ]
+            }
+        ],
+        "#% of flask recovery applied instantly": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "20% of flask recovery applied instantly",
+                "level": 0,
+                "values": [
+                    [
+                        "20"
+                    ]
+                ],
+                "types": [
+                    "belt"
+                ]
+            }
+        ],
+        "flasks gain # charges per second": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "flasks gain 0.17 charges per second",
+                "level": 0,
+                "values": [
+                    [
+                        "0.17"
+                    ]
+                ],
+                "types": [
+                    "belt"
+                ]
+            }
+        ],
+        "used when you become frozen": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "used when you become frozen",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "charm"
+                ]
+            }
+        ],
+        "used when you start bleeding": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "used when you start bleeding",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "charm"
+                ]
+            }
+        ],
+        "used when you become poisoned": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "used when you become poisoned",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "charm"
+                ]
+            }
+        ],
+        "used when you become ignited": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "used when you become ignited",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "charm"
+                ]
+            }
+        ],
+        "used when you become shocked": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "used when you become shocked",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "charm"
+                ]
+            }
+        ],
+        "used when you become stunned": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "used when you become stunned",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "charm"
+                ]
+            }
+        ],
+        "used when you are affected by a slow": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "used when you are affected by a slow",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "charm"
+                ]
+            }
+        ],
+        "used when you take fire damage from a hit": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "used when you take fire damage from a hit",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "charm"
+                ]
+            }
+        ],
+        "used when you take cold damage from a hit": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "used when you take cold damage from a hit",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "charm"
+                ]
+            }
+        ],
+        "used when you take lightning damage from a hit": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "used when you take lightning damage from a hit",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "charm"
+                ]
+            }
+        ],
+        "used when you take chaos damage from a hit": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "used when you take chaos damage from a hit",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "charm"
+                ]
+            }
+        ],
+        "used when you kill a rare or unique enemy": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "used when you kill a rare or unique enemy",
+                "level": 0,
+                "values": [],
+                "types": [
+                    "charm"
+                ]
+            }
+        ],
+        "local jewel effect base radius [#]": [
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "local jewel effect base radius [1000]",
+                "level": 0,
+                "values": [
+                    [
+                        "1000"
+                    ]
+                ],
+                "types": [
+                    "jewel"
+                ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "local jewel effect base radius [1300]",
+                "level": 0,
+                "values": [
+                    [
+                        "1300"
+                    ]
+                ],
+                "types": [
+                    "jewel"
                 ]
             }
         ]
