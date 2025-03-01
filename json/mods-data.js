@@ -110224,12 +110224,12 @@ var mods = {
                 ]
             }
         ],
-        "spend energy shield before mana for costs of socketed skills# to maximum energy shield": [
+        "spend energy shield before mana for costs of socketed skills|||||# to maximum energy shield": [
             {
                 "affinities": [
                     "normal"
                 ],
-                "key": "spend energy shield before mana for costs of socketed skills+(66–80) to maximum energy shield",
+                "key": "spend energy shield before mana for costs of socketed skills|||||+(66–80) to maximum energy shield",
                 "level": 0,
                 "values": [
                     [
@@ -110245,7 +110245,7 @@ var mods = {
                 "affinities": [
                     "normal"
                 ],
-                "key": "spend energy shield before mana for costs of socketed skills+(100–120) to maximum energy shield",
+                "key": "spend energy shield before mana for costs of socketed skills|||||+(100–120) to maximum energy shield",
                 "level": 0,
                 "values": [
                     [
@@ -110261,7 +110261,7 @@ var mods = {
                 "affinities": [
                     "normal"
                 ],
-                "key": "spend energy shield before mana for costs of socketed skills+(140–165) to maximum energy shield",
+                "key": "spend energy shield before mana for costs of socketed skills|||||+(140–165) to maximum energy shield",
                 "level": 0,
                 "values": [
                     [
@@ -123382,12 +123382,12 @@ var mods = {
                 ]
             }
         ],
-        "#% to maximum chaos resistance|||||#% additional physical damage reductionyou are crushed": [
+        "#% to maximum chaos resistance|||||#% additional physical damage reduction|||||you are crushed": [
             {
                 "affinities": [
                     "normal"
                 ],
-                "key": "+2% to maximum chaos resistance|||||-15% additional physical damage reductionyou are crushed",
+                "key": "+2% to maximum chaos resistance|||||-15% additional physical damage reduction|||||you are crushed",
                 "level": 0,
                 "values": [
                     [
@@ -123405,7 +123405,7 @@ var mods = {
                 "affinities": [
                     "normal"
                 ],
-                "key": "+3% to maximum chaos resistance|||||-15% additional physical damage reductionyou are crushed",
+                "key": "+3% to maximum chaos resistance|||||-15% additional physical damage reduction|||||you are crushed",
                 "level": 0,
                 "values": [
                     [
@@ -123423,7 +123423,7 @@ var mods = {
                 "affinities": [
                     "normal"
                 ],
-                "key": "+4% to maximum chaos resistance|||||-15% additional physical damage reductionyou are crushed",
+                "key": "+4% to maximum chaos resistance|||||-15% additional physical damage reduction|||||you are crushed",
                 "level": 0,
                 "values": [
                     [
@@ -125190,12 +125190,12 @@ var mods = {
                 ]
             }
         ],
-        "implicit modifiers cannot be changedhas elder, shaper and all conqueror influences": [
+        "implicit modifiers cannot be changed|||||has elder, shaper and all conqueror influences": [
             {
                 "affinities": [
                     "normal"
                 ],
-                "key": "implicit modifiers cannot be changedhas elder, shaper and all conqueror influences",
+                "key": "implicit modifiers cannot be changed|||||has elder, shaper and all conqueror influences",
                 "level": 0,
                 "values": [],
                 "types": [
@@ -125203,12 +125203,12 @@ var mods = {
                 ]
             }
         ],
-        "# prefix modifiers allowed|||||# suffix modifier allowedimplicit modifiers cannot be changed#% increased explicit modifier magnitudes": [
+        "# prefix modifiers allowed|||||# suffix modifier allowed|||||implicit modifiers cannot be changed|||||#% increased explicit modifier magnitudes": [
             {
                 "affinities": [
                     "normal"
                 ],
-                "key": "-2 prefix modifiers allowed|||||-1 suffix modifier allowedimplicit modifiers cannot be changed100% increased explicit modifier magnitudes",
+                "key": "-2 prefix modifiers allowed|||||-1 suffix modifier allowed|||||implicit modifiers cannot be changed|||||100% increased explicit modifier magnitudes",
                 "level": 0,
                 "values": [
                     [
@@ -125226,12 +125226,12 @@ var mods = {
                 ]
             }
         ],
-        "# prefix modifier allowed|||||# suffix modifiers allowedimplicit modifiers cannot be changed#% increased explicit modifier magnitudes": [
+        "# prefix modifier allowed|||||# suffix modifiers allowed|||||implicit modifiers cannot be changed|||||#% increased explicit modifier magnitudes": [
             {
                 "affinities": [
                     "normal"
                 ],
-                "key": "-1 prefix modifier allowed|||||-2 suffix modifiers allowedimplicit modifiers cannot be changed100% increased explicit modifier magnitudes",
+                "key": "-1 prefix modifier allowed|||||-2 suffix modifiers allowed|||||implicit modifiers cannot be changed|||||100% increased explicit modifier magnitudes",
                 "level": 0,
                 "values": [
                     [
@@ -126426,12 +126426,12 @@ var mods = {
                 ]
             }
         ],
-        "# prefix modifier allowed|||||# suffix modifier allowedimplicit modifiers cannot be changed#% increased suffix modifier magnitudes": [
+        "# prefix modifier allowed|||||# suffix modifier allowed|||||implicit modifiers cannot be changed|||||#% increased suffix modifier magnitudes": [
             {
                 "affinities": [
                     "normal"
                 ],
-                "key": "-1 prefix modifier allowed|||||+1 suffix modifier allowedimplicit modifiers cannot be changed25% increased suffix modifier magnitudes",
+                "key": "-1 prefix modifier allowed|||||+1 suffix modifier allowed|||||implicit modifiers cannot be changed|||||25% increased suffix modifier magnitudes",
                 "level": 0,
                 "values": [
                     [
@@ -126449,12 +126449,12 @@ var mods = {
                 ]
             }
         ],
-        "# prefix modifier allowed|||||# suffix modifier allowedimplicit modifiers cannot be changed#% increased prefix modifier magnitudes": [
+        "# prefix modifier allowed|||||# suffix modifier allowed|||||implicit modifiers cannot be changed|||||#% increased prefix modifier magnitudes": [
             {
                 "affinities": [
                     "normal"
                 ],
-                "key": "+1 prefix modifier allowed|||||-1 suffix modifier allowedimplicit modifiers cannot be changed25% increased prefix modifier magnitudes",
+                "key": "+1 prefix modifier allowed|||||-1 suffix modifier allowed|||||implicit modifiers cannot be changed|||||25% increased prefix modifier magnitudes",
                 "level": 0,
                 "values": [
                     [
@@ -126472,12 +126472,12 @@ var mods = {
                 ]
             }
         ],
-        "# prefix modifiers allowed|||||# suffix modifiers allowedimplicit modifiers cannot be changed": [
+        "# prefix modifiers allowed|||||# suffix modifiers allowed|||||implicit modifiers cannot be changed": [
             {
                 "affinities": [
                     "normal"
                 ],
-                "key": "+3 prefix modifiers allowed|||||-3 suffix modifiers allowedimplicit modifiers cannot be changed",
+                "key": "+3 prefix modifiers allowed|||||-3 suffix modifiers allowed|||||implicit modifiers cannot be changed",
                 "level": 0,
                 "values": [
                     [
@@ -126495,7 +126495,7 @@ var mods = {
                 "affinities": [
                     "normal"
                 ],
-                "key": "-3 prefix modifiers allowed|||||+3 suffix modifiers allowedimplicit modifiers cannot be changed",
+                "key": "-3 prefix modifiers allowed|||||+3 suffix modifiers allowed|||||implicit modifiers cannot be changed",
                 "level": 0,
                 "values": [
                     [
@@ -126510,12 +126510,12 @@ var mods = {
                 ]
             }
         ],
-        "# prefix modifier allowed|||||# suffix modifiers allowedimplicit modifiers cannot be changed#% increased prefix modifier magnitudes": [
+        "# prefix modifier allowed|||||# suffix modifiers allowed|||||implicit modifiers cannot be changed|||||#% increased prefix modifier magnitudes": [
             {
                 "affinities": [
                     "normal"
                 ],
-                "key": "+1 prefix modifier allowed|||||-2 suffix modifiers allowedimplicit modifiers cannot be changed50% increased prefix modifier magnitudes",
+                "key": "+1 prefix modifier allowed|||||-2 suffix modifiers allowed|||||implicit modifiers cannot be changed|||||50% increased prefix modifier magnitudes",
                 "level": 0,
                 "values": [
                     [
@@ -126533,12 +126533,12 @@ var mods = {
                 ]
             }
         ],
-        "# prefix modifiers allowed|||||# suffix modifier allowedimplicit modifiers cannot be changed#% increased suffix modifier magnitudes": [
+        "# prefix modifiers allowed|||||# suffix modifier allowed|||||implicit modifiers cannot be changed|||||#% increased suffix modifier magnitudes": [
             {
                 "affinities": [
                     "normal"
                 ],
-                "key": "-2 prefix modifiers allowed|||||+1 suffix modifier allowedimplicit modifiers cannot be changed50% increased suffix modifier magnitudes",
+                "key": "-2 prefix modifiers allowed|||||+1 suffix modifier allowed|||||implicit modifiers cannot be changed|||||50% increased suffix modifier magnitudes",
                 "level": 0,
                 "values": [
                     [
@@ -127405,12 +127405,12 @@ var mods = {
                 ]
             }
         ],
-        "flasks applied to you have #% increased effectcan't use flask in fifth slot": [
+        "flasks applied to you have #% increased effect|||||can't use flask in fifth slot": [
             {
                 "affinities": [
                     "normal"
                 ],
-                "key": "flasks applied to you have 30% increased effectcan't use flask in fifth slot",
+                "key": "flasks applied to you have 30% increased effect|||||can't use flask in fifth slot",
                 "level": 0,
                 "values": [
                     [
