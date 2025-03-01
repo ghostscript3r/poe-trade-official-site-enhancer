@@ -36874,7 +36874,7 @@ var mods = {
                 ]
             }
         ],
-        "you have igniting conflux for # seconds every # seconds": [
+        "you have # conflux for # seconds every # seconds": [
             {
                 "affinities": [
                     "hunter"
@@ -36883,6 +36883,9 @@ var mods = {
                 "level": "80",
                 "values": [
                     [
+                        "igniting"
+                    ],
+                    [
                         "3"
                     ],
                     [
@@ -36892,9 +36895,7 @@ var mods = {
                 "types": [
                     "helmet"
                 ]
-            }
-        ],
-        "you have chilling conflux for # seconds every # seconds": [
+            },
             {
                 "affinities": [
                     "hunter"
@@ -36903,6 +36904,9 @@ var mods = {
                 "level": "80",
                 "values": [
                     [
+                        "chilling"
+                    ],
+                    [
                         "3"
                     ],
                     [
@@ -36912,9 +36916,7 @@ var mods = {
                 "types": [
                     "helmet"
                 ]
-            }
-        ],
-        "you have shocking conflux for # seconds every # seconds": [
+            },
             {
                 "affinities": [
                     "hunter"
@@ -36923,6 +36925,9 @@ var mods = {
                 "level": "80",
                 "values": [
                     [
+                        "shocking"
+                    ],
+                    [
                         "3"
                     ],
                     [
@@ -36934,7 +36939,7 @@ var mods = {
                 ]
             }
         ],
-        "#% increased ignite duration on enemies|||||you have igniting conflux for # seconds every # seconds": [
+        "#% increased ignite duration on enemies|||||you have # conflux for # seconds every # seconds": [
             {
                 "affinities": [
                     "hunter"
@@ -36947,6 +36952,9 @@ var mods = {
                         "30"
                     ],
                     [
+                        "igniting"
+                    ],
+                    [
                         "3"
                     ],
                     [
@@ -36958,7 +36966,7 @@ var mods = {
                 ]
             }
         ],
-        "#% increased chill duration on enemies|||||you have chilling conflux for # seconds every # seconds": [
+        "#% increased chill duration on enemies|||||you have # conflux for # seconds every # seconds": [
             {
                 "affinities": [
                     "hunter"
@@ -36971,6 +36979,9 @@ var mods = {
                         "30"
                     ],
                     [
+                        "chilling"
+                    ],
+                    [
                         "3"
                     ],
                     [
@@ -36982,7 +36993,7 @@ var mods = {
                 ]
             }
         ],
-        "#% increased shock duration on enemies|||||you have shocking conflux for # seconds every # seconds": [
+        "#% increased shock duration on enemies|||||you have # conflux for # seconds every # seconds": [
             {
                 "affinities": [
                     "hunter"
@@ -36993,6 +37004,9 @@ var mods = {
                     [
                         "20",
                         "30"
+                    ],
+                    [
+                        "shocking"
                     ],
                     [
                         "3"
