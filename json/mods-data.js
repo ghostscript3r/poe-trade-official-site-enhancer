@@ -125203,7 +125203,7 @@ var mods = {
                 ]
             }
         ],
-        "# prefix modifiers allowed|||||# suffix modifier allowed|||||implicit modifiers cannot be changed|||||#% increased explicit modifier magnitudes": [
+        "# prefix modifier allowed|||||# suffix modifier allowed|||||implicit modifiers cannot be changed|||||#% increased explicit modifier magnitudes": [
             {
                 "affinities": [
                     "normal"
@@ -125224,9 +125224,7 @@ var mods = {
                 "types": [
                     "amulet"
                 ]
-            }
-        ],
-        "# prefix modifier allowed|||||# suffix modifiers allowed|||||implicit modifiers cannot be changed|||||#% increased explicit modifier magnitudes": [
+            },
             {
                 "affinities": [
                     "normal"
@@ -126447,6 +126445,27 @@ var mods = {
                 "types": [
                     "ring"
                 ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "-2 prefix modifiers allowed|||||+1 suffix modifier allowed|||||implicit modifiers cannot be changed|||||50% increased suffix modifier magnitudes",
+                "level": 0,
+                "values": [
+                    [
+                        "-2"
+                    ],
+                    [
+                        "1"
+                    ],
+                    [
+                        "50"
+                    ]
+                ],
+                "types": [
+                    "ring"
+                ]
             }
         ],
         "# prefix modifier allowed|||||# suffix modifier allowed|||||implicit modifiers cannot be changed|||||#% increased prefix modifier magnitudes": [
@@ -126470,9 +126489,30 @@ var mods = {
                 "types": [
                     "ring"
                 ]
+            },
+            {
+                "affinities": [
+                    "normal"
+                ],
+                "key": "+1 prefix modifier allowed|||||-2 suffix modifiers allowed|||||implicit modifiers cannot be changed|||||50% increased prefix modifier magnitudes",
+                "level": 0,
+                "values": [
+                    [
+                        "1"
+                    ],
+                    [
+                        "-2"
+                    ],
+                    [
+                        "50"
+                    ]
+                ],
+                "types": [
+                    "ring"
+                ]
             }
         ],
-        "# prefix modifiers allowed|||||# suffix modifiers allowed|||||implicit modifiers cannot be changed": [
+        "# prefix modifier allowed|||||# suffix modifier allowed|||||implicit modifiers cannot be changed": [
             {
                 "affinities": [
                     "normal"
@@ -126503,52 +126543,6 @@ var mods = {
                     ],
                     [
                         "3"
-                    ]
-                ],
-                "types": [
-                    "ring"
-                ]
-            }
-        ],
-        "# prefix modifier allowed|||||# suffix modifiers allowed|||||implicit modifiers cannot be changed|||||#% increased prefix modifier magnitudes": [
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "+1 prefix modifier allowed|||||-2 suffix modifiers allowed|||||implicit modifiers cannot be changed|||||50% increased prefix modifier magnitudes",
-                "level": 0,
-                "values": [
-                    [
-                        "1"
-                    ],
-                    [
-                        "-2"
-                    ],
-                    [
-                        "50"
-                    ]
-                ],
-                "types": [
-                    "ring"
-                ]
-            }
-        ],
-        "# prefix modifiers allowed|||||# suffix modifier allowed|||||implicit modifiers cannot be changed|||||#% increased suffix modifier magnitudes": [
-            {
-                "affinities": [
-                    "normal"
-                ],
-                "key": "-2 prefix modifiers allowed|||||+1 suffix modifier allowed|||||implicit modifiers cannot be changed|||||50% increased suffix modifier magnitudes",
-                "level": 0,
-                "values": [
-                    [
-                        "-2"
-                    ],
-                    [
-                        "1"
-                    ],
-                    [
-                        "50"
                     ]
                 ],
                 "types": [
