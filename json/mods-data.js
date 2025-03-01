@@ -88244,7 +88244,7 @@ var mods = {
                 ]
             }
         ],
-        "# to maximum power charges|||||#% chance that if you would gain power charges, you instead gain up to|||||your maximum number of power charges": [
+        "# to maximum power charges|||||#% chance that if you would gain power charges, you instead gain up to your maximum number of power charges": [
             {
                 "affinities": [
                     "warlord"
