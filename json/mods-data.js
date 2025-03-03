@@ -33197,19 +33197,16 @@ var mods = {
                 ]
             }
         ],
-        "#% reduced elemental damage taken while stationary|||||essence buff elemental damage taken +% [#]": [
+        "#% reduced elemental damage taken while stationary": [
             {
                 "affinities": [
                     "essence"
                 ],
-                "key": "5% reduced elemental damage taken while stationary|||||essence buff elemental damage taken +% [-5]",
+                "key": "5% reduced elemental damage taken while stationary",
                 "level": "63",
                 "values": [
                     [
                         "5"
-                    ],
-                    [
-                        "-5"
                     ]
                 ],
                 "types": [
