@@ -110,7 +110,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -148,7 +148,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -252,7 +252,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -491,7 +491,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -536,7 +536,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -573,7 +573,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -611,7 +611,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -641,7 +641,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -670,7 +670,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -707,7 +707,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -738,7 +738,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -770,7 +770,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -801,7 +801,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -831,7 +831,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -862,7 +862,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -941,7 +941,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -992,7 +992,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves"
@@ -1026,7 +1026,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves"
@@ -1059,7 +1059,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -1089,7 +1089,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -1153,7 +1153,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -1215,7 +1215,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -1243,7 +1243,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -1305,7 +1305,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -1366,7 +1366,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -1431,7 +1431,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -1459,7 +1459,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -1549,7 +1549,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "amulet",
                     "ring"
@@ -1574,7 +1574,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "amulet",
                     "ring"
@@ -1599,7 +1599,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "amulet",
                     "ring"
@@ -1632,7 +1632,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "amulet",
                     "ring"
@@ -1657,7 +1657,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "amulet",
                     "ring"
@@ -1690,7 +1690,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "amulet",
                     "ring"
@@ -1716,7 +1716,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "amulet",
                     "ring"
@@ -1794,7 +1794,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "amulet",
                     "ring"
@@ -1847,7 +1847,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -1903,7 +1903,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -1942,7 +1942,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -1982,7 +1982,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -2021,7 +2021,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -2061,7 +2061,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -2100,7 +2100,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -2139,7 +2139,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -2177,7 +2177,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -2217,7 +2217,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -2257,7 +2257,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -2299,7 +2299,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -2355,7 +2355,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -2394,7 +2394,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -2434,7 +2434,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -2473,7 +2473,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -2513,7 +2513,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -2552,7 +2552,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -2591,7 +2591,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -2629,7 +2629,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -2669,7 +2669,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -2709,7 +2709,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -2750,7 +2750,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -2805,7 +2805,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -2844,7 +2844,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -2884,7 +2884,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -2923,7 +2923,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -2963,7 +2963,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -3002,7 +3002,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -3041,7 +3041,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -3079,7 +3079,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -3119,7 +3119,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -3159,7 +3159,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -3216,7 +3216,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -3255,7 +3255,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -3294,7 +3294,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -3334,7 +3334,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -3374,7 +3374,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -3414,7 +3414,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -3471,7 +3471,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "belt"
                 ]
@@ -3503,7 +3503,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "belt"
                 ]
@@ -3536,7 +3536,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "belt"
                 ]
@@ -3569,7 +3569,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "belt"
                 ]
@@ -3602,7 +3602,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "belt"
                 ]
@@ -3651,7 +3651,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -3680,7 +3680,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -3709,7 +3709,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -3738,7 +3738,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -3770,7 +3770,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "gloves",
                     "amulet",
@@ -3804,7 +3804,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "gloves",
                     "amulet",
@@ -3838,7 +3838,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "gloves",
                     "amulet",
@@ -3873,7 +3873,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "gloves",
                     "amulet",
@@ -3907,7 +3907,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "gloves",
                     "amulet",
@@ -3941,7 +3941,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "gloves",
                     "amulet",
@@ -3977,7 +3977,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -4007,7 +4007,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -4038,7 +4038,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -4068,7 +4068,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -4099,7 +4099,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -4130,7 +4130,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -4160,7 +4160,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -4191,7 +4191,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -4221,7 +4221,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -4269,7 +4269,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -4315,7 +4315,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -4377,7 +4377,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -4423,7 +4423,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -4453,7 +4453,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -4518,7 +4518,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "amulet"
                 ]
@@ -4550,7 +4550,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -4644,7 +4644,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -4706,7 +4706,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -4867,7 +4867,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -4919,7 +4919,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -4949,7 +4949,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -5008,7 +5008,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -5038,7 +5038,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -5112,7 +5112,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -5164,7 +5164,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -5216,7 +5216,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -5269,7 +5269,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -5319,7 +5319,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -5353,7 +5353,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -5393,7 +5393,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "helmet",
                     "ring"
                 ]
@@ -5428,7 +5428,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "helmet",
                     "ring"
                 ]
@@ -5463,7 +5463,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "helmet",
                     "ring"
                 ]
@@ -5529,7 +5529,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -5575,7 +5575,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -5637,7 +5637,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -5683,7 +5683,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -5729,7 +5729,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -6116,7 +6116,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -6771,7 +6771,7 @@ var mods = {
                 "types": [
                     "claw",
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -6793,7 +6793,7 @@ var mods = {
                     "claw",
                     "wand",
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -6815,7 +6815,7 @@ var mods = {
                     "claw",
                     "wand",
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -6837,7 +6837,7 @@ var mods = {
                     "claw",
                     "wand",
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -6858,7 +6858,7 @@ var mods = {
                 "types": [
                     "claw",
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -6879,7 +6879,7 @@ var mods = {
                 "types": [
                     "claw",
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -7166,7 +7166,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -7196,7 +7196,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -7226,7 +7226,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -7256,7 +7256,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -7286,7 +7286,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -7408,7 +7408,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -7533,7 +7533,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -7617,7 +7617,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -7690,7 +7690,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -7711,7 +7711,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -7810,7 +7810,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -7853,7 +7853,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -8009,7 +8009,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -8039,7 +8039,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -8073,7 +8073,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -8106,7 +8106,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -8139,7 +8139,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -8204,7 +8204,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -8269,7 +8269,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -8299,7 +8299,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -8391,7 +8391,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -8452,7 +8452,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -8483,7 +8483,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -8519,7 +8519,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -8555,7 +8555,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -8591,7 +8591,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "gloves",
                     "boots",
                     "chest",
@@ -8640,7 +8640,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -8664,7 +8664,7 @@ var mods = {
                     "bow",
                     "two-hand-sword",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -8695,7 +8695,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield"
                 ]
             },
@@ -8741,7 +8741,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -8787,7 +8787,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -8852,7 +8852,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -9001,7 +9001,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -9082,7 +9082,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -9107,7 +9107,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -9160,7 +9160,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -9213,7 +9213,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -9250,7 +9250,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -9285,7 +9285,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -9320,7 +9320,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -9390,7 +9390,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -9410,7 +9410,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -9445,7 +9445,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -9508,7 +9508,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -9543,7 +9543,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -9606,7 +9606,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -9689,7 +9689,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -9722,7 +9722,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -9755,7 +9755,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -9825,7 +9825,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -9845,7 +9845,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -9878,7 +9878,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -9941,7 +9941,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -9974,7 +9974,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -10037,7 +10037,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -10242,7 +10242,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -10262,7 +10262,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -10359,7 +10359,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -10456,7 +10456,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -10540,7 +10540,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -10574,7 +10574,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -10608,7 +10608,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -10678,7 +10678,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -10698,7 +10698,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -10732,7 +10732,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -10795,7 +10795,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -10829,7 +10829,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -10892,7 +10892,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -10957,7 +10957,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -11002,7 +11002,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -11099,7 +11099,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -11144,7 +11144,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -11209,7 +11209,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -11254,7 +11254,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -11409,7 +11409,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -11430,7 +11430,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -11475,7 +11475,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -11520,7 +11520,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -11590,7 +11590,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -11611,7 +11611,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -11656,7 +11656,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -11701,7 +11701,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -11774,7 +11774,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -11795,7 +11795,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -11841,7 +11841,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -11887,7 +11887,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -11921,7 +11921,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -11955,7 +11955,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -12008,7 +12008,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -12044,7 +12044,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -12078,7 +12078,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -12112,7 +12112,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -12148,7 +12148,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -12182,7 +12182,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -12216,7 +12216,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -12252,7 +12252,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -12288,7 +12288,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -12345,7 +12345,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -12425,7 +12425,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -12449,7 +12449,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -12500,7 +12500,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -12551,7 +12551,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -12578,7 +12578,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -12627,7 +12627,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -12665,7 +12665,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -12704,7 +12704,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -12739,7 +12739,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -12773,7 +12773,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -12811,7 +12811,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -12846,7 +12846,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -12881,7 +12881,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -12915,7 +12915,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -12949,7 +12949,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -12983,7 +12983,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -13079,7 +13079,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -13118,7 +13118,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -13157,7 +13157,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -13212,7 +13212,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -13251,7 +13251,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -13290,7 +13290,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -13345,7 +13345,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -13384,7 +13384,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -13423,7 +13423,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -13529,7 +13529,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -13600,7 +13600,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -13877,7 +13877,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -14006,7 +14006,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -14053,7 +14053,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -14100,7 +14100,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -14144,7 +14144,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -14191,7 +14191,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -14212,7 +14212,7 @@ var mods = {
                     "wand",
                     "sceptre",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "amulet",
                     "ring"
                 ]
@@ -14261,7 +14261,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "amulet",
                     "ring"
                 ]
@@ -14282,7 +14282,7 @@ var mods = {
                     "wand",
                     "sceptre",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "amulet",
                     "ring"
                 ]
@@ -14320,7 +14320,7 @@ var mods = {
                     "wand",
                     "sceptre",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "amulet",
                     "ring"
                 ]
@@ -14352,7 +14352,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "amulet",
                     "ring"
                 ]
@@ -14390,7 +14390,7 @@ var mods = {
                     "wand",
                     "sceptre",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "amulet",
                     "ring"
                 ]
@@ -14428,7 +14428,7 @@ var mods = {
                     "wand",
                     "sceptre",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "amulet"
                 ]
             },
@@ -14465,7 +14465,7 @@ var mods = {
                     "wand",
                     "sceptre",
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -14537,7 +14537,7 @@ var mods = {
                     "wand",
                     "sceptre",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "amulet",
                     "ring"
                 ]
@@ -14569,7 +14569,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "amulet",
                     "ring"
                 ]
@@ -14590,7 +14590,7 @@ var mods = {
                     "wand",
                     "sceptre",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "amulet",
                     "ring"
                 ]
@@ -14628,7 +14628,7 @@ var mods = {
                     "wand",
                     "sceptre",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "amulet",
                     "ring"
                 ]
@@ -14660,7 +14660,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "amulet",
                     "ring"
                 ]
@@ -14698,7 +14698,7 @@ var mods = {
                     "wand",
                     "sceptre",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "amulet",
                     "ring"
                 ]
@@ -14736,7 +14736,7 @@ var mods = {
                     "wand",
                     "sceptre",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "amulet"
                 ]
             },
@@ -14773,7 +14773,7 @@ var mods = {
                     "wand",
                     "sceptre",
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -14811,7 +14811,7 @@ var mods = {
                     "wand",
                     "sceptre",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "amulet",
                     "ring"
                 ]
@@ -14843,7 +14843,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "amulet",
                     "ring"
                 ]
@@ -14865,7 +14865,7 @@ var mods = {
                     "wand",
                     "sceptre",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "amulet",
                     "ring"
                 ]
@@ -14887,7 +14887,7 @@ var mods = {
                     "wand",
                     "sceptre",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "amulet",
                     "ring"
                 ]
@@ -14919,7 +14919,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "amulet",
                     "ring"
                 ]
@@ -14940,7 +14940,7 @@ var mods = {
                     "wand",
                     "sceptre",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "amulet",
                     "ring"
                 ]
@@ -14962,7 +14962,7 @@ var mods = {
                     "wand",
                     "sceptre",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "amulet",
                     "ring"
                 ]
@@ -14984,7 +14984,7 @@ var mods = {
                     "wand",
                     "sceptre",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "amulet",
                     "ring"
                 ]
@@ -15051,7 +15051,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "amulet",
                     "ring"
                 ]
@@ -15083,7 +15083,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "amulet",
                     "ring"
                 ]
@@ -15258,7 +15258,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -15309,7 +15309,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield"
                 ]
             },
@@ -15354,7 +15354,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -15385,7 +15385,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield"
                 ]
             },
@@ -15416,7 +15416,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield"
                 ]
             }
@@ -15483,7 +15483,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -15500,7 +15500,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -15579,7 +15579,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -15679,7 +15679,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -15696,7 +15696,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -15775,7 +15775,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -15843,7 +15843,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -15875,7 +15875,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -15938,7 +15938,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -15977,7 +15977,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -16018,7 +16018,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -16081,7 +16081,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -16120,7 +16120,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -16161,7 +16161,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -16224,7 +16224,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -16263,7 +16263,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -16299,7 +16299,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -16339,7 +16339,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -16375,7 +16375,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -16411,7 +16411,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -16451,7 +16451,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -16485,7 +16485,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -16516,7 +16516,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -16584,7 +16584,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -16615,7 +16615,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "fishing-rod",
                     "quiver",
                     "shield",
@@ -16656,7 +16656,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "fishing-rod",
                     "quiver",
                     "shield",
@@ -16697,7 +16697,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "fishing-rod",
                     "quiver",
                     "shield",
@@ -16738,7 +16738,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "fishing-rod",
                     "quiver",
                     "shield",
@@ -17102,7 +17102,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -17140,7 +17140,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -17186,7 +17186,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -17251,7 +17251,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -17297,7 +17297,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -17458,7 +17458,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -17490,7 +17490,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -17522,7 +17522,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -17556,7 +17556,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -17588,7 +17588,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -17620,7 +17620,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -17654,7 +17654,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -17686,7 +17686,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -17718,7 +17718,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -18808,7 +18808,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -18858,7 +18858,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -19554,7 +19554,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -19581,7 +19581,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "belt"
                 ]
             },
@@ -19607,7 +19607,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "belt"
                 ]
             },
@@ -19633,7 +19633,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "belt"
                 ]
             },
@@ -19660,7 +19660,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "belt"
                 ]
             },
@@ -19687,7 +19687,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "belt"
                 ]
             },
@@ -19809,7 +19809,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -19834,7 +19834,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -20320,7 +20320,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -21317,7 +21317,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -21361,7 +21361,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -21387,7 +21387,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -21411,7 +21411,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -21476,7 +21476,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -21497,7 +21497,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -21518,7 +21518,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -21539,7 +21539,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -21686,7 +21686,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -21728,7 +21728,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -21754,7 +21754,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -21778,7 +21778,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -21796,7 +21796,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -21812,7 +21812,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "gloves"
                 ]
             }
@@ -21867,7 +21867,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -21888,7 +21888,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -21909,7 +21909,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -21927,7 +21927,7 @@ var mods = {
                     "staff",
                     "two-hand-sword",
                     "two-hand-axe",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -22061,7 +22061,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -22079,7 +22079,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -22101,7 +22101,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -22124,7 +22124,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -22145,7 +22145,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -22164,7 +22164,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -22183,7 +22183,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -22202,7 +22202,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -22265,7 +22265,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -22287,7 +22287,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -22310,7 +22310,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield"
                 ]
             },
@@ -22332,7 +22332,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield"
                 ]
             }
@@ -22356,7 +22356,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield"
                 ]
             },
@@ -22378,7 +22378,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield"
                 ]
             }
@@ -22398,7 +22398,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -22415,7 +22415,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -22434,7 +22434,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -22451,7 +22451,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -44745,7 +44745,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -44805,7 +44805,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -44865,7 +44865,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -44933,7 +44933,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -44994,7 +44994,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -45054,7 +45054,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -45114,7 +45114,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -45182,7 +45182,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -45243,7 +45243,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -45303,7 +45303,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -45388,7 +45388,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -45408,7 +45408,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -45493,7 +45493,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -45578,7 +45578,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -45598,7 +45598,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -45659,7 +45659,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -45753,7 +45753,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -45787,7 +45787,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -45821,7 +45821,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -45855,7 +45855,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -45889,7 +45889,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -45923,7 +45923,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -45957,7 +45957,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -45991,7 +45991,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -46023,7 +46023,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -46053,7 +46053,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -46083,7 +46083,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -46113,7 +46113,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -46143,7 +46143,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -46173,7 +46173,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -46203,7 +46203,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -46233,7 +46233,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -46263,7 +46263,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -46293,7 +46293,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -46323,7 +46323,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -46353,7 +46353,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -46428,7 +46428,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -46483,7 +46483,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -46536,7 +46536,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -46591,7 +46591,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -46646,7 +46646,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -46699,7 +46699,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -46752,7 +46752,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -46807,7 +46807,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -46862,7 +46862,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -46915,7 +46915,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -46968,7 +46968,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -47021,7 +47021,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -47074,7 +47074,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -47129,7 +47129,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -47204,7 +47204,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -47257,7 +47257,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -47310,7 +47310,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -47365,7 +47365,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -47418,7 +47418,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -47471,7 +47471,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -47526,7 +47526,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -47579,7 +47579,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -47634,7 +47634,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -47687,7 +47687,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -47742,7 +47742,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -47823,7 +47823,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -47848,7 +47848,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -47925,7 +47925,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -47980,7 +47980,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -48033,7 +48033,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -48086,7 +48086,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -48141,7 +48141,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -48194,7 +48194,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -48247,7 +48247,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -48302,7 +48302,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -48355,7 +48355,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -48410,7 +48410,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -48463,7 +48463,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -48518,7 +48518,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -48599,7 +48599,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -48624,7 +48624,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -48696,7 +48696,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -48747,7 +48747,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -48799,7 +48799,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -48852,7 +48852,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -48906,7 +48906,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -48959,7 +48959,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -49012,7 +49012,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -49067,7 +49067,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -49120,7 +49120,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -49175,7 +49175,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -49228,7 +49228,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -49283,7 +49283,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -49364,7 +49364,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -49389,7 +49389,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -49436,7 +49436,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -49499,7 +49499,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -49571,7 +49571,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "amulet",
                     "ring",
@@ -49596,7 +49596,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -49644,7 +49644,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "belt"
                 ]
@@ -49691,7 +49691,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -49802,7 +49802,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -49865,7 +49865,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -49909,7 +49909,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -49938,7 +49938,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield"
                 ]
             },
@@ -49966,7 +49966,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield"
                 ]
             }
@@ -49999,7 +49999,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver"
                 ]
             },
@@ -50046,7 +50046,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver"
                 ]
             },
@@ -50077,7 +50077,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver"
                 ]
             },
@@ -50108,7 +50108,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "gloves",
                     "amulet",
@@ -50142,7 +50142,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver"
                 ]
             },
@@ -50173,7 +50173,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "gloves",
                     "amulet",
@@ -50205,7 +50205,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -50251,7 +50251,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver"
                 ]
             },
@@ -50280,7 +50280,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "amulet"
                 ]
             },
@@ -50309,7 +50309,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "amulet"
                 ]
             },
@@ -50340,7 +50340,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver"
                 ]
             },
@@ -50371,7 +50371,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver"
                 ]
             }
@@ -50421,7 +50421,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "gloves",
                     "amulet",
@@ -50455,7 +50455,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -50564,7 +50564,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -50617,7 +50617,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -50670,7 +50670,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -50723,7 +50723,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -51176,7 +51176,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -51193,7 +51193,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -51279,7 +51279,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -51301,7 +51301,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -51387,7 +51387,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -51409,7 +51409,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -51505,7 +51505,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -51614,7 +51614,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -51707,7 +51707,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -51752,7 +51752,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -51795,7 +51795,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -51905,7 +51905,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -52177,7 +52177,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -52207,7 +52207,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -52237,7 +52237,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -52269,7 +52269,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -52299,7 +52299,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -52329,7 +52329,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -52504,7 +52504,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -52563,7 +52563,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -52624,7 +52624,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -52685,7 +52685,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -52746,7 +52746,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -52807,7 +52807,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -52839,7 +52839,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -52869,7 +52869,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -52899,7 +52899,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -53000,7 +53000,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "helmet"
                 ]
             },
@@ -53023,7 +53023,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "helmet"
                 ]
             },
@@ -53041,7 +53041,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "helmet"
                 ]
             }
@@ -53105,7 +53105,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -53166,7 +53166,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -53227,7 +53227,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -53288,7 +53288,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -53349,7 +53349,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -53410,7 +53410,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -53442,7 +53442,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -53472,7 +53472,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -53502,7 +53502,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -53565,7 +53565,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -53626,7 +53626,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -53687,7 +53687,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -53748,7 +53748,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -53809,7 +53809,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -53841,7 +53841,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -53871,7 +53871,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -53901,7 +53901,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -53931,7 +53931,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -53961,7 +53961,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -53991,7 +53991,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -54021,7 +54021,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -54053,7 +54053,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -54083,7 +54083,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -54113,7 +54113,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -54143,7 +54143,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -54173,7 +54173,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -54203,7 +54203,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -54233,7 +54233,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -54263,7 +54263,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -54588,7 +54588,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -54649,7 +54649,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -54710,7 +54710,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -54771,7 +54771,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -54832,7 +54832,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -54893,7 +54893,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -54925,7 +54925,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -54955,7 +54955,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -54985,7 +54985,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -55032,7 +55032,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -55091,7 +55091,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -55135,7 +55135,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -55179,7 +55179,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -55305,7 +55305,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -55382,7 +55382,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -55445,7 +55445,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -55504,7 +55504,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -55548,7 +55548,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -55592,7 +55592,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -55636,7 +55636,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -55762,7 +55762,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -55839,7 +55839,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -55902,7 +55902,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -55961,7 +55961,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -56005,7 +56005,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -56131,7 +56131,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -56208,7 +56208,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -56258,7 +56258,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -56292,7 +56292,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -56339,7 +56339,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -56384,7 +56384,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -56429,7 +56429,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -56522,7 +56522,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -56615,7 +56615,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -56694,7 +56694,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -56787,7 +56787,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -56832,7 +56832,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -56877,7 +56877,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -56938,7 +56938,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -56983,7 +56983,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -57060,7 +57060,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -57105,7 +57105,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -57166,7 +57166,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -57275,7 +57275,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -57360,7 +57360,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -57381,7 +57381,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -57458,7 +57458,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -57669,7 +57669,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -57764,7 +57764,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -57798,7 +57798,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -57834,7 +57834,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -57868,7 +57868,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -57902,7 +57902,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -57936,7 +57936,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -57972,7 +57972,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -58006,7 +58006,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -58040,7 +58040,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -58074,7 +58074,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -58110,7 +58110,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -58144,7 +58144,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -58178,7 +58178,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -58212,7 +58212,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -58248,7 +58248,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -58282,7 +58282,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -58316,7 +58316,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -58350,7 +58350,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -58432,7 +58432,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -58456,7 +58456,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -58508,7 +58508,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -58560,7 +58560,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -58642,7 +58642,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -58666,7 +58666,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -58718,7 +58718,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -58770,7 +58770,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -58852,7 +58852,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -58876,7 +58876,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -58928,7 +58928,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -58980,7 +58980,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -59062,7 +59062,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -59086,7 +59086,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -59138,7 +59138,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -59190,7 +59190,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -59272,7 +59272,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -59296,7 +59296,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -59348,7 +59348,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -59400,7 +59400,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -59444,7 +59444,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -59522,7 +59522,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -59546,7 +59546,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -59597,7 +59597,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -59648,7 +59648,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -59731,7 +59731,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -59756,7 +59756,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -59809,7 +59809,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -59862,7 +59862,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -59897,7 +59897,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield"
                 ]
             },
@@ -59950,7 +59950,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield"
                 ]
             },
@@ -59981,7 +59981,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield"
                 ]
             },
@@ -60012,7 +60012,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield"
                 ]
             }
@@ -60074,7 +60074,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -60133,7 +60133,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -60192,7 +60192,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -60218,7 +60218,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -60266,7 +60266,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -60312,7 +60312,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -60358,7 +60358,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -60406,7 +60406,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -60452,7 +60452,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -60498,7 +60498,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -60546,7 +60546,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -60592,7 +60592,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -60638,7 +60638,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -60686,7 +60686,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -60732,7 +60732,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -60778,7 +60778,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -60844,7 +60844,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -60908,7 +60908,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -60952,7 +60952,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -61016,7 +61016,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -61064,7 +61064,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -61124,7 +61124,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -61239,7 +61239,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -61299,7 +61299,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -61427,7 +61427,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -61519,7 +61519,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -61580,7 +61580,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -61663,7 +61663,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -61693,7 +61693,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -61904,7 +61904,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -62016,7 +62016,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -62146,7 +62146,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -62391,7 +62391,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -62503,7 +62503,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -62633,7 +62633,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -62878,7 +62878,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -62990,7 +62990,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -63120,7 +63120,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -63273,7 +63273,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -63317,7 +63317,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -63385,7 +63385,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -63655,7 +63655,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -63752,7 +63752,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -63804,7 +63804,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -63859,7 +63859,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -63914,7 +63914,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -63966,7 +63966,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -64062,7 +64062,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -64344,7 +64344,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -64396,7 +64396,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -64493,7 +64493,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -64545,7 +64545,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -64600,7 +64600,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -64655,7 +64655,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -64707,7 +64707,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -64803,7 +64803,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -65000,7 +65000,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -65097,7 +65097,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -65149,7 +65149,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -65246,7 +65246,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -65298,7 +65298,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -65353,7 +65353,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -65408,7 +65408,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -65460,7 +65460,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -65556,7 +65556,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -65722,7 +65722,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -65739,7 +65739,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -65784,7 +65784,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -65850,7 +65850,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -65867,7 +65867,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -65912,7 +65912,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -65943,7 +65943,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield"
                 ]
             },
@@ -65973,7 +65973,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield"
                 ]
             },
@@ -66017,7 +66017,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -66059,7 +66059,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -66075,7 +66075,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -66123,7 +66123,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -66139,7 +66139,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -66187,7 +66187,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -66203,7 +66203,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -66251,7 +66251,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -66267,7 +66267,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -66320,7 +66320,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -66356,7 +66356,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -66410,7 +66410,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -66463,7 +66463,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -66515,7 +66515,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -66568,7 +66568,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -66620,7 +66620,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -69149,7 +69149,7 @@ var mods = {
                     "sceptre",
                     "staff",
                     "two-hand-sword",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -69169,7 +69169,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -69259,7 +69259,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -69282,7 +69282,7 @@ var mods = {
                     "sceptre",
                     "staff",
                     "two-hand-sword",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -69372,7 +69372,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -69395,7 +69395,7 @@ var mods = {
                     "sceptre",
                     "staff",
                     "two-hand-sword",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -69447,7 +69447,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -69481,7 +69481,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -69515,7 +69515,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -69549,7 +69549,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -69637,7 +69637,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -69688,7 +69688,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -69730,7 +69730,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -69834,7 +69834,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -69979,7 +69979,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "boots"
                 ]
             },
@@ -70005,7 +70005,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "boots"
                 ]
             },
@@ -70026,7 +70026,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "boots"
                 ]
             }
@@ -70329,7 +70329,7 @@ var mods = {
                     "sceptre",
                     "staff",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -70353,7 +70353,7 @@ var mods = {
                     "sceptre",
                     "staff",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -70377,7 +70377,7 @@ var mods = {
                     "sceptre",
                     "staff",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -70401,7 +70401,7 @@ var mods = {
                     "sceptre",
                     "staff",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -70425,7 +70425,7 @@ var mods = {
                     "sceptre",
                     "staff",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -70451,7 +70451,7 @@ var mods = {
                     "sceptre",
                     "staff",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -70475,7 +70475,7 @@ var mods = {
                     "sceptre",
                     "staff",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -70499,7 +70499,7 @@ var mods = {
                     "sceptre",
                     "staff",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -70523,7 +70523,7 @@ var mods = {
                     "sceptre",
                     "staff",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -70547,7 +70547,7 @@ var mods = {
                     "sceptre",
                     "staff",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -70794,7 +70794,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -70813,7 +70813,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -70831,7 +70831,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -70847,7 +70847,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -70868,7 +70868,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -70886,7 +70886,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -70907,7 +70907,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -70955,7 +70955,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -70973,7 +70973,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -95358,7 +95358,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -95424,7 +95424,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -95444,7 +95444,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -95505,7 +95505,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -95562,7 +95562,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -95581,7 +95581,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -95613,7 +95613,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield"
                 ]
             },
@@ -95644,7 +95644,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield"
                 ]
             }
@@ -95694,7 +95694,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -95733,7 +95733,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -95772,7 +95772,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -95811,7 +95811,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -95850,7 +95850,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -95889,7 +95889,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -95928,7 +95928,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -95967,7 +95967,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -96024,7 +96024,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -96063,7 +96063,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -96102,7 +96102,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -96141,7 +96141,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -96180,7 +96180,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -96219,7 +96219,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -96258,7 +96258,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -96297,7 +96297,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -96354,7 +96354,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -96393,7 +96393,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -96432,7 +96432,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -96471,7 +96471,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -96510,7 +96510,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -96549,7 +96549,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -96588,7 +96588,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -96627,7 +96627,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -96716,7 +96716,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -96755,7 +96755,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -96794,7 +96794,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -96833,7 +96833,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -96872,7 +96872,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -96911,7 +96911,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -96950,7 +96950,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -96989,7 +96989,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "shield",
                     "gloves",
@@ -97094,7 +97094,7 @@ var mods = {
                 "types": [
                     "bow",
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -97118,7 +97118,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -97164,7 +97164,7 @@ var mods = {
                 "types": [
                     "bow",
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -97236,7 +97236,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -97356,7 +97356,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -97380,7 +97380,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -97426,7 +97426,7 @@ var mods = {
                 "types": [
                     "bow",
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -97582,7 +97582,7 @@ var mods = {
                 "types": [
                     "bow",
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -97606,7 +97606,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -97652,7 +97652,7 @@ var mods = {
                 "types": [
                     "bow",
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -97724,7 +97724,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -97844,7 +97844,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -97868,7 +97868,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -97914,7 +97914,7 @@ var mods = {
                 "types": [
                     "bow",
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -98010,7 +98010,7 @@ var mods = {
                 "types": [
                     "bow",
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -98034,7 +98034,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -98080,7 +98080,7 @@ var mods = {
                 "types": [
                     "bow",
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -98152,7 +98152,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -98272,7 +98272,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -98296,7 +98296,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -98342,7 +98342,7 @@ var mods = {
                 "types": [
                     "bow",
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -98417,7 +98417,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -98537,7 +98537,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -98618,7 +98618,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -98643,7 +98643,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -98843,7 +98843,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -98936,7 +98936,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -99056,7 +99056,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -99080,7 +99080,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -99130,7 +99130,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -99157,7 +99157,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -99184,7 +99184,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -99211,7 +99211,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -99243,7 +99243,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -99278,7 +99278,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -99313,7 +99313,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -99374,7 +99374,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "amulet",
                     "ring"
@@ -99399,7 +99399,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "amulet",
                     "ring"
@@ -99424,7 +99424,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "amulet",
                     "ring"
@@ -99449,7 +99449,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "amulet",
                     "ring"
@@ -99474,7 +99474,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "amulet",
                     "ring"
@@ -99499,7 +99499,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "amulet",
                     "ring"
@@ -99550,7 +99550,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "belt"
                 ]
@@ -99582,7 +99582,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "belt"
                 ]
@@ -99614,7 +99614,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver",
                     "belt"
                 ]
@@ -99802,7 +99802,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -99831,7 +99831,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -99860,7 +99860,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -99889,7 +99889,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -99923,7 +99923,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -100300,7 +100300,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -100327,7 +100327,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -100354,7 +100354,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -100381,7 +100381,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -100410,7 +100410,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "amulet",
                     "ring"
@@ -100435,7 +100435,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "amulet",
                     "ring"
@@ -100460,7 +100460,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "amulet",
                     "ring"
@@ -100485,7 +100485,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "amulet",
                     "ring"
@@ -100510,7 +100510,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "amulet",
                     "ring"
@@ -100535,7 +100535,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "amulet",
                     "ring"
@@ -100565,7 +100565,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver"
                 ]
             }
@@ -100593,7 +100593,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver"
                 ]
             }
@@ -100621,7 +100621,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver"
                 ]
             }
@@ -100649,7 +100649,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver"
                 ]
             }
@@ -100677,7 +100677,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "quiver"
                 ]
             }
@@ -100802,7 +100802,7 @@ var mods = {
                     "sceptre",
                     "rune-dagger",
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -101007,7 +101007,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -101049,7 +101049,7 @@ var mods = {
                     "rune-dagger",
                     "bow",
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -104555,7 +104555,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -104572,7 +104572,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -104625,7 +104625,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -104642,7 +104642,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -104695,7 +104695,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -104712,7 +104712,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -104765,7 +104765,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -104782,7 +104782,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -104988,7 +104988,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -105039,7 +105039,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -105056,7 +105056,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -105092,7 +105092,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -105143,7 +105143,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -105160,7 +105160,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -105196,7 +105196,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -105247,7 +105247,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -105264,7 +105264,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -105315,7 +105315,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -105367,7 +105367,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -105383,7 +105383,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -105434,7 +105434,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -105486,7 +105486,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -105502,7 +105502,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -105553,7 +105553,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -105605,7 +105605,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -105621,7 +105621,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -105657,7 +105657,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -105709,7 +105709,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -105725,7 +105725,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -105761,7 +105761,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -105812,7 +105812,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -105829,7 +105829,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -107653,7 +107653,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -107687,7 +107687,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -107723,7 +107723,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -107757,7 +107757,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -107793,7 +107793,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -107827,7 +107827,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -107863,7 +107863,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -107897,7 +107897,7 @@ var mods = {
                 ],
                 "types": [
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -107913,7 +107913,7 @@ var mods = {
                     "wand",
                     "sceptre",
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -108035,7 +108035,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -108542,7 +108542,7 @@ var mods = {
                 "types": [
                     "sceptre",
                     "staff",
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -108861,7 +108861,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "belt"
                 ]
             },
@@ -108887,7 +108887,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "belt"
                 ]
             },
@@ -108913,7 +108913,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "belt"
                 ]
             }
@@ -108973,7 +108973,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -109006,7 +109006,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -109039,7 +109039,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -109072,7 +109072,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -109223,7 +109223,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -109253,7 +109253,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -109283,7 +109283,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -109313,7 +109313,7 @@ var mods = {
                     "two-hand-sword",
                     "two-hand-axe",
                     "two-hand-mace",
-                    "warstff",
+                    "warstaff",
                     "shield",
                     "gloves",
                     "boots",
@@ -109632,7 +109632,7 @@ var mods = {
                     "sceptre",
                     "staff",
                     "two-hand-mace",
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -110404,7 +110404,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -110419,7 +110419,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "warstff"
+                    "warstaff"
                 ]
             },
             {
@@ -110434,7 +110434,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
@@ -110451,7 +110451,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "warstff"
+                    "warstaff"
                 ]
             }
         ],
