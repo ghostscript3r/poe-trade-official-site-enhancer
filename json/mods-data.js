@@ -27,7 +27,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -76,7 +76,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -98,7 +98,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -115,7 +115,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -136,7 +136,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -153,7 +153,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -186,7 +186,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -219,7 +219,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -240,7 +240,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -257,7 +257,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -290,7 +290,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -324,7 +324,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -357,7 +357,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -390,7 +390,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -423,7 +423,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -446,7 +446,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -487,7 +487,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -495,7 +495,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -532,7 +532,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -540,7 +540,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -561,7 +561,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -578,7 +578,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -599,7 +599,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -616,7 +616,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -637,7 +637,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -645,7 +645,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -666,7 +666,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -674,7 +674,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -695,7 +695,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -712,7 +712,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -734,7 +734,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -743,7 +743,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -766,7 +766,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -775,7 +775,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -797,7 +797,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -805,7 +805,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -827,7 +827,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -836,7 +836,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -858,7 +858,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -866,7 +866,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -889,7 +889,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -929,7 +929,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -980,7 +980,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -1014,7 +1014,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -1047,7 +1047,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -1077,7 +1077,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -1141,7 +1141,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -1169,7 +1169,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow"
                 ]
             },
@@ -1259,7 +1259,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow"
                 ]
             },
@@ -1321,7 +1321,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow"
                 ]
             },
@@ -1382,7 +1382,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow"
                 ]
             },
@@ -1475,7 +1475,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow",
                     "gloves"
                 ]
@@ -1545,7 +1545,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -1570,7 +1570,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -1595,7 +1595,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -1620,7 +1620,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -1653,7 +1653,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -1678,7 +1678,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -1712,7 +1712,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -1790,7 +1790,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -1835,7 +1835,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -1852,7 +1852,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -1891,7 +1891,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -1908,7 +1908,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -1930,7 +1930,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -1947,7 +1947,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -1970,7 +1970,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -1987,7 +1987,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2009,7 +2009,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -2026,7 +2026,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2049,7 +2049,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -2066,7 +2066,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2088,7 +2088,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -2105,7 +2105,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2127,7 +2127,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -2144,7 +2144,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -2165,7 +2165,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -2182,7 +2182,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2205,7 +2205,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -2222,7 +2222,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2245,7 +2245,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -2262,7 +2262,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2287,7 +2287,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -2304,7 +2304,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2343,7 +2343,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -2360,7 +2360,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2382,7 +2382,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -2399,7 +2399,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2422,7 +2422,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -2439,7 +2439,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2461,7 +2461,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -2478,7 +2478,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2501,7 +2501,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -2518,7 +2518,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2540,7 +2540,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -2557,7 +2557,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2579,7 +2579,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -2596,7 +2596,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -2617,7 +2617,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -2634,7 +2634,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2657,7 +2657,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -2674,7 +2674,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2697,7 +2697,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -2714,7 +2714,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2738,7 +2738,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -2755,7 +2755,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2793,7 +2793,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -2810,7 +2810,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2832,7 +2832,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -2849,7 +2849,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2872,7 +2872,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -2889,7 +2889,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2911,7 +2911,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -2928,7 +2928,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2951,7 +2951,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -2968,7 +2968,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2990,7 +2990,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3007,7 +3007,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -3029,7 +3029,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3046,7 +3046,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -3067,7 +3067,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3084,7 +3084,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -3107,7 +3107,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3124,7 +3124,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -3147,7 +3147,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3164,7 +3164,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -3204,7 +3204,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3221,7 +3221,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -3243,7 +3243,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3260,7 +3260,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -3282,7 +3282,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3299,7 +3299,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -3322,7 +3322,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3339,7 +3339,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -3362,7 +3362,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3379,7 +3379,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -3402,7 +3402,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3419,7 +3419,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -3459,7 +3459,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3491,7 +3491,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3524,7 +3524,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3557,7 +3557,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3590,7 +3590,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3639,7 +3639,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3668,7 +3668,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3697,7 +3697,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3726,7 +3726,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3758,7 +3758,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3792,7 +3792,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3826,7 +3826,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3861,7 +3861,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3895,7 +3895,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3929,7 +3929,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3965,7 +3965,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -3995,7 +3995,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -4026,7 +4026,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -4056,7 +4056,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -4087,7 +4087,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -4118,7 +4118,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -4148,7 +4148,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -4179,7 +4179,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -4209,7 +4209,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -4257,7 +4257,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -4303,7 +4303,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -4365,7 +4365,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -4411,7 +4411,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -4441,7 +4441,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -4506,7 +4506,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -4538,7 +4538,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -4632,7 +4632,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -4694,7 +4694,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -4855,7 +4855,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -4907,7 +4907,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -4937,7 +4937,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -4996,7 +4996,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -5026,7 +5026,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -5100,7 +5100,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -5152,7 +5152,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -5204,7 +5204,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -5257,7 +5257,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -5307,7 +5307,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -5323,7 +5323,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -5341,7 +5341,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -5357,7 +5357,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             }
@@ -5381,7 +5381,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -5416,7 +5416,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -5451,7 +5451,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -5501,7 +5501,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -5547,7 +5547,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -5609,7 +5609,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -5655,7 +5655,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -5701,7 +5701,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -5856,7 +5856,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -5920,7 +5920,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -5981,7 +5981,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -6008,7 +6008,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -6086,7 +6086,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -6163,7 +6163,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -6191,7 +6191,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -6219,7 +6219,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -6619,7 +6619,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -6646,7 +6646,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -6791,7 +6791,7 @@ var mods = {
                 ],
                 "types": [
                     "claw",
-                    "wands",
+                    "wand",
                     "staff",
                     "warstff"
                 ]
@@ -6813,7 +6813,7 @@ var mods = {
                 ],
                 "types": [
                     "claw",
-                    "wands",
+                    "wand",
                     "staff",
                     "warstff"
                 ]
@@ -6835,7 +6835,7 @@ var mods = {
                 ],
                 "types": [
                     "claw",
-                    "wands",
+                    "wand",
                     "staff",
                     "warstff"
                 ]
@@ -7154,7 +7154,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -7184,7 +7184,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -7214,7 +7214,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -7244,7 +7244,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -7274,7 +7274,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -7784,7 +7784,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -7827,7 +7827,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -7997,7 +7997,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -8027,7 +8027,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -8061,7 +8061,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -8094,7 +8094,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -8127,7 +8127,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -8192,7 +8192,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -8226,7 +8226,7 @@ var mods = {
                 "level": "78",
                 "values": [],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -8257,7 +8257,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -8287,7 +8287,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -8373,7 +8373,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -8425,7 +8425,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -8471,7 +8471,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -8487,7 +8487,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             }
@@ -8507,7 +8507,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -8523,7 +8523,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             }
@@ -8543,7 +8543,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -8559,7 +8559,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             }
@@ -8579,7 +8579,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -8594,7 +8594,7 @@ var mods = {
                     "warstff",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             }
@@ -8614,7 +8614,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -8658,7 +8658,7 @@ var mods = {
                 ],
                 "types": [
                     "claw",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "one-hand-mace",
                     "bow",
@@ -8683,7 +8683,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -8713,7 +8713,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -8759,7 +8759,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -8876,7 +8876,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow"
                 ]
             }
@@ -8979,7 +8979,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -9023,7 +9023,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -9051,7 +9051,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -9129,7 +9129,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -9182,7 +9182,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -9232,7 +9232,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "wands",
+                    "wand",
                     "rune-dagger"
                 ]
             },
@@ -9267,7 +9267,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "wands",
+                    "wand",
                     "rune-dagger"
                 ]
             },
@@ -9302,7 +9302,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "wands",
+                    "wand",
                     "rune-dagger"
                 ]
             },
@@ -9338,7 +9338,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -9363,7 +9363,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -9427,7 +9427,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "wands",
+                    "wand",
                     "rune-dagger"
                 ]
             },
@@ -9481,7 +9481,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -9525,7 +9525,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "wands",
+                    "wand",
                     "rune-dagger"
                 ]
             },
@@ -9579,7 +9579,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -9672,7 +9672,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -9705,7 +9705,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -9738,7 +9738,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -9773,7 +9773,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -9798,7 +9798,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -9861,7 +9861,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -9914,7 +9914,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -9957,7 +9957,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -10010,7 +10010,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -10087,7 +10087,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -10121,7 +10121,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -10155,7 +10155,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -10191,7 +10191,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -10215,7 +10215,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -10278,7 +10278,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -10332,7 +10332,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -10375,7 +10375,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -10429,7 +10429,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -10522,7 +10522,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -10556,7 +10556,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -10590,7 +10590,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -10626,7 +10626,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -10651,7 +10651,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -10714,7 +10714,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -10768,7 +10768,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -10811,7 +10811,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -10865,7 +10865,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -10945,7 +10945,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -10975,7 +10975,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -11087,7 +11087,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -11117,7 +11117,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -11197,7 +11197,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -11227,7 +11227,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -11270,7 +11270,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -11286,7 +11286,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -11320,7 +11320,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -11358,7 +11358,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -11382,7 +11382,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -11448,7 +11448,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -11493,7 +11493,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -11540,7 +11540,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -11563,7 +11563,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -11629,7 +11629,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -11674,7 +11674,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -11721,7 +11721,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -11746,7 +11746,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -11813,7 +11813,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -11859,7 +11859,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -11943,7 +11943,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -11975,7 +11975,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow"
                 ]
             },
@@ -12032,7 +12032,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -12066,7 +12066,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -12100,7 +12100,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -12136,7 +12136,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -12170,7 +12170,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -12204,7 +12204,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -12276,7 +12276,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -12310,7 +12310,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow"
                 ]
             },
@@ -12368,7 +12368,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -12395,7 +12395,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -12470,7 +12470,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -12521,7 +12521,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -12582,7 +12582,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -12631,7 +12631,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -12653,7 +12653,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -12670,7 +12670,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -12692,7 +12692,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -12709,7 +12709,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -12744,7 +12744,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -12777,7 +12777,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -12799,7 +12799,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -12816,7 +12816,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -12851,7 +12851,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -12886,7 +12886,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -12919,7 +12919,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -12954,7 +12954,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -12987,7 +12987,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -13011,7 +13011,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -13067,7 +13067,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -13084,7 +13084,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -13106,7 +13106,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -13123,7 +13123,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -13145,7 +13145,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -13162,7 +13162,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -13200,7 +13200,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -13217,7 +13217,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -13239,7 +13239,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -13256,7 +13256,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -13278,7 +13278,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -13295,7 +13295,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -13333,7 +13333,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -13350,7 +13350,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -13372,7 +13372,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -13389,7 +13389,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -13411,7 +13411,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -13428,7 +13428,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -13517,7 +13517,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -13534,7 +13534,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -13588,7 +13588,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -13605,7 +13605,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -13723,7 +13723,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "amulet",
@@ -13776,7 +13776,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "amulet",
@@ -13814,7 +13814,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -13837,7 +13837,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "amulet",
@@ -13927,7 +13927,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "amulet"
@@ -13980,7 +13980,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -14025,7 +14025,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -14072,7 +14072,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -14118,7 +14118,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -14163,7 +14163,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -14209,7 +14209,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "staff",
                     "warstff",
@@ -14249,7 +14249,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -14279,7 +14279,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "staff",
                     "warstff",
@@ -14317,7 +14317,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "staff",
                     "warstff",
@@ -14340,7 +14340,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -14387,7 +14387,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "staff",
                     "warstff",
@@ -14425,7 +14425,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "staff",
                     "warstff",
@@ -14462,7 +14462,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "staff",
                     "warstff"
@@ -14534,7 +14534,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "staff",
                     "warstff",
@@ -14557,7 +14557,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -14587,7 +14587,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "staff",
                     "warstff",
@@ -14625,7 +14625,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "staff",
                     "warstff",
@@ -14648,7 +14648,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -14695,7 +14695,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "staff",
                     "warstff",
@@ -14733,7 +14733,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "staff",
                     "warstff",
@@ -14770,7 +14770,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "staff",
                     "warstff"
@@ -14808,7 +14808,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "staff",
                     "warstff",
@@ -14831,7 +14831,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -14862,7 +14862,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "staff",
                     "warstff",
@@ -14884,7 +14884,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "staff",
                     "warstff",
@@ -14907,7 +14907,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -14937,7 +14937,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "staff",
                     "warstff",
@@ -14959,7 +14959,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "staff",
                     "warstff",
@@ -14981,7 +14981,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "staff",
                     "warstff",
@@ -15039,7 +15039,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -15071,7 +15071,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -15170,7 +15170,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -15190,7 +15190,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -15210,7 +15210,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -15232,7 +15232,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -15274,7 +15274,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -15297,7 +15297,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -15328,7 +15328,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -15373,7 +15373,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -15404,7 +15404,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -15437,7 +15437,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -15460,7 +15460,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -15552,7 +15552,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -15633,7 +15633,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -15656,7 +15656,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -15748,7 +15748,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -15831,7 +15831,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -15863,7 +15863,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -15880,7 +15880,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -15904,7 +15904,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -15926,7 +15926,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -15943,7 +15943,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -15965,7 +15965,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -15982,7 +15982,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16006,7 +16006,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -16023,7 +16023,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16047,7 +16047,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16069,7 +16069,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -16086,7 +16086,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16108,7 +16108,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -16125,7 +16125,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16149,7 +16149,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -16166,7 +16166,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16190,7 +16190,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16212,7 +16212,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -16229,7 +16229,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16251,7 +16251,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -16268,7 +16268,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16287,7 +16287,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -16304,7 +16304,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16327,7 +16327,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -16344,7 +16344,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16363,7 +16363,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -16380,7 +16380,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16399,7 +16399,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -16416,7 +16416,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16439,7 +16439,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -16473,7 +16473,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -16504,7 +16504,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -16572,7 +16572,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -16603,7 +16603,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -16621,7 +16621,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16644,7 +16644,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -16662,7 +16662,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16685,7 +16685,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -16703,7 +16703,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16726,7 +16726,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -16744,7 +16744,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16983,7 +16983,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -17005,7 +17005,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -17027,7 +17027,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -17075,7 +17075,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -17121,7 +17121,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -17163,7 +17163,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -17232,7 +17232,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -17274,7 +17274,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -17331,7 +17331,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow",
                     "quiver"
                 ]
@@ -17349,7 +17349,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow",
                     "quiver"
                 ]
@@ -17367,7 +17367,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "quiver"
                 ]
             },
@@ -17384,7 +17384,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow",
                     "quiver"
                 ]
@@ -17403,7 +17403,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow",
                     "quiver"
                 ]
@@ -17422,7 +17422,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow",
                     "quiver"
                 ]
@@ -17441,7 +17441,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -17473,7 +17473,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -17505,7 +17505,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -17539,7 +17539,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -17571,7 +17571,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -17603,7 +17603,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -17637,7 +17637,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -17669,7 +17669,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -17701,7 +17701,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -17735,7 +17735,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow"
                 ]
             },
@@ -17751,7 +17751,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow"
                 ]
             }
@@ -17773,7 +17773,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -17813,7 +17813,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -17893,7 +17893,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -17914,7 +17914,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -17937,7 +17937,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -17958,7 +17958,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -17979,7 +17979,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -18002,7 +18002,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -18021,7 +18021,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -18040,7 +18040,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             }
         ],
@@ -18057,7 +18057,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             }
         ],
@@ -18078,7 +18078,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -18097,7 +18097,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             }
         ],
@@ -18118,7 +18118,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -18139,7 +18139,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -18162,7 +18162,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -18181,7 +18181,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -18200,7 +18200,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             }
         ],
@@ -18218,7 +18218,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff"
@@ -18237,7 +18237,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff"
@@ -18258,7 +18258,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -18292,7 +18292,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -18328,7 +18328,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -18362,7 +18362,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -18398,7 +18398,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -18414,7 +18414,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             }
         ],
@@ -18449,7 +18449,7 @@ var mods = {
                 "level": "78",
                 "values": [],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -18478,7 +18478,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff"
@@ -18497,7 +18497,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff"
@@ -18518,7 +18518,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -18552,7 +18552,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -18588,7 +18588,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -18622,7 +18622,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -18658,7 +18658,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -18692,7 +18692,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -18745,7 +18745,7 @@ var mods = {
                 "level": "78",
                 "values": [],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -18790,7 +18790,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -18840,7 +18840,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -18892,7 +18892,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -18942,7 +18942,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -18997,7 +18997,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff"
@@ -19019,7 +19019,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff"
@@ -19040,7 +19040,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -19074,7 +19074,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -19110,7 +19110,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff"
@@ -19129,7 +19129,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff"
@@ -19153,7 +19153,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow"
                 ]
             },
@@ -19193,7 +19193,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow"
                 ]
             },
@@ -19232,7 +19232,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow"
                 ]
             },
@@ -19322,7 +19322,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -19354,7 +19354,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -19389,7 +19389,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -19423,7 +19423,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -19476,7 +19476,7 @@ var mods = {
                 "level": "78",
                 "values": [],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -19505,7 +19505,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             }
         ],
@@ -19518,7 +19518,7 @@ var mods = {
                 "level": "60",
                 "values": [],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             }
         ],
@@ -19536,7 +19536,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -21846,7 +21846,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -24220,7 +24220,7 @@ var mods = {
                 "types": [
                     "quiver",
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -24273,7 +24273,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             }
@@ -24549,7 +24549,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -24565,7 +24565,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -24581,7 +24581,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -24615,7 +24615,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -24631,7 +24631,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -24647,7 +24647,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -24663,7 +24663,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -24701,7 +24701,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -24725,7 +24725,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -24749,7 +24749,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -24773,7 +24773,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -24815,7 +24815,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -24839,7 +24839,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -24863,7 +24863,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -24887,7 +24887,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -24929,7 +24929,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -24953,7 +24953,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -24977,7 +24977,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -25001,7 +25001,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -25899,7 +25899,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -25923,7 +25923,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -25947,7 +25947,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -25971,7 +25971,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -25995,7 +25995,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -26019,7 +26019,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -26043,7 +26043,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -26066,7 +26066,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "belt"
@@ -26086,7 +26086,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -26105,7 +26105,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -26121,7 +26121,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -26279,7 +26279,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "belt"
                 ]
             },
@@ -26312,7 +26312,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "belt"
                 ]
             },
@@ -26330,7 +26330,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "belt"
                 ]
             },
@@ -26368,7 +26368,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -26404,7 +26404,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -26424,7 +26424,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -26445,7 +26445,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -26466,7 +26466,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -26487,7 +26487,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -26719,7 +26719,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -27594,7 +27594,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -27626,7 +27626,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -27658,7 +27658,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -27674,7 +27674,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -27742,7 +27742,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -27759,7 +27759,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -27793,7 +27793,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -27827,7 +27827,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -27846,7 +27846,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -27863,7 +27863,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -27880,7 +27880,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -27914,7 +27914,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -27948,7 +27948,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -27967,7 +27967,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -27984,7 +27984,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -28001,7 +28001,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -28018,7 +28018,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -28052,7 +28052,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -28086,7 +28086,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -28187,7 +28187,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -28206,7 +28206,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             }
@@ -28226,7 +28226,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -28280,7 +28280,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             }
@@ -28319,7 +28319,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -28335,7 +28335,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -28355,7 +28355,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "belt"
                 ]
             },
@@ -28374,7 +28374,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "belt"
                 ]
             },
@@ -28410,7 +28410,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "belt"
                 ]
             },
@@ -28429,7 +28429,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "belt"
                 ]
             },
@@ -28495,7 +28495,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour",
+                    "chest",
                     "belt"
                 ]
             },
@@ -28514,7 +28514,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "belt"
                 ]
             },
@@ -28549,7 +28549,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "belt"
                 ]
             }
@@ -28570,7 +28570,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -28603,7 +28603,7 @@ var mods = {
                 "types": [
                     "shield",
                     "gloves",
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -28659,7 +28659,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -28680,7 +28680,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -28703,7 +28703,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -28724,7 +28724,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -28745,7 +28745,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -28766,7 +28766,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -28789,7 +28789,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -28810,7 +28810,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -28831,7 +28831,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -28852,7 +28852,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -28875,7 +28875,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -28896,7 +28896,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -28917,7 +28917,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -28938,7 +28938,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -29009,7 +29009,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -29044,7 +29044,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -29097,7 +29097,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -29114,7 +29114,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -29149,7 +29149,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -29202,7 +29202,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -29237,7 +29237,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -29256,7 +29256,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -29273,7 +29273,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -29290,7 +29290,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -29307,7 +29307,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -29324,7 +29324,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -29341,7 +29341,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -29358,7 +29358,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -30836,7 +30836,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "amulet"
                 ]
             },
@@ -30869,7 +30869,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "amulet"
                 ]
             },
@@ -30886,7 +30886,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -31132,7 +31132,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -31759,7 +31759,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -31775,7 +31775,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -31791,7 +31791,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -32592,7 +32592,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "amulet"
                 ]
             },
@@ -32625,7 +32625,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "amulet"
                 ]
             },
@@ -32642,7 +32642,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -32975,7 +32975,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -32991,7 +32991,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -33058,7 +33058,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -33091,7 +33091,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -33241,7 +33241,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -33254,7 +33254,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -33267,7 +33267,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -33280,7 +33280,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -33293,7 +33293,7 @@ var mods = {
                 "level": "50",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -33343,7 +33343,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -33404,7 +33404,7 @@ var mods = {
                 "level": "1",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -33453,7 +33453,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -33469,7 +33469,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -33486,7 +33486,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -33520,7 +33520,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -33554,7 +33554,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -33605,7 +33605,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -33624,7 +33624,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -33640,7 +33640,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -33656,7 +33656,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -33675,7 +33675,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -33691,7 +33691,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -33707,7 +33707,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -33726,7 +33726,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "amulet"
                 ]
             },
@@ -33759,7 +33759,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "amulet"
                 ]
             },
@@ -33792,7 +33792,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -33829,7 +33829,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -33848,7 +33848,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -33867,7 +33867,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -33886,7 +33886,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -33903,7 +33903,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -33920,7 +33920,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -33942,7 +33942,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -33962,7 +33962,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -33984,7 +33984,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -34004,7 +34004,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34025,7 +34025,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -34044,7 +34044,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34063,7 +34063,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -34079,7 +34079,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -34095,7 +34095,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34114,7 +34114,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -34131,7 +34131,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -34148,7 +34148,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34170,7 +34170,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -34190,7 +34190,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34211,7 +34211,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -34230,7 +34230,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34251,7 +34251,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -34270,7 +34270,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34287,7 +34287,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34305,7 +34305,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -34355,7 +34355,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34375,7 +34375,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34397,7 +34397,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34414,7 +34414,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34449,7 +34449,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -34499,7 +34499,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34519,7 +34519,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34541,7 +34541,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34559,7 +34559,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -34575,7 +34575,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -34591,7 +34591,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34608,7 +34608,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34626,7 +34626,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -34676,7 +34676,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34697,7 +34697,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34717,7 +34717,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34741,7 +34741,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34758,7 +34758,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34776,7 +34776,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -34792,7 +34792,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -34808,7 +34808,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -34824,7 +34824,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34841,7 +34841,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34859,7 +34859,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34877,7 +34877,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34895,7 +34895,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -34913,7 +34913,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -34930,7 +34930,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -34947,7 +34947,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             }
@@ -34965,7 +34965,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "belt"
                 ]
             },
@@ -34981,7 +34981,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "belt"
                 ]
             },
@@ -34997,7 +34997,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "belt"
                 ]
             },
@@ -35013,7 +35013,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "belt"
                 ]
             }
@@ -35031,7 +35031,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -35046,7 +35046,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -35064,7 +35064,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -35080,7 +35080,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -35096,7 +35096,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -35112,7 +35112,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -35129,7 +35129,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -35144,7 +35144,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -35159,7 +35159,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -35174,7 +35174,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -35192,7 +35192,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -35208,7 +35208,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -35226,7 +35226,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -35260,7 +35260,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -35292,7 +35292,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -35309,7 +35309,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -35326,7 +35326,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -35343,7 +35343,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -44726,7 +44726,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -44764,7 +44764,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -44786,7 +44786,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -44824,7 +44824,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -44846,7 +44846,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -44884,7 +44884,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -44906,7 +44906,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -44953,7 +44953,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -44975,7 +44975,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -45013,7 +45013,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -45035,7 +45035,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -45073,7 +45073,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -45095,7 +45095,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -45133,7 +45133,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -45155,7 +45155,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -45202,7 +45202,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -45224,7 +45224,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -45262,7 +45262,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -45284,7 +45284,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -45322,7 +45322,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -45344,7 +45344,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -45364,7 +45364,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -45428,7 +45428,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -45452,7 +45452,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -45474,7 +45474,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -45512,7 +45512,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -45534,7 +45534,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -45554,7 +45554,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -45618,7 +45618,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -45640,7 +45640,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -45678,7 +45678,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -45699,7 +45699,7 @@ var mods = {
                 "types": [
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -45741,7 +45741,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -45775,7 +45775,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -45809,7 +45809,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -45843,7 +45843,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -45877,7 +45877,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -45911,7 +45911,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -45945,7 +45945,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -45979,7 +45979,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -46011,7 +46011,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -46041,7 +46041,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -46071,7 +46071,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -46101,7 +46101,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -46131,7 +46131,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -46161,7 +46161,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -46191,7 +46191,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -46221,7 +46221,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -46251,7 +46251,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -46281,7 +46281,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -46311,7 +46311,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -46341,7 +46341,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -46397,7 +46397,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -46451,7 +46451,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -46505,7 +46505,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -46559,7 +46559,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -46614,7 +46614,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -46668,7 +46668,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -46721,7 +46721,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -46775,7 +46775,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -46830,7 +46830,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -46884,7 +46884,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -46937,7 +46937,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -46990,7 +46990,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -47043,7 +47043,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -47098,7 +47098,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -47172,7 +47172,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -47226,7 +47226,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -47279,7 +47279,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -47333,7 +47333,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -47387,7 +47387,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -47440,7 +47440,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -47494,7 +47494,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -47548,7 +47548,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -47602,7 +47602,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -47656,7 +47656,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -47710,7 +47710,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -47764,7 +47764,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -47792,7 +47792,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -47893,7 +47893,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -47948,7 +47948,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -48002,7 +48002,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -48055,7 +48055,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -48109,7 +48109,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -48163,7 +48163,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -48216,7 +48216,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -48270,7 +48270,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -48324,7 +48324,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -48378,7 +48378,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -48432,7 +48432,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -48486,7 +48486,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -48540,7 +48540,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -48568,7 +48568,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -48666,7 +48666,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -48717,7 +48717,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -48768,7 +48768,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -48821,7 +48821,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -48874,7 +48874,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -48928,7 +48928,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -48981,7 +48981,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -49035,7 +49035,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -49089,7 +49089,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -49143,7 +49143,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -49197,7 +49197,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -49251,7 +49251,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -49305,7 +49305,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -49333,7 +49333,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -49409,7 +49409,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -49472,7 +49472,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -49535,7 +49535,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -49559,7 +49559,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -49632,7 +49632,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -49664,7 +49664,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -49775,7 +49775,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -49838,7 +49838,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -49987,7 +49987,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -50034,7 +50034,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -50065,7 +50065,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -50096,7 +50096,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -50130,7 +50130,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -50161,7 +50161,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -50239,7 +50239,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -50328,7 +50328,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -50359,7 +50359,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -50409,7 +50409,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -50443,7 +50443,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -50533,7 +50533,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -50586,7 +50586,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -50639,7 +50639,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -50692,7 +50692,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -50746,7 +50746,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -50773,7 +50773,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -50800,7 +50800,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -50829,7 +50829,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -50856,7 +50856,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -50883,7 +50883,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -50975,7 +50975,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -51089,7 +51089,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -51172,7 +51172,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -51260,7 +51260,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -51297,7 +51297,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -51368,7 +51368,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -51405,7 +51405,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -51477,7 +51477,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -51552,7 +51552,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -51587,7 +51587,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -51629,7 +51629,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -51680,7 +51680,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -51726,7 +51726,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -51769,7 +51769,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -51879,7 +51879,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -52165,7 +52165,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -52195,7 +52195,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -52225,7 +52225,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -52257,7 +52257,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -52287,7 +52287,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -52317,7 +52317,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -52469,7 +52469,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -52529,7 +52529,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -52589,7 +52589,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -52650,7 +52650,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -52711,7 +52711,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -52772,7 +52772,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -52827,7 +52827,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -52857,7 +52857,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -52887,7 +52887,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -52996,7 +52996,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -53019,7 +53019,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -53070,7 +53070,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -53131,7 +53131,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -53192,7 +53192,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -53253,7 +53253,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -53314,7 +53314,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -53375,7 +53375,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -53430,7 +53430,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -53460,7 +53460,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -53490,7 +53490,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -53530,7 +53530,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -53591,7 +53591,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -53652,7 +53652,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -53713,7 +53713,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -53774,7 +53774,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -53829,7 +53829,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -53859,7 +53859,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -53889,7 +53889,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -53919,7 +53919,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -53949,7 +53949,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -53979,7 +53979,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -54009,7 +54009,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -54041,7 +54041,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -54071,7 +54071,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -54101,7 +54101,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -54131,7 +54131,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -54161,7 +54161,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -54191,7 +54191,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -54221,7 +54221,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -54251,7 +54251,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -54553,7 +54553,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -54614,7 +54614,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -54675,7 +54675,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -54736,7 +54736,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -54797,7 +54797,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -54858,7 +54858,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -54913,7 +54913,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -54943,7 +54943,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -54973,7 +54973,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -55005,7 +55005,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -55064,7 +55064,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -55108,7 +55108,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -55152,7 +55152,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -55194,7 +55194,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -55243,7 +55243,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -55278,7 +55278,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -55320,7 +55320,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -55355,7 +55355,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -55418,7 +55418,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -55477,7 +55477,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -55521,7 +55521,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -55565,7 +55565,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -55609,7 +55609,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -55651,7 +55651,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -55700,7 +55700,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -55735,7 +55735,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -55777,7 +55777,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -55812,7 +55812,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -55875,7 +55875,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -55934,7 +55934,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -55978,7 +55978,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -56020,7 +56020,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -56069,7 +56069,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -56104,7 +56104,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -56146,7 +56146,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -56181,7 +56181,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -56246,7 +56246,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -56280,7 +56280,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -56312,7 +56312,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -56357,7 +56357,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -56402,7 +56402,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -56495,7 +56495,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -56589,7 +56589,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -56630,7 +56630,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -56667,7 +56667,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -56760,7 +56760,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -56805,7 +56805,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -56850,7 +56850,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -56911,7 +56911,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -56956,7 +56956,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -57033,7 +57033,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -57078,7 +57078,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -57139,7 +57139,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -57248,7 +57248,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -57309,7 +57309,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -57333,7 +57333,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -57431,7 +57431,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -57517,7 +57517,7 @@ var mods = {
                 ],
                 "types": [
                     "claw",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -57576,7 +57576,7 @@ var mods = {
                 ],
                 "types": [
                     "claw",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -57636,7 +57636,7 @@ var mods = {
                 ],
                 "types": [
                     "claw",
-                    "wands",
+                    "wand",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
                     "one-hand-mace",
@@ -57696,7 +57696,7 @@ var mods = {
                 ],
                 "types": [
                     "claw",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -57752,7 +57752,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -57786,7 +57786,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -57822,7 +57822,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -57856,7 +57856,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -57890,7 +57890,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -57924,7 +57924,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -57960,7 +57960,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -57994,7 +57994,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -58028,7 +58028,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -58062,7 +58062,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -58098,7 +58098,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -58132,7 +58132,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -58166,7 +58166,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -58200,7 +58200,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -58236,7 +58236,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -58270,7 +58270,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -58304,7 +58304,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -58338,7 +58338,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -58374,7 +58374,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -58402,7 +58402,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -58478,7 +58478,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -58530,7 +58530,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -58584,7 +58584,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -58612,7 +58612,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -58688,7 +58688,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -58740,7 +58740,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -58794,7 +58794,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -58822,7 +58822,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -58898,7 +58898,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -58950,7 +58950,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -59004,7 +59004,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -59032,7 +59032,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -59108,7 +59108,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -59160,7 +59160,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -59214,7 +59214,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -59242,7 +59242,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -59318,7 +59318,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -59370,7 +59370,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -59422,7 +59422,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -59465,7 +59465,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -59492,7 +59492,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -59567,7 +59567,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -59618,7 +59618,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -59672,7 +59672,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -59700,7 +59700,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -59778,7 +59778,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -59831,7 +59831,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -59885,7 +59885,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -59918,7 +59918,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -59938,7 +59938,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -59969,7 +59969,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -60000,7 +60000,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -60040,7 +60040,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -60099,7 +60099,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -60158,7 +60158,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -60238,7 +60238,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -60284,7 +60284,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -60330,7 +60330,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -60378,7 +60378,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -60424,7 +60424,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -60470,7 +60470,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -60518,7 +60518,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -60564,7 +60564,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -60610,7 +60610,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -60658,7 +60658,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -60704,7 +60704,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -60750,7 +60750,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -60815,7 +60815,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -60879,7 +60879,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -60926,7 +60926,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -60987,7 +60987,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -61035,7 +61035,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -61098,7 +61098,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -61140,7 +61140,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "shield"
@@ -61193,7 +61193,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -61215,7 +61215,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "shield"
@@ -61273,7 +61273,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -61315,7 +61315,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "shield"
@@ -61400,7 +61400,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -61493,7 +61493,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -61553,7 +61553,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -61612,7 +61612,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "shield"
@@ -61651,7 +61651,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -61681,7 +61681,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -61808,7 +61808,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -61842,7 +61842,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -61878,7 +61878,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -61920,7 +61920,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -61954,7 +61954,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -61990,7 +61990,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -62032,7 +62032,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -62066,7 +62066,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -62100,7 +62100,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -62120,7 +62120,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -62226,7 +62226,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -62295,7 +62295,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -62329,7 +62329,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -62365,7 +62365,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -62407,7 +62407,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -62441,7 +62441,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -62477,7 +62477,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -62519,7 +62519,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -62553,7 +62553,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -62587,7 +62587,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -62607,7 +62607,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -62713,7 +62713,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -62782,7 +62782,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -62816,7 +62816,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -62852,7 +62852,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -62894,7 +62894,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -62928,7 +62928,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -62964,7 +62964,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -63006,7 +63006,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -63040,7 +63040,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -63074,7 +63074,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -63094,7 +63094,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -63200,7 +63200,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -63291,7 +63291,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -63335,7 +63335,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -63359,7 +63359,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -63455,7 +63455,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -63497,7 +63497,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -63539,7 +63539,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -63581,7 +63581,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -63625,7 +63625,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -63675,7 +63675,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -63720,7 +63720,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -63774,7 +63774,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -63827,7 +63827,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -63882,7 +63882,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -63936,7 +63936,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -64030,7 +64030,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -64183,7 +64183,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -64225,7 +64225,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -64267,7 +64267,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -64312,7 +64312,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -64366,7 +64366,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -64416,7 +64416,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -64461,7 +64461,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -64515,7 +64515,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -64568,7 +64568,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -64623,7 +64623,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -64677,7 +64677,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -64771,7 +64771,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -64924,7 +64924,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -64968,7 +64968,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -65020,7 +65020,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -65065,7 +65065,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -65119,7 +65119,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -65169,7 +65169,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -65214,7 +65214,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -65268,7 +65268,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -65321,7 +65321,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -65376,7 +65376,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -65430,7 +65430,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -65524,7 +65524,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -65676,7 +65676,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -65699,7 +65699,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -65757,7 +65757,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -65804,7 +65804,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -65827,7 +65827,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -65885,7 +65885,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -65931,7 +65931,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -65961,7 +65961,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -65990,7 +65990,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -66005,7 +66005,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -66022,7 +66022,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -66301,7 +66301,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -66337,7 +66337,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -66383,7 +66383,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -66436,7 +66436,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -66488,7 +66488,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -66541,7 +66541,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -66593,7 +66593,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -66647,7 +66647,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -66695,7 +66695,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -66737,7 +66737,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -66779,7 +66779,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -66821,7 +66821,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -66863,7 +66863,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -66905,7 +66905,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -66947,7 +66947,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -66986,7 +66986,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -67021,7 +67021,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "shield"
@@ -67072,7 +67072,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "shield"
@@ -67123,7 +67123,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "shield"
@@ -67174,7 +67174,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "rune-dagger",
                     "shield"
                 ]
@@ -67224,7 +67224,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "shield"
@@ -67279,7 +67279,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -67300,7 +67300,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -67321,7 +67321,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -67344,7 +67344,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "rune-dagger"
                 ]
             },
@@ -67364,7 +67364,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "rune-dagger"
                 ]
             },
@@ -67384,7 +67384,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "rune-dagger"
                 ]
             }
@@ -67406,7 +67406,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -67427,7 +67427,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -67448,7 +67448,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -67471,7 +67471,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -67492,7 +67492,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -67513,7 +67513,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -67536,7 +67536,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -67556,7 +67556,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -67576,7 +67576,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             }
@@ -67599,7 +67599,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -67682,7 +67682,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -67764,7 +67764,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -67868,7 +67868,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -67951,7 +67951,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -68033,7 +68033,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -68136,7 +68136,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -68179,7 +68179,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow"
                 ]
             },
@@ -68200,7 +68200,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow"
                 ]
             },
@@ -68221,7 +68221,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow"
                 ]
             },
@@ -68242,7 +68242,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow"
                 ]
             },
@@ -68263,7 +68263,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow"
                 ]
             }
@@ -68289,7 +68289,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -68338,7 +68338,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -68387,7 +68387,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -68436,7 +68436,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -68485,7 +68485,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -68536,7 +68536,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -68585,7 +68585,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -68634,7 +68634,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -68683,7 +68683,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -68732,7 +68732,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -68776,7 +68776,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow"
                 ]
             },
@@ -68793,7 +68793,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow"
                 ]
             },
@@ -68810,7 +68810,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow"
                 ]
             },
@@ -68827,7 +68827,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow"
                 ]
             },
@@ -68844,7 +68844,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow"
                 ]
             }
@@ -68870,7 +68870,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -68919,7 +68919,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -68968,7 +68968,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -69017,7 +69017,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -69066,7 +69066,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -69141,7 +69141,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -69234,7 +69234,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -69347,7 +69347,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -69429,7 +69429,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -69463,7 +69463,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -69497,7 +69497,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -69531,7 +69531,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -69567,7 +69567,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             }
         ],
@@ -69584,7 +69584,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             }
         ],
@@ -69610,7 +69610,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "shield"
                 ]
@@ -69661,7 +69661,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -69709,7 +69709,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -69754,7 +69754,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -71044,7 +71044,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -71087,7 +71087,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -71129,7 +71129,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -71153,7 +71153,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -71178,7 +71178,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -71202,7 +71202,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -71245,7 +71245,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -71270,7 +71270,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -71294,7 +71294,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -71337,7 +71337,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -71362,7 +71362,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "belt"
@@ -71402,7 +71402,7 @@ var mods = {
                 "types": [
                     "quiver",
                     "shield",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -71424,7 +71424,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -71446,7 +71446,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -71483,7 +71483,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -71500,7 +71500,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -71517,7 +71517,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -71551,7 +71551,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -74699,7 +74699,7 @@ var mods = {
                 "types": [
                     "quiver",
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -74719,7 +74719,7 @@ var mods = {
                 "types": [
                     "quiver",
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -74739,7 +74739,7 @@ var mods = {
                 "types": [
                     "quiver",
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -74854,7 +74854,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -74878,7 +74878,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -74902,7 +74902,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -74926,7 +74926,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -74948,7 +74948,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -74970,7 +74970,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -75033,7 +75033,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -75074,7 +75074,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -75712,7 +75712,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -75732,7 +75732,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -75768,7 +75768,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -75788,7 +75788,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -75824,7 +75824,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -75860,7 +75860,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -75897,7 +75897,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -75950,7 +75950,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -75970,7 +75970,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -76072,7 +76072,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -76090,7 +76090,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -76115,7 +76115,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -76139,7 +76139,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -76163,7 +76163,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -76187,7 +76187,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -76211,7 +76211,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -76235,7 +76235,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             }
@@ -76257,7 +76257,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -76293,7 +76293,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -76313,7 +76313,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -76349,7 +76349,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -76369,7 +76369,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -76389,7 +76389,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -76425,7 +76425,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -76445,7 +76445,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -76479,7 +76479,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -76498,7 +76498,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -76597,7 +76597,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -76614,7 +76614,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -76632,7 +76632,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -76730,7 +76730,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -76779,7 +76779,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -76885,7 +76885,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -76909,7 +76909,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -76931,7 +76931,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -76952,7 +76952,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -76973,7 +76973,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -76994,7 +76994,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -77015,7 +77015,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -77036,7 +77036,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -77056,7 +77056,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -77076,7 +77076,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -77096,7 +77096,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -77346,7 +77346,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -77362,7 +77362,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -77480,7 +77480,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -77547,7 +77547,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -77564,7 +77564,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -77793,7 +77793,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -77813,7 +77813,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -77875,7 +77875,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -77937,7 +77937,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -77956,7 +77956,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -77973,7 +77973,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -77990,7 +77990,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -78007,7 +78007,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -78060,7 +78060,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -78080,7 +78080,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -78116,7 +78116,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -78136,7 +78136,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -78190,7 +78190,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -78210,7 +78210,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -78247,7 +78247,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -78300,7 +78300,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -78320,7 +78320,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -78422,7 +78422,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -78440,7 +78440,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -78461,7 +78461,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -78497,7 +78497,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -78517,7 +78517,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -78554,7 +78554,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -78574,7 +78574,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -78612,7 +78612,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -78633,7 +78633,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -78689,7 +78689,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -78707,7 +78707,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -78726,7 +78726,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -78811,7 +78811,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -78828,7 +78828,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -78846,7 +78846,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -78929,7 +78929,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -78978,7 +78978,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -79048,7 +79048,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -79068,7 +79068,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -79088,7 +79088,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -79108,7 +79108,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -79128,7 +79128,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -79148,7 +79148,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -79168,7 +79168,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -79188,7 +79188,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -79208,7 +79208,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -79228,7 +79228,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -79246,7 +79246,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -79268,7 +79268,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -79308,7 +79308,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -79347,7 +79347,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -79386,7 +79386,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -79424,7 +79424,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -79463,7 +79463,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -79484,7 +79484,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -79559,7 +79559,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -79577,7 +79577,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -79632,7 +79632,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -79718,7 +79718,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -79735,7 +79735,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -79789,7 +79789,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -79873,7 +79873,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -79939,7 +79939,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -79976,7 +79976,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -79996,7 +79996,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80016,7 +80016,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80036,7 +80036,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80056,7 +80056,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80076,7 +80076,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80096,7 +80096,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80116,7 +80116,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80136,7 +80136,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80156,7 +80156,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80174,7 +80174,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -80195,7 +80195,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80215,7 +80215,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80235,7 +80235,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80255,7 +80255,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80275,7 +80275,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80295,7 +80295,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80315,7 +80315,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80335,7 +80335,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80355,7 +80355,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80375,7 +80375,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80393,7 +80393,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -80414,7 +80414,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80434,7 +80434,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80454,7 +80454,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80474,7 +80474,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80494,7 +80494,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80514,7 +80514,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80534,7 +80534,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80554,7 +80554,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80574,7 +80574,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80594,7 +80594,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -80612,7 +80612,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -80718,7 +80718,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -80738,7 +80738,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -80800,7 +80800,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -80862,7 +80862,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -80968,7 +80968,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -80988,7 +80988,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -81050,7 +81050,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -81112,7 +81112,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -81218,7 +81218,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -81238,7 +81238,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -81300,7 +81300,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -81362,7 +81362,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -81468,7 +81468,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -81488,7 +81488,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -81550,7 +81550,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -81612,7 +81612,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -81718,7 +81718,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -81738,7 +81738,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -81800,7 +81800,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -81862,7 +81862,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -81926,7 +81926,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -81946,7 +81946,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -82008,7 +82008,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -82070,7 +82070,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -82095,7 +82095,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82119,7 +82119,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82143,7 +82143,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82167,7 +82167,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82191,7 +82191,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82215,7 +82215,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             }
@@ -82241,7 +82241,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82265,7 +82265,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82287,7 +82287,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82308,7 +82308,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -82333,7 +82333,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82357,7 +82357,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82381,7 +82381,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82405,7 +82405,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82429,7 +82429,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82453,7 +82453,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             }
@@ -82479,7 +82479,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82503,7 +82503,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82525,7 +82525,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82546,7 +82546,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -82571,7 +82571,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82595,7 +82595,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82617,7 +82617,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82638,7 +82638,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -82663,7 +82663,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82687,7 +82687,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82711,7 +82711,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82735,7 +82735,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82759,7 +82759,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82783,7 +82783,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             }
@@ -82809,7 +82809,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82833,7 +82833,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82857,7 +82857,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82881,7 +82881,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82903,7 +82903,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -82925,7 +82925,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -82946,7 +82946,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -82966,7 +82966,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -82991,7 +82991,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -83015,7 +83015,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -83039,7 +83039,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -83063,7 +83063,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -83087,7 +83087,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -83111,7 +83111,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             }
@@ -83137,7 +83137,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -83161,7 +83161,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -83185,7 +83185,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -83209,7 +83209,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -83231,7 +83231,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -83253,7 +83253,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -83314,7 +83314,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -83354,7 +83354,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -83399,7 +83399,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -83423,7 +83423,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -83447,7 +83447,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -83471,7 +83471,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -83495,7 +83495,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -83519,7 +83519,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             }
@@ -86112,7 +86112,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -86131,7 +86131,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -86149,7 +86149,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -86185,7 +86185,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -86217,7 +86217,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -86233,7 +86233,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -86282,7 +86282,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -86314,7 +86314,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -86384,7 +86384,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -86402,7 +86402,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -86419,7 +86419,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -86436,7 +86436,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -86452,7 +86452,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             }
@@ -86474,7 +86474,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -86493,7 +86493,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -86516,7 +86516,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -86538,7 +86538,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -86557,7 +86557,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -86589,7 +86589,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -86621,7 +86621,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -86654,7 +86654,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -86686,7 +86686,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -86725,7 +86725,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -86745,7 +86745,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -86767,7 +86767,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -86780,7 +86780,7 @@ var mods = {
                 "level": "75",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -86798,7 +86798,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -86814,7 +86814,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -86836,7 +86836,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -86853,7 +86853,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -86875,7 +86875,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -86888,7 +86888,7 @@ var mods = {
                 "level": "75",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -86901,7 +86901,7 @@ var mods = {
                 "level": "85",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -86919,7 +86919,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -86935,7 +86935,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -86952,7 +86952,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -86967,7 +86967,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -86987,7 +86987,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -87005,7 +87005,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -87026,7 +87026,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -87043,7 +87043,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -87061,7 +87061,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -87079,7 +87079,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -87097,7 +87097,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -87115,7 +87115,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -87132,7 +87132,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "amulet"
                 ]
             },
@@ -87165,7 +87165,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "amulet"
                 ]
             },
@@ -87198,7 +87198,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -87242,7 +87242,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -87281,7 +87281,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -87297,7 +87297,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -87313,7 +87313,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -87335,7 +87335,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -87355,7 +87355,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -87373,7 +87373,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -87389,7 +87389,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -87411,7 +87411,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -87431,7 +87431,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -87444,7 +87444,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -87462,7 +87462,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -87478,7 +87478,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -87494,7 +87494,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -87510,7 +87510,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -87526,7 +87526,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -87542,7 +87542,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -87558,7 +87558,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -87580,7 +87580,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -87600,7 +87600,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -87620,7 +87620,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -87640,7 +87640,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -87660,7 +87660,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -87680,7 +87680,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -95332,7 +95332,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -95375,7 +95375,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -95398,7 +95398,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -95466,7 +95466,7 @@ var mods = {
                 ],
                 "types": [
                     "dagger",
-                    "wands",
+                    "wand",
                     "rune-dagger"
                 ]
             },
@@ -95486,7 +95486,7 @@ var mods = {
                 ],
                 "types": [
                     "claw",
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -95524,7 +95524,7 @@ var mods = {
                 ],
                 "types": [
                     "claw",
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -95543,7 +95543,7 @@ var mods = {
                 ],
                 "types": [
                     "claw",
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -95601,7 +95601,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -95632,7 +95632,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -95682,7 +95682,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -95699,7 +95699,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -95721,7 +95721,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -95738,7 +95738,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -95760,7 +95760,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -95777,7 +95777,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -95799,7 +95799,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -95816,7 +95816,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -95838,7 +95838,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -95855,7 +95855,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -95877,7 +95877,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -95894,7 +95894,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -95916,7 +95916,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -95933,7 +95933,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -95955,7 +95955,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -95972,7 +95972,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96012,7 +96012,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -96029,7 +96029,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96051,7 +96051,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -96068,7 +96068,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96090,7 +96090,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -96107,7 +96107,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96129,7 +96129,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -96146,7 +96146,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96168,7 +96168,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -96185,7 +96185,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96207,7 +96207,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -96224,7 +96224,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96246,7 +96246,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -96263,7 +96263,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96285,7 +96285,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -96302,7 +96302,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96342,7 +96342,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -96359,7 +96359,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96381,7 +96381,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -96398,7 +96398,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96420,7 +96420,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -96437,7 +96437,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96459,7 +96459,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -96476,7 +96476,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96498,7 +96498,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -96515,7 +96515,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96537,7 +96537,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -96554,7 +96554,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96576,7 +96576,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -96593,7 +96593,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96615,7 +96615,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -96632,7 +96632,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96704,7 +96704,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -96721,7 +96721,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96743,7 +96743,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -96760,7 +96760,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96782,7 +96782,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -96799,7 +96799,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96821,7 +96821,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -96838,7 +96838,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96860,7 +96860,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -96877,7 +96877,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96899,7 +96899,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -96916,7 +96916,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96938,7 +96938,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -96955,7 +96955,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96977,7 +96977,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -96994,7 +96994,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -97022,7 +97022,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -97050,7 +97050,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -97140,7 +97140,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -97186,7 +97186,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -97258,7 +97258,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -97286,7 +97286,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -97402,7 +97402,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -97510,7 +97510,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -97538,7 +97538,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -97628,7 +97628,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -97674,7 +97674,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -97746,7 +97746,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -97774,7 +97774,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -97890,7 +97890,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -97938,7 +97938,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -97966,7 +97966,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -98056,7 +98056,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -98102,7 +98102,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -98174,7 +98174,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -98202,7 +98202,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -98318,7 +98318,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -98366,7 +98366,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -98506,7 +98506,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -98559,7 +98559,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -98587,7 +98587,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -98772,7 +98772,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -98886,7 +98886,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -98958,7 +98958,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -98986,7 +98986,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -99231,7 +99231,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -99247,7 +99247,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -99266,7 +99266,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -99282,7 +99282,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -99301,7 +99301,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -99317,7 +99317,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             }
@@ -99370,7 +99370,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -99395,7 +99395,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -99420,7 +99420,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -99445,7 +99445,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -99470,7 +99470,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -99495,7 +99495,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -99538,7 +99538,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -99570,7 +99570,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -99602,7 +99602,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -99663,7 +99663,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -99695,7 +99695,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -99727,7 +99727,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -99759,7 +99759,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -99798,7 +99798,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -99806,7 +99806,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -99827,7 +99827,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -99835,7 +99835,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -99856,7 +99856,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -99864,7 +99864,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -99885,7 +99885,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -99893,7 +99893,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring"
@@ -99911,7 +99911,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -100188,7 +100188,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -100217,7 +100217,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -100246,7 +100246,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -100275,7 +100275,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             }
@@ -100296,7 +100296,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -100304,7 +100304,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -100323,7 +100323,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -100331,7 +100331,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -100350,7 +100350,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -100358,7 +100358,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -100377,7 +100377,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -100385,7 +100385,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             }
@@ -100406,7 +100406,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -100431,7 +100431,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -100456,7 +100456,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -100481,7 +100481,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -100506,7 +100506,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -100531,7 +100531,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -100553,7 +100553,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -100581,7 +100581,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -100609,7 +100609,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -100637,7 +100637,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -100665,7 +100665,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "thrusting-one-hand-sword",
                     "one-hand-axe",
@@ -100798,7 +100798,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "staff",
@@ -100897,7 +100897,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow"
                 ]
             },
@@ -101043,7 +101043,7 @@ var mods = {
                 "types": [
                     "claw",
                     "dagger",
-                    "wands",
+                    "wand",
                     "thrusting-one-hand-sword",
                     "sceptre",
                     "rune-dagger",
@@ -101459,7 +101459,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -101475,7 +101475,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -101491,7 +101491,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -101507,7 +101507,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -101523,7 +101523,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -101539,7 +101539,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -101555,7 +101555,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -101652,7 +101652,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -101686,7 +101686,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -101720,7 +101720,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -101754,7 +101754,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -101788,7 +101788,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -101806,7 +101806,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -102190,7 +102190,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow",
                     "quiver"
                 ]
@@ -102208,7 +102208,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow",
                     "quiver"
                 ]
@@ -102226,7 +102226,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow",
                     "quiver"
                 ]
@@ -102244,7 +102244,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "bow",
                     "quiver"
                 ]
@@ -102268,7 +102268,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -102310,7 +102310,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -102352,7 +102352,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -102374,7 +102374,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -102438,7 +102438,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -102480,7 +102480,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -102522,7 +102522,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -102544,7 +102544,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -102608,7 +102608,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -102650,7 +102650,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -102692,7 +102692,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -102714,7 +102714,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -102778,7 +102778,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -102820,7 +102820,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -102862,7 +102862,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -102884,7 +102884,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -102960,7 +102960,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -102994,7 +102994,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -103028,7 +103028,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -103062,7 +103062,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -103096,7 +103096,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -103114,7 +103114,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -103182,7 +103182,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -103216,7 +103216,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -103250,7 +103250,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -103284,7 +103284,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -103318,7 +103318,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -103336,7 +103336,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -103404,7 +103404,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -103438,7 +103438,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -103472,7 +103472,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -103506,7 +103506,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -103540,7 +103540,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -103558,7 +103558,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -103642,7 +103642,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -103692,7 +103692,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -103726,7 +103726,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -103760,7 +103760,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -103794,7 +103794,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -103812,7 +103812,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -104076,7 +104076,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -104110,7 +104110,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -104144,7 +104144,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -104178,7 +104178,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -104212,7 +104212,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -104230,7 +104230,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -104314,7 +104314,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -104348,7 +104348,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -104382,7 +104382,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -104416,7 +104416,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -104450,7 +104450,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -104468,7 +104468,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -104520,7 +104520,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -104537,7 +104537,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -104590,7 +104590,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -104607,7 +104607,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -104660,7 +104660,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -104677,7 +104677,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -104730,7 +104730,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -104747,7 +104747,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -104799,7 +104799,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -104833,7 +104833,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -104867,7 +104867,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -104901,7 +104901,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -104935,7 +104935,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -104970,7 +104970,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -105004,7 +105004,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -105021,7 +105021,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -105074,7 +105074,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -105108,7 +105108,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -105125,7 +105125,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -105178,7 +105178,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -105212,7 +105212,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -105229,7 +105229,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -105296,7 +105296,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "amulet"
@@ -105330,7 +105330,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "amulet"
@@ -105348,7 +105348,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "amulet"
@@ -105415,7 +105415,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "amulet"
@@ -105449,7 +105449,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "amulet"
@@ -105467,7 +105467,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "amulet"
@@ -105534,7 +105534,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "amulet"
@@ -105568,7 +105568,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "amulet"
@@ -105586,7 +105586,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "amulet"
@@ -105638,7 +105638,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "amulet"
@@ -105672,7 +105672,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "amulet"
@@ -105690,7 +105690,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "amulet"
@@ -105743,7 +105743,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -105777,7 +105777,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -105794,7 +105794,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre"
                 ]
             },
@@ -105847,7 +105847,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -105881,7 +105881,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -105899,7 +105899,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -105951,7 +105951,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -105985,7 +105985,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106003,7 +106003,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106055,7 +106055,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106089,7 +106089,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106107,7 +106107,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106159,7 +106159,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106177,7 +106177,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106227,7 +106227,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106261,7 +106261,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106295,7 +106295,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106329,7 +106329,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106365,7 +106365,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106383,7 +106383,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106433,7 +106433,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106467,7 +106467,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106501,7 +106501,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106535,7 +106535,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106571,7 +106571,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106589,7 +106589,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106639,7 +106639,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106673,7 +106673,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106707,7 +106707,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106741,7 +106741,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106777,7 +106777,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106795,7 +106795,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106845,7 +106845,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106879,7 +106879,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106913,7 +106913,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106947,7 +106947,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -106983,7 +106983,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -107001,7 +107001,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -107051,7 +107051,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -107085,7 +107085,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -107119,7 +107119,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -107153,7 +107153,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -107189,7 +107189,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -107207,7 +107207,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -107257,7 +107257,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -107291,7 +107291,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -107325,7 +107325,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -107359,7 +107359,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -107395,7 +107395,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -107413,7 +107413,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -107463,7 +107463,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -107497,7 +107497,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -107531,7 +107531,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -107565,7 +107565,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger"
                 ]
@@ -107600,7 +107600,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "rune-dagger",
                     "shield"
                 ]
@@ -107634,7 +107634,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "amulet"
@@ -107668,7 +107668,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "amulet"
@@ -107704,7 +107704,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "amulet"
@@ -107738,7 +107738,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "amulet"
@@ -107774,7 +107774,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "amulet"
@@ -107808,7 +107808,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "amulet"
@@ -107844,7 +107844,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "amulet"
@@ -107878,7 +107878,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "rune-dagger",
                     "amulet"
@@ -107910,7 +107910,7 @@ var mods = {
                 "level": "45",
                 "values": [],
                 "types": [
-                    "wands",
+                    "wand",
                     "sceptre",
                     "staff",
                     "warstff"
@@ -107961,7 +107961,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "thrusting-one-hand-sword"
                 ]
             },
@@ -108011,7 +108011,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands",
+                    "wand",
                     "one-hand-sword",
                     "one-hand-axe",
                     "one-hand-mace",
@@ -108149,7 +108149,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -108169,7 +108169,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -108189,7 +108189,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -108271,7 +108271,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -108291,7 +108291,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -108311,7 +108311,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -108393,7 +108393,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -108413,7 +108413,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -108433,7 +108433,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -108509,7 +108509,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -108524,7 +108524,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -108652,7 +108652,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             }
         ],
@@ -108672,7 +108672,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             }
         ],
@@ -108690,7 +108690,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -108706,7 +108706,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -108722,7 +108722,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "wands"
+                    "wand"
                 ]
             },
             {
@@ -108977,7 +108977,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -109010,7 +109010,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -109043,7 +109043,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -109076,7 +109076,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -109227,7 +109227,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -109257,7 +109257,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -109287,7 +109287,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -109317,7 +109317,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             }
@@ -109505,7 +109505,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -109667,7 +109667,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -109702,7 +109702,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -110954,7 +110954,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -110978,7 +110978,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111002,7 +111002,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111026,7 +111026,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111051,7 +111051,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111075,7 +111075,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111099,7 +111099,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111123,7 +111123,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111147,7 +111147,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111171,7 +111171,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111195,7 +111195,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111219,7 +111219,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111243,7 +111243,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111267,7 +111267,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111291,7 +111291,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111315,7 +111315,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111339,7 +111339,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111363,7 +111363,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111387,7 +111387,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111411,7 +111411,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111435,7 +111435,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111459,7 +111459,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111483,7 +111483,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111507,7 +111507,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111531,7 +111531,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111555,7 +111555,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111579,7 +111579,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111603,7 +111603,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111627,7 +111627,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111651,7 +111651,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111675,7 +111675,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111712,7 +111712,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111736,7 +111736,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111760,7 +111760,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111784,7 +111784,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111808,7 +111808,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111832,7 +111832,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -111921,7 +111921,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -111944,7 +111944,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -111967,7 +111967,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -111991,7 +111991,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -112014,7 +112014,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -112038,7 +112038,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -112062,7 +112062,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -112085,7 +112085,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -112682,7 +112682,7 @@ var mods = {
                 "values": [],
                 "types": [
                     "quiver",
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -113830,7 +113830,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -113880,7 +113880,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -113964,7 +113964,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -113980,7 +113980,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -114299,7 +114299,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -114319,7 +114319,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -114339,7 +114339,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -114460,7 +114460,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -114479,7 +114479,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -114498,7 +114498,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -114517,7 +114517,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "belt"
                 ]
@@ -114556,7 +114556,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -114579,7 +114579,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -114602,7 +114602,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -114625,7 +114625,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -114648,7 +114648,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -114671,7 +114671,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -114694,7 +114694,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -114717,7 +114717,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -114740,7 +114740,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -114763,7 +114763,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -114915,7 +114915,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -115174,7 +115174,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -115197,7 +115197,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -115220,7 +115220,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -115243,7 +115243,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet",
                     "amulet",
                     "ring",
@@ -115268,7 +115268,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -115288,7 +115288,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -115308,7 +115308,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -115328,7 +115328,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             }
@@ -115502,7 +115502,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -115517,7 +115517,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -115532,7 +115532,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -115722,7 +115722,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -115738,7 +115738,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -115758,7 +115758,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -115774,7 +115774,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -115794,7 +115794,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -115810,7 +115810,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -115830,7 +115830,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -115846,7 +115846,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -115866,7 +115866,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -115882,7 +115882,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -115902,7 +115902,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -115918,7 +115918,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -115938,7 +115938,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -115954,7 +115954,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -115974,7 +115974,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -115990,7 +115990,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -116043,7 +116043,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -116076,7 +116076,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "belt"
                 ]
             },
@@ -116093,7 +116093,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "belt"
                 ]
             }
@@ -116115,7 +116115,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -116382,7 +116382,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -116432,7 +116432,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -116516,7 +116516,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -116532,7 +116532,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -116716,7 +116716,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -116766,7 +116766,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -116850,7 +116850,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -116866,7 +116866,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -120318,7 +120318,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -120333,7 +120333,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -120348,7 +120348,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -120366,7 +120366,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -120382,7 +120382,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -120398,7 +120398,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -120415,7 +120415,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -120432,7 +120432,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -120447,7 +120447,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -120464,7 +120464,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -120479,7 +120479,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -120496,7 +120496,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -120511,7 +120511,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -120528,7 +120528,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -120560,7 +120560,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -120577,7 +120577,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -120609,7 +120609,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -120641,7 +120641,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -120658,7 +120658,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -120708,7 +120708,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             },
@@ -120725,7 +120725,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             }
@@ -120744,7 +120744,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -120760,7 +120760,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -120778,7 +120778,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -120794,7 +120794,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -120812,7 +120812,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -120828,7 +120828,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -120844,7 +120844,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -120862,7 +120862,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -120878,7 +120878,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -120894,7 +120894,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -120912,7 +120912,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -120928,7 +120928,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -120944,7 +120944,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -120962,7 +120962,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -120978,7 +120978,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -120994,7 +120994,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -121011,7 +121011,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -121029,7 +121029,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -121045,7 +121045,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -121061,7 +121061,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -121078,7 +121078,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -121093,7 +121093,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -121108,7 +121108,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -121123,7 +121123,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -121140,7 +121140,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -121155,7 +121155,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -121170,7 +121170,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -121185,7 +121185,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -121202,7 +121202,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -121217,7 +121217,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -121232,7 +121232,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -121247,7 +121247,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -121264,7 +121264,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -121279,7 +121279,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -121294,7 +121294,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -121309,7 +121309,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -121326,7 +121326,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -121341,7 +121341,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -121356,7 +121356,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -121371,7 +121371,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -121388,7 +121388,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -121401,7 +121401,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -121418,7 +121418,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -121435,7 +121435,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -121452,7 +121452,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -121470,7 +121470,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "belt"
                 ]
             }
@@ -121489,7 +121489,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "helmet"
                 ]
             }
@@ -121508,7 +121508,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -121524,7 +121524,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -121542,7 +121542,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -121558,7 +121558,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -121576,7 +121576,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -121592,7 +121592,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -121610,7 +121610,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -121626,7 +121626,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -121639,7 +121639,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -121657,7 +121657,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -121691,7 +121691,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             },
             {
@@ -121724,7 +121724,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour",
+                    "chest",
                     "amulet"
                 ]
             }
@@ -121743,7 +121743,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -121761,7 +121761,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -121779,7 +121779,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
@@ -121797,7 +121797,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "body-armour"
+                    "chest"
                 ]
             }
         ],
