@@ -4,14 +4,11 @@
 
 ## Features
 
-* Sort item and currency searches on **pathofexile.com/trade****pathofexile.com/trade2** by current chaos equivalent using **poe.ninja****orbwatch.trade** values.
-* Track "contacted" seller in currency searches like the app already does for item searches.
-* Change quantities in currency searches freely.
-
 ### Item Search enhancements
 
+* Sort item and currency searches by current chaos/exalted equivalent using **poe.ninja** for PoE1 and **orbwatch.trade** values for PoE2.
 * Adds a save manager to easily save and reload any item search or even any filter group.
-* Adds an affix selector based on [PoEDB](https://poedb.tw/)[PoE2DB](https://poe2db.tw/) data to easily select all actually possible affixes for the item type you are searching.
+* Adds an affix selector based on [PoEDB](https://poedb.tw/)/[PoE2DB](https://poe2db.tw/) data to easily select all actually possible affixes for the item type you are searching.
 * Duplicates search button on top of search controls.
 * Result can be grouped by user selling
 * For tiered items (essences, sextants...) show the cost of reaching max tier, also enabling sorting by this value.
@@ -120,15 +117,11 @@ is still a side project, and life tends to get in the way!
 For a list of published or planned projects, check out my **[Patreon page](https://www.patreon.com/ghostscripter)**.
 ## Poe Trade Official Site Enhancer Showcase
 
-* Sort item and currency searches on **pathofexile.com/trade****pathofexile.com/trade2** by current chaos equivalent using **poe.ninja****orbwatch.trade** values.
+* Sort item and currency searches by current chaos/exalted equivalent using **poe.ninja** for PoE1 and **orbwatch.trade** values for PoE2.
 ![](https://raw.githubusercontent.com/ghostscript3r/poe-trade-official-site-enhancer/master/images/sort-real-curr-off.gif)
-* Track "contacted" seller in currency searches like the app already does for item searches.
-![](https://raw.githubusercontent.com/ghostscript3r/poe-trade-official-site-enhancer/master/images/contacted-off.gif)
-* Change quantities in currency searches freely.
-![](https://raw.githubusercontent.com/ghostscript3r/poe-trade-official-site-enhancer/master/images/change-qt-off.gif)
 * Adds a save manager to easily save and reload any item search or even any filter group.
 ![](https://raw.githubusercontent.com/ghostscript3r/poe-trade-official-site-enhancer/master/images/save-man-off.gif)
-* Adds an affix selector based on [PoEDB](https://poedb.tw/)[PoE2DB](https://poe2db.tw/) data to easily select all actually possible affixes for the item type you are searching.
+* Adds an affix selector based on [PoEDB](https://poedb.tw/)/[PoE2DB](https://poe2db.tw/) data to easily select all actually possible affixes for the item type you are searching.
 ![](https://raw.githubusercontent.com/ghostscript3r/poe-trade-official-site-enhancer/master/images/mod-selector.gif)
 * Result can be grouped by user selling
 ![](https://raw.githubusercontent.com/ghostscript3r/poe-trade-official-site-enhancer/master/images/group-same-user-off.gif)

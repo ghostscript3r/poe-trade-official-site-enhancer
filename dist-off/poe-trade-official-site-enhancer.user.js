@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         poe-trade-official-site-enhancer
 // @namespace    https://github.com/ghostscript3r/poe-trade-enhancer
-// @version      1.4.1007
+// @version      1.4.1010
 // @description  Adds tons of usefull features to poe.trade, from a very easy to use save manager to save and laod your searches and even live search them all in one page, to an auto sort by real currency values (from poe.ninja), passing from gems max quality cost and more. I have some other very good idea for features to add, I'll gladly push them forward if I see people start using this.
 // @author       ghostscript3r@gmail.com | https://www.patreon.com/ghostscripter
 // @license      MIT
@@ -233,7 +233,7 @@ var frameContent = /* html */ `
     <div class="tab-content" id="myTabContent">
       <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
         <div class="">
-          <h2 class="">Poe Trade Official Site Enhancer <small class="text-secondary font-italic font-weight-light">v. 1.4.1007</small></h2>
+          <h2 class="">Poe Trade Official Site Enhancer <small class="text-secondary font-italic font-weight-light">v. 1.4.1010</small></h2>
           ${shortDescriptionParagraph}
           <hr class="my-4">
           ${donateTemplate}
@@ -343,8 +343,9 @@ var settings = {
     label:`Block UI while sorting`, info:`If this is enabled a loading modal window will block the UI until all data have been loaded.`
   },
   enableChaosEquiv: {
-    type: 'Boolean', default: true, paragraph: '', class: '',
+    type: 'Boolean', default: true, paragraph: 'parag1', class: '',
     label:`Convert all prices to <span class="poe1only">chaos</span><span class="poe2only">exalted</span> equivalent`, info:`If you disable this all PTE conversion related features will be disabled.`,
+    featureForReadMe: `Sort item and currency searches by current chaos/exalted equivalent using <b class="poe1only">poe.ninja</b> for PoE1 and <b class="poe2only">orbwatch.trade</b> values for PoE2.`,
     feature:`Sort item and currency searches on <b class="poe1only">pathofexile.com/trade</b><b class="poe2only">pathofexile.com/trade2</b> by current chaos equivalent using <b class="poe1only">poe.ninja</b><b class="poe2only">orbwatch.trade</b> values.`, showcase: 'https://raw.githubusercontent.com/ghostscript3r/poe-trade-official-site-enhancer/master/images/sort-real-curr-off.gif'
   },
   enableCurrencyLoad: {
@@ -371,6 +372,7 @@ var settings = {
   useModSelector: {
     type: 'Boolean', default: true, paragraph: 'parag1', class: '',
     label: `Enable affix selector`, info:`Enabling this you'll be able to use an affix selector using an item type filter based on <a class="poe1only" target="_blank" href="https://poedb.tw/">PoEDB</a><a class="poe2only" target="_blank" href="https://poe2db.tw/">PoE2DB</a> data.`,
+    featureForReadMe: `Adds an affix selector based on <a class="poe1only" target="_blank" href="https://poedb.tw/">PoEDB</a>/<a class="poe2only" target="_blank" href="https://poe2db.tw/">PoE2DB</a> data to easily select all actually possible affixes for the item type you are searching.`,
     feature: `Adds an affix selector based on <a class="poe1only" target="_blank" href="https://poedb.tw/">PoEDB</a><a class="poe2only" target="_blank" href="https://poe2db.tw/">PoE2DB</a> data to easily select all actually possible affixes for the item type you are searching.`, showcase: 'https://raw.githubusercontent.com/ghostscript3r/poe-trade-official-site-enhancer/master/images/mod-selector.gif'
   },
   doDuplicateControls: {
@@ -414,17 +416,18 @@ var settings = {
     type: 'Boolean', default: true, paragraph: 'parag1', class: '',
     label: `Add wiki links for each item`,
     feature: `Wiki links for additional items and types.`
-  },
-  trackContactedOnCurrencySearches: {
-    type: 'Boolean', default: true, paragraph: 'parag2', class: 'd-none',
-    label:`Track "contacted" also in currency searches`, info:`Track already contacted seller like for item searches.`,
-    feature:`Track "contacted" seller in currency searches like the app already does for item searches.`, showcase: 'https://raw.githubusercontent.com/ghostscript3r/poe-trade-official-site-enhancer/master/images/contacted-off.gif'
-  },
-  customQuantitiesOnCurrencySearches: {
-    type: 'Boolean', default: true, paragraph: 'parag2', class: 'd-none',
-    label:`Change quantities freely`, info:`Enabling this you'll be able to manually change quantities as you wish. Just click on the quantity you want to change (buying/selling) and the other will be recalculated using the same ratio.`,
-    feature:`Change quantities in currency searches freely.`, showcase: 'https://raw.githubusercontent.com/ghostscript3r/poe-trade-official-site-enhancer/master/images/change-qt-off.gif'
   }
+  // ,
+  // trackContactedOnCurrencySearches: {
+  //   type: 'Boolean', default: true, paragraph: 'parag2', class: 'd-none',
+  //   label:`Track "contacted" also in currency searches`, info:`Track already contacted seller like for item searches.`,
+  //   feature:`Track "contacted" seller in currency searches like the app already does for item searches.`, showcase: 'https://raw.githubusercontent.com/ghostscript3r/poe-trade-official-site-enhancer/master/images/contacted-off.gif'
+  // },
+  // customQuantitiesOnCurrencySearches: {
+  //   type: 'Boolean', default: true, paragraph: 'parag2', class: 'd-none',
+  //   label:`Change quantities freely`, info:`Enabling this you'll be able to manually change quantities as you wish. Just click on the quantity you want to change (buying/selling) and the other will be recalculated using the same ratio.`,
+  //   feature:`Change quantities in currency searches freely.`, showcase: 'https://raw.githubusercontent.com/ghostscript3r/poe-trade-official-site-enhancer/master/images/change-qt-off.gif'
+  // }
 };
 
   try {
@@ -1218,7 +1221,7 @@ var endInit = function() {
 };
 
 
-info("version: 1.4.1007");
+info("version: 1.4.1010");
 
   ;(function(factory) {
     if(typeof define === 'function' && define.amd) {
