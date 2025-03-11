@@ -39,7 +39,7 @@ There's already a specific page for **[requesting new features for this project]
 
 ## Roadmap
 
-I'd like to see some votes before starting on new features. I already put some ideas there, but I'd like to see more from you. If nothing appens there, the next thing will probably be a smart mod and ranges selector based on poe.affix values, because choosing a mod that gives no results because the mod for the type of item I'm searching is spelled slightly differente is one of the things I find more frustrating of this interface.
+<p>I’m glad to see so many people interested in this script! While I’ve kept the <strong>feature voting system</strong> and <strong>GitHub issue tracking</strong>, I’ll be honest—I haven’t been great at keeping up with requests in the past, and with limited support, that’s unlikely to change.</p><p>For now, I’ll keep working on this at my own pace, mostly adding things I personally find useful. I have some cool ideas, but they’re probably a bit too ambitious for a one-person side project.</p><p>That said, if you have suggestions, feel free to drop them in! Just know that new features will happen <strong>if and when I have the time and motivation.</strong> Either way, I appreciate everyone who’s found this useful!</p>
 
 [New features request and vote](https://www.tricider.com/admin/36HWcTk5RhZ/DawSV0oQX7b)
 [Project board](https://trello.com/b/x77l2HzX/poe-trade-enhancer)
