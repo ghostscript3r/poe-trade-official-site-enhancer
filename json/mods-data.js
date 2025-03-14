@@ -27,7 +27,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -76,7 +76,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -115,7 +115,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -153,7 +153,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -186,7 +186,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -219,7 +219,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -257,7 +257,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -290,7 +290,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -324,7 +324,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -357,7 +357,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -390,7 +390,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -423,7 +423,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -446,7 +446,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -495,7 +495,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -540,7 +540,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -578,7 +578,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -616,7 +616,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -645,7 +645,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -674,7 +674,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -712,7 +712,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -743,7 +743,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -775,7 +775,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -805,7 +805,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -836,7 +836,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -866,7 +866,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -889,7 +889,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -1852,7 +1852,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -1908,7 +1908,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -1947,7 +1947,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -1987,7 +1987,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2026,7 +2026,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2066,7 +2066,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2105,7 +2105,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2144,7 +2144,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -2182,7 +2182,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2222,7 +2222,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2262,7 +2262,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2304,7 +2304,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2360,7 +2360,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2399,7 +2399,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2439,7 +2439,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2478,7 +2478,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2518,7 +2518,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2557,7 +2557,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2596,7 +2596,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -2634,7 +2634,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2674,7 +2674,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2714,7 +2714,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2755,7 +2755,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2810,7 +2810,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2849,7 +2849,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2889,7 +2889,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2928,7 +2928,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -2968,7 +2968,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -3007,7 +3007,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -3046,7 +3046,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -3084,7 +3084,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -3124,7 +3124,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -3164,7 +3164,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -3221,7 +3221,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -3260,7 +3260,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -3299,7 +3299,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -3339,7 +3339,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -3379,7 +3379,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -3419,7 +3419,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -5323,7 +5323,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -5357,7 +5357,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             }
@@ -8487,7 +8487,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             }
@@ -8523,7 +8523,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             }
@@ -8559,7 +8559,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             }
@@ -8594,7 +8594,7 @@ var mods = {
                     "warstaff",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             }
@@ -12582,7 +12582,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -12631,7 +12631,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -12670,7 +12670,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -12709,7 +12709,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -12744,7 +12744,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -12777,7 +12777,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -12816,7 +12816,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -12851,7 +12851,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -12886,7 +12886,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -12919,7 +12919,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -12954,7 +12954,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -12987,7 +12987,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -13011,7 +13011,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -13084,7 +13084,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -13123,7 +13123,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -13162,7 +13162,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -13217,7 +13217,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -13256,7 +13256,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -13295,7 +13295,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -13350,7 +13350,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -13389,7 +13389,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -13428,7 +13428,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -13534,7 +13534,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -13605,7 +13605,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -15880,7 +15880,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -15904,7 +15904,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -15943,7 +15943,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -15982,7 +15982,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16023,7 +16023,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16047,7 +16047,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16086,7 +16086,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16125,7 +16125,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16166,7 +16166,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16190,7 +16190,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16229,7 +16229,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16268,7 +16268,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16304,7 +16304,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16344,7 +16344,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16380,7 +16380,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16416,7 +16416,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16621,7 +16621,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16662,7 +16662,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16703,7 +16703,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -16744,7 +16744,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -21846,7 +21846,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -24220,7 +24220,7 @@ var mods = {
                 "types": [
                     "quiver",
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -24273,7 +24273,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             }
@@ -24549,7 +24549,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -24565,7 +24565,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -24581,7 +24581,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -24615,7 +24615,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -24631,7 +24631,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -24647,7 +24647,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -24663,7 +24663,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -24701,7 +24701,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -24725,7 +24725,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -24749,7 +24749,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -24773,7 +24773,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -24815,7 +24815,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -24839,7 +24839,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -24863,7 +24863,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -24887,7 +24887,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -24929,7 +24929,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -24953,7 +24953,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -24977,7 +24977,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -25001,7 +25001,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -25899,7 +25899,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -25923,7 +25923,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -25947,7 +25947,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -25971,7 +25971,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -25995,7 +25995,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -26019,7 +26019,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -26043,7 +26043,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -26066,7 +26066,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "belt"
@@ -26086,7 +26086,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -26105,7 +26105,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -26121,7 +26121,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -26279,7 +26279,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "belt"
                 ]
             },
@@ -26312,7 +26312,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "belt"
                 ]
             },
@@ -26330,7 +26330,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "belt"
                 ]
             },
@@ -26368,7 +26368,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -26404,7 +26404,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -26424,7 +26424,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -26445,7 +26445,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -26466,7 +26466,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -26487,7 +26487,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -26719,7 +26719,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -27594,7 +27594,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -27626,7 +27626,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -27658,7 +27658,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -27674,7 +27674,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -27742,7 +27742,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -27759,7 +27759,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -27793,7 +27793,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -27827,7 +27827,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -27846,7 +27846,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -27863,7 +27863,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -27880,7 +27880,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -27914,7 +27914,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -27948,7 +27948,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -27967,7 +27967,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -27984,7 +27984,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -28001,7 +28001,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -28018,7 +28018,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -28052,7 +28052,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -28086,7 +28086,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -28187,7 +28187,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -28206,7 +28206,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             }
@@ -28226,7 +28226,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -28280,7 +28280,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             }
@@ -28319,7 +28319,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -28335,7 +28335,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -28355,7 +28355,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "belt"
                 ]
             },
@@ -28374,7 +28374,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "belt"
                 ]
             },
@@ -28410,7 +28410,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "belt"
                 ]
             },
@@ -28429,7 +28429,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "belt"
                 ]
             },
@@ -28495,7 +28495,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest",
+                    "body-armour",
                     "belt"
                 ]
             },
@@ -28514,7 +28514,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "belt"
                 ]
             },
@@ -28549,7 +28549,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "belt"
                 ]
             }
@@ -28570,7 +28570,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -28603,7 +28603,7 @@ var mods = {
                 "types": [
                     "shield",
                     "gloves",
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -28659,7 +28659,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -28680,7 +28680,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -28703,7 +28703,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -28724,7 +28724,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -28745,7 +28745,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -28766,7 +28766,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -28789,7 +28789,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -28810,7 +28810,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -28831,7 +28831,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -28852,7 +28852,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -28875,7 +28875,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -28896,7 +28896,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -28917,7 +28917,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -28938,7 +28938,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -29009,7 +29009,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -29044,7 +29044,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -29097,7 +29097,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -29114,7 +29114,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -29149,7 +29149,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -29202,7 +29202,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -29237,7 +29237,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -29256,7 +29256,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -29273,7 +29273,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -29290,7 +29290,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -29307,7 +29307,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -29324,7 +29324,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -29341,7 +29341,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -29358,7 +29358,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -30836,7 +30836,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "amulet"
                 ]
             },
@@ -30869,7 +30869,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "amulet"
                 ]
             },
@@ -30886,7 +30886,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -31132,7 +31132,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -31759,7 +31759,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -31775,7 +31775,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -31791,7 +31791,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -32592,7 +32592,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "amulet"
                 ]
             },
@@ -32625,7 +32625,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "amulet"
                 ]
             },
@@ -32642,7 +32642,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -32975,7 +32975,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -32991,7 +32991,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -33058,7 +33058,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -33091,7 +33091,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -33241,7 +33241,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -33254,7 +33254,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -33267,7 +33267,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -33280,7 +33280,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -33293,7 +33293,7 @@ var mods = {
                 "level": "50",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -33343,7 +33343,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -33404,7 +33404,7 @@ var mods = {
                 "level": "1",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -33453,7 +33453,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -33469,7 +33469,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -33486,7 +33486,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -33520,7 +33520,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -33554,7 +33554,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -33605,7 +33605,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -33624,7 +33624,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -33640,7 +33640,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -33656,7 +33656,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -33675,7 +33675,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -33691,7 +33691,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -33707,7 +33707,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -33726,7 +33726,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "amulet"
                 ]
             },
@@ -33759,7 +33759,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "amulet"
                 ]
             },
@@ -33792,7 +33792,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -33829,7 +33829,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -33848,7 +33848,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -33867,7 +33867,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -33886,7 +33886,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -33903,7 +33903,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -33920,7 +33920,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -33942,7 +33942,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -33962,7 +33962,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -33984,7 +33984,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -34004,7 +34004,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34025,7 +34025,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -34044,7 +34044,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34063,7 +34063,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -34079,7 +34079,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -34095,7 +34095,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34114,7 +34114,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -34131,7 +34131,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -34148,7 +34148,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34170,7 +34170,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -34190,7 +34190,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34211,7 +34211,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -34230,7 +34230,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34251,7 +34251,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -34270,7 +34270,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34287,7 +34287,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34305,7 +34305,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -34355,7 +34355,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34375,7 +34375,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34397,7 +34397,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34414,7 +34414,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34449,7 +34449,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -34499,7 +34499,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34519,7 +34519,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34541,7 +34541,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34559,7 +34559,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -34575,7 +34575,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -34591,7 +34591,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34608,7 +34608,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34626,7 +34626,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -34676,7 +34676,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34697,7 +34697,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34717,7 +34717,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34741,7 +34741,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34758,7 +34758,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34776,7 +34776,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -34792,7 +34792,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -34808,7 +34808,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -34824,7 +34824,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34841,7 +34841,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34859,7 +34859,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34877,7 +34877,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34895,7 +34895,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -34913,7 +34913,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -34930,7 +34930,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -34947,7 +34947,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             }
@@ -34965,7 +34965,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "belt"
                 ]
             },
@@ -34981,7 +34981,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "belt"
                 ]
             },
@@ -34997,7 +34997,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "belt"
                 ]
             },
@@ -35013,7 +35013,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "belt"
                 ]
             }
@@ -35031,7 +35031,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -35046,7 +35046,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -35064,7 +35064,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -35080,7 +35080,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -35096,7 +35096,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -35112,7 +35112,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -35129,7 +35129,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -35144,7 +35144,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -35159,7 +35159,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -35174,7 +35174,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -35192,7 +35192,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -35208,7 +35208,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -35226,7 +35226,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -35260,7 +35260,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -35292,7 +35292,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -35309,7 +35309,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -35326,7 +35326,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -35343,7 +35343,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -44764,7 +44764,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -44824,7 +44824,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -44884,7 +44884,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -44953,7 +44953,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -45013,7 +45013,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -45073,7 +45073,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -45133,7 +45133,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -45202,7 +45202,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -45262,7 +45262,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -45322,7 +45322,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -45428,7 +45428,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -45452,7 +45452,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -45512,7 +45512,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -45618,7 +45618,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -45678,7 +45678,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -45699,7 +45699,7 @@ var mods = {
                 "types": [
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -59918,7 +59918,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -65990,7 +65990,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -66022,7 +66022,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -71044,7 +71044,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -71087,7 +71087,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -71129,7 +71129,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -71153,7 +71153,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -71178,7 +71178,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -71202,7 +71202,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -71245,7 +71245,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -71270,7 +71270,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -71294,7 +71294,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -71337,7 +71337,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -71362,7 +71362,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "belt"
@@ -71402,7 +71402,7 @@ var mods = {
                 "types": [
                     "quiver",
                     "shield",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -71424,7 +71424,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -71446,7 +71446,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -71483,7 +71483,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -71500,7 +71500,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -71517,7 +71517,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -71551,7 +71551,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -74699,7 +74699,7 @@ var mods = {
                 "types": [
                     "quiver",
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -74719,7 +74719,7 @@ var mods = {
                 "types": [
                     "quiver",
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -74739,7 +74739,7 @@ var mods = {
                 "types": [
                     "quiver",
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -74854,7 +74854,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -74878,7 +74878,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -74902,7 +74902,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -74926,7 +74926,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -74948,7 +74948,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -74970,7 +74970,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -75033,7 +75033,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -75074,7 +75074,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -75712,7 +75712,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -75732,7 +75732,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -75768,7 +75768,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -75788,7 +75788,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -75824,7 +75824,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -75860,7 +75860,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -75897,7 +75897,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -75950,7 +75950,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -75970,7 +75970,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -76072,7 +76072,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -76090,7 +76090,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -76115,7 +76115,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -76139,7 +76139,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -76163,7 +76163,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -76187,7 +76187,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -76211,7 +76211,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -76235,7 +76235,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             }
@@ -76257,7 +76257,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -76293,7 +76293,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -76313,7 +76313,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -76349,7 +76349,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -76369,7 +76369,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -76389,7 +76389,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -76425,7 +76425,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -76445,7 +76445,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -76479,7 +76479,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -76498,7 +76498,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -76597,7 +76597,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -76614,7 +76614,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -76632,7 +76632,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -76730,7 +76730,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -76779,7 +76779,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -76885,7 +76885,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -76909,7 +76909,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -76931,7 +76931,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -76952,7 +76952,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -76973,7 +76973,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -76994,7 +76994,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -77015,7 +77015,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -77036,7 +77036,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -77056,7 +77056,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -77076,7 +77076,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -77096,7 +77096,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -77346,7 +77346,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -77362,7 +77362,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -77480,7 +77480,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -77547,7 +77547,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -77564,7 +77564,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -77793,7 +77793,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -77813,7 +77813,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -77875,7 +77875,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -77937,7 +77937,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -77956,7 +77956,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -77973,7 +77973,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -77990,7 +77990,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -78007,7 +78007,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -78060,7 +78060,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -78080,7 +78080,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -78116,7 +78116,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -78136,7 +78136,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -78190,7 +78190,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -78210,7 +78210,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -78247,7 +78247,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -78300,7 +78300,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -78320,7 +78320,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -78422,7 +78422,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -78440,7 +78440,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -78461,7 +78461,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -78497,7 +78497,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -78517,7 +78517,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -78554,7 +78554,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -78574,7 +78574,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -78612,7 +78612,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -78633,7 +78633,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -78689,7 +78689,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -78707,7 +78707,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -78726,7 +78726,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -78811,7 +78811,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -78828,7 +78828,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -78846,7 +78846,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -78929,7 +78929,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -78978,7 +78978,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -79048,7 +79048,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -79068,7 +79068,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -79088,7 +79088,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -79108,7 +79108,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -79128,7 +79128,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -79148,7 +79148,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -79168,7 +79168,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -79188,7 +79188,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -79208,7 +79208,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -79228,7 +79228,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -79246,7 +79246,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -79268,7 +79268,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -79308,7 +79308,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -79347,7 +79347,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -79386,7 +79386,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -79424,7 +79424,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -79463,7 +79463,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -79484,7 +79484,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -79559,7 +79559,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -79577,7 +79577,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -79632,7 +79632,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -79718,7 +79718,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -79735,7 +79735,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -79789,7 +79789,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -79873,7 +79873,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -79939,7 +79939,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -79976,7 +79976,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -79996,7 +79996,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80016,7 +80016,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80036,7 +80036,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80056,7 +80056,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80076,7 +80076,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80096,7 +80096,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80116,7 +80116,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80136,7 +80136,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80156,7 +80156,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80174,7 +80174,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -80195,7 +80195,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80215,7 +80215,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80235,7 +80235,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80255,7 +80255,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80275,7 +80275,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80295,7 +80295,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80315,7 +80315,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80335,7 +80335,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80355,7 +80355,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80375,7 +80375,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80393,7 +80393,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -80414,7 +80414,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80434,7 +80434,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80454,7 +80454,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80474,7 +80474,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80494,7 +80494,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80514,7 +80514,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80534,7 +80534,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80554,7 +80554,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80574,7 +80574,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80594,7 +80594,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -80612,7 +80612,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -80718,7 +80718,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -80738,7 +80738,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -80800,7 +80800,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -80862,7 +80862,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -80968,7 +80968,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -80988,7 +80988,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -81050,7 +81050,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -81112,7 +81112,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -81218,7 +81218,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -81238,7 +81238,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -81300,7 +81300,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -81362,7 +81362,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -81468,7 +81468,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -81488,7 +81488,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -81550,7 +81550,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -81612,7 +81612,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -81718,7 +81718,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -81738,7 +81738,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -81800,7 +81800,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -81862,7 +81862,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -81926,7 +81926,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -81946,7 +81946,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -82008,7 +82008,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -82070,7 +82070,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -82095,7 +82095,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82119,7 +82119,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82143,7 +82143,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82167,7 +82167,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82191,7 +82191,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82215,7 +82215,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             }
@@ -82241,7 +82241,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82265,7 +82265,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82287,7 +82287,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82308,7 +82308,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -82333,7 +82333,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82357,7 +82357,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82381,7 +82381,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82405,7 +82405,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82429,7 +82429,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82453,7 +82453,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             }
@@ -82479,7 +82479,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82503,7 +82503,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82525,7 +82525,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82546,7 +82546,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -82571,7 +82571,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82595,7 +82595,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82617,7 +82617,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82638,7 +82638,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -82663,7 +82663,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82687,7 +82687,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82711,7 +82711,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82735,7 +82735,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82759,7 +82759,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82783,7 +82783,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             }
@@ -82809,7 +82809,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82833,7 +82833,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82857,7 +82857,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82881,7 +82881,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82903,7 +82903,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -82925,7 +82925,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -82946,7 +82946,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -82966,7 +82966,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -82991,7 +82991,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -83015,7 +83015,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -83039,7 +83039,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -83063,7 +83063,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -83087,7 +83087,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -83111,7 +83111,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             }
@@ -83137,7 +83137,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -83161,7 +83161,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -83185,7 +83185,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -83209,7 +83209,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -83231,7 +83231,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -83253,7 +83253,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -83314,7 +83314,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -83354,7 +83354,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -83399,7 +83399,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -83423,7 +83423,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -83447,7 +83447,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -83471,7 +83471,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -83495,7 +83495,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -83519,7 +83519,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             }
@@ -86112,7 +86112,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -86131,7 +86131,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -86149,7 +86149,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -86185,7 +86185,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -86217,7 +86217,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -86233,7 +86233,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -86282,7 +86282,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -86314,7 +86314,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -86384,7 +86384,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -86402,7 +86402,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -86419,7 +86419,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -86436,7 +86436,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -86452,7 +86452,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             }
@@ -86474,7 +86474,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -86493,7 +86493,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -86516,7 +86516,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -86538,7 +86538,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -86557,7 +86557,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -86589,7 +86589,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -86621,7 +86621,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -86654,7 +86654,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -86686,7 +86686,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -86725,7 +86725,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -86745,7 +86745,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -86767,7 +86767,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -86780,7 +86780,7 @@ var mods = {
                 "level": "75",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -86798,7 +86798,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -86814,7 +86814,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -86836,7 +86836,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -86853,7 +86853,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -86875,7 +86875,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -86888,7 +86888,7 @@ var mods = {
                 "level": "75",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -86901,7 +86901,7 @@ var mods = {
                 "level": "85",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -86919,7 +86919,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -86935,7 +86935,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -86952,7 +86952,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -86967,7 +86967,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -86987,7 +86987,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -87005,7 +87005,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -87026,7 +87026,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -87043,7 +87043,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -87061,7 +87061,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -87079,7 +87079,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -87097,7 +87097,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -87115,7 +87115,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -87132,7 +87132,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "amulet"
                 ]
             },
@@ -87165,7 +87165,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "amulet"
                 ]
             },
@@ -87198,7 +87198,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -87242,7 +87242,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -87281,7 +87281,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -87297,7 +87297,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -87313,7 +87313,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -87335,7 +87335,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -87355,7 +87355,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -87373,7 +87373,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -87389,7 +87389,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -87411,7 +87411,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -87431,7 +87431,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -87444,7 +87444,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -87462,7 +87462,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -87478,7 +87478,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -87494,7 +87494,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -87510,7 +87510,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -87526,7 +87526,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -87542,7 +87542,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -87558,7 +87558,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -87580,7 +87580,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -87600,7 +87600,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -87620,7 +87620,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -87640,7 +87640,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -87660,7 +87660,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -87680,7 +87680,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -95699,7 +95699,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -95738,7 +95738,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -95777,7 +95777,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -95816,7 +95816,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -95855,7 +95855,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -95894,7 +95894,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -95933,7 +95933,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -95972,7 +95972,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96029,7 +96029,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96068,7 +96068,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96107,7 +96107,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96146,7 +96146,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96185,7 +96185,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96224,7 +96224,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96263,7 +96263,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96302,7 +96302,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96359,7 +96359,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96398,7 +96398,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96437,7 +96437,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96476,7 +96476,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96515,7 +96515,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96554,7 +96554,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96593,7 +96593,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96632,7 +96632,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96721,7 +96721,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96760,7 +96760,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96799,7 +96799,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96838,7 +96838,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96877,7 +96877,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96916,7 +96916,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96955,7 +96955,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -96994,7 +96994,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -99247,7 +99247,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -99282,7 +99282,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -99317,7 +99317,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             }
@@ -99663,7 +99663,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -99695,7 +99695,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -99727,7 +99727,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -99759,7 +99759,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -99806,7 +99806,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -99835,7 +99835,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -99864,7 +99864,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -99893,7 +99893,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring"
@@ -100188,7 +100188,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -100217,7 +100217,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -100246,7 +100246,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -100275,7 +100275,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             }
@@ -100304,7 +100304,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -100331,7 +100331,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -100358,7 +100358,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -100385,7 +100385,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             }
@@ -108977,7 +108977,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -109010,7 +109010,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -109043,7 +109043,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -109076,7 +109076,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -109227,7 +109227,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -109257,7 +109257,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -109287,7 +109287,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -109317,7 +109317,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             }
@@ -109505,7 +109505,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -109667,7 +109667,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -109702,7 +109702,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -110954,7 +110954,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -110978,7 +110978,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111002,7 +111002,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111026,7 +111026,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111051,7 +111051,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111075,7 +111075,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111099,7 +111099,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111123,7 +111123,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111147,7 +111147,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111171,7 +111171,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111195,7 +111195,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111219,7 +111219,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111243,7 +111243,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111267,7 +111267,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111291,7 +111291,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111315,7 +111315,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111339,7 +111339,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111363,7 +111363,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111387,7 +111387,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111411,7 +111411,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111435,7 +111435,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111459,7 +111459,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111483,7 +111483,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111507,7 +111507,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111531,7 +111531,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111555,7 +111555,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111579,7 +111579,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111603,7 +111603,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111627,7 +111627,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111651,7 +111651,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111675,7 +111675,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111712,7 +111712,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111736,7 +111736,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111760,7 +111760,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111784,7 +111784,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111808,7 +111808,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111832,7 +111832,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -111921,7 +111921,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -111944,7 +111944,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -111967,7 +111967,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -111991,7 +111991,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -112014,7 +112014,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -112038,7 +112038,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -112062,7 +112062,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -112085,7 +112085,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -112682,7 +112682,7 @@ var mods = {
                 "values": [],
                 "types": [
                     "quiver",
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -113830,7 +113830,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -113880,7 +113880,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -113964,7 +113964,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -113980,7 +113980,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -114299,7 +114299,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -114319,7 +114319,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -114339,7 +114339,7 @@ var mods = {
                 "types": [
                     "shield",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -114460,7 +114460,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -114479,7 +114479,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -114498,7 +114498,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -114517,7 +114517,7 @@ var mods = {
                 ],
                 "types": [
                     "shield",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "belt"
                 ]
@@ -114556,7 +114556,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -114579,7 +114579,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -114602,7 +114602,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -114625,7 +114625,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -114648,7 +114648,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -114671,7 +114671,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -114694,7 +114694,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -114717,7 +114717,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -114740,7 +114740,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -114763,7 +114763,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -114915,7 +114915,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -115174,7 +115174,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -115197,7 +115197,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -115220,7 +115220,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -115243,7 +115243,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet",
                     "amulet",
                     "ring",
@@ -115268,7 +115268,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -115288,7 +115288,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -115308,7 +115308,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -115328,7 +115328,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             }
@@ -115502,7 +115502,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -115517,7 +115517,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -115532,7 +115532,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -115722,7 +115722,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -115738,7 +115738,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -115758,7 +115758,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -115774,7 +115774,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -115794,7 +115794,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -115810,7 +115810,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -115830,7 +115830,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -115846,7 +115846,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -115866,7 +115866,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -115882,7 +115882,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -115902,7 +115902,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -115918,7 +115918,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -115938,7 +115938,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -115954,7 +115954,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -115974,7 +115974,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -115990,7 +115990,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -116043,7 +116043,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -116076,7 +116076,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "belt"
                 ]
             },
@@ -116093,7 +116093,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "belt"
                 ]
             }
@@ -116115,7 +116115,7 @@ var mods = {
                     "shield",
                     "gloves",
                     "boots",
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -116382,7 +116382,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -116432,7 +116432,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -116516,7 +116516,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -116532,7 +116532,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -116716,7 +116716,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -116766,7 +116766,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -116850,7 +116850,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -116866,7 +116866,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -120318,7 +120318,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -120333,7 +120333,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -120348,7 +120348,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -120366,7 +120366,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -120382,7 +120382,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -120398,7 +120398,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -120415,7 +120415,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -120432,7 +120432,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -120447,7 +120447,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -120464,7 +120464,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -120479,7 +120479,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -120496,7 +120496,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -120511,7 +120511,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -120528,7 +120528,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -120560,7 +120560,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -120577,7 +120577,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -120609,7 +120609,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -120641,7 +120641,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -120658,7 +120658,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -120708,7 +120708,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             },
@@ -120725,7 +120725,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             }
@@ -120744,7 +120744,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -120760,7 +120760,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -120778,7 +120778,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -120794,7 +120794,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -120812,7 +120812,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -120828,7 +120828,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -120844,7 +120844,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -120862,7 +120862,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -120878,7 +120878,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -120894,7 +120894,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -120912,7 +120912,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -120928,7 +120928,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -120944,7 +120944,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -120962,7 +120962,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -120978,7 +120978,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -120994,7 +120994,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -121011,7 +121011,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -121029,7 +121029,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -121045,7 +121045,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -121061,7 +121061,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -121078,7 +121078,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -121093,7 +121093,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -121108,7 +121108,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -121123,7 +121123,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -121140,7 +121140,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -121155,7 +121155,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -121170,7 +121170,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -121185,7 +121185,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -121202,7 +121202,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -121217,7 +121217,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -121232,7 +121232,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -121247,7 +121247,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -121264,7 +121264,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -121279,7 +121279,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -121294,7 +121294,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -121309,7 +121309,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -121326,7 +121326,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -121341,7 +121341,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -121356,7 +121356,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -121371,7 +121371,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -121388,7 +121388,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -121401,7 +121401,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -121418,7 +121418,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -121435,7 +121435,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -121452,7 +121452,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -121470,7 +121470,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "belt"
                 ]
             }
@@ -121489,7 +121489,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "helmet"
                 ]
             }
@@ -121508,7 +121508,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -121524,7 +121524,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -121542,7 +121542,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -121558,7 +121558,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -121576,7 +121576,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -121592,7 +121592,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -121610,7 +121610,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -121626,7 +121626,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -121639,7 +121639,7 @@ var mods = {
                 "level": "68",
                 "values": [],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -121657,7 +121657,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -121691,7 +121691,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             },
             {
@@ -121724,7 +121724,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest",
+                    "body-armour",
                     "amulet"
                 ]
             }
@@ -121743,7 +121743,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -121761,7 +121761,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -121779,7 +121779,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
@@ -121797,7 +121797,7 @@ var mods = {
                     ]
                 ],
                 "types": [
-                    "chest"
+                    "body-armour"
                 ]
             }
         ],
