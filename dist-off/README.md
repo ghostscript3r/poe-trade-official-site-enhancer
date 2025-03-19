@@ -1,6 +1,6 @@
 # Poe Trade Official Site Enhancer - [install link](https://raw.githubusercontent.com/ghostscript3r/poe-trade-official-site-enhancer/master/poe-trade-official-site-enhancer.user.js)
 
-<p>Enhance your <strong>Path of Exile</strong> and <strong>Path of Exile 2</strong> trading experience with powerful QoL features!</p><ul><li>An intuitive <strong>search save manager</strong> to <strong>save and load full searches or individual filter groups</strong> effortlessly.</li><li>A <strong>new affix selector</strong> that dynamically displays only the mods available for the selected item type.</li><li><strong>Automatic sorting by real currency values</strong> (via poe.ninja) for better price comparisons.</li><li>Quickly check <strong>gem max-quality costs</strong> and other useful enhancements.</li></ul><p>More features are on the way—if players find this useful, I'll keep expanding it!</p>
+Enhance your Path of Exile and Path of Exile 2 trading experience with powerful QoL features! An intuitive search save manager to save and load full searches or individual filter groups effortlessly. A new affix selector that dynamically displays only the mods available for the selected item type. Automatic sorting by real currency values (via poe.ninja) for better price comparisons. Quickly check gem max-quality costs and other useful enhancements. More features are on the way—if players find this useful, I'll keep expanding it!
 
 ## Features
 
