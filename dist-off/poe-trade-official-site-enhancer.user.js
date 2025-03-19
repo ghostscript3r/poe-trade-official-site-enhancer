@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         poe-trade-official-site-enhancer
 // @namespace    https://github.com/ghostscript3r/poe-trade-enhancer
-// @version      1.5.6
-// @description  Adds tons of usefull features to poe.trade, from a very easy to use save manager to save and laod your searches and even live search them all in one page, to an auto sort by real currency values (from poe.ninja), passing from gems max quality cost and more. I have some other very good idea for features to add, I'll gladly push them forward if I see people start using this.
+// @version      1.5.7
+// @description  <p>Enhance your <strong>Path of Exile</strong> and <strong>Path of Exile 2</strong> trading experience with powerful QoL features!</p><ul><li>An intuitive <strong>search save manager</strong> to <strong>save and load full searches or individual filter groups</strong> effortlessly.</li><li>A <strong>new affix selector</strong> that dynamically displays only the mods available for the selected item type.</li><li><strong>Automatic sorting by real currency values</strong> (via poe.ninja) for better price comparisons.</li><li>Quickly check <strong>gem max-quality costs</strong> and other useful enhancements.</li></ul><p>More features are on the way—if players find this useful, I'll keep expanding it!</p>
 // @author       ghostscript3r@gmail.com | https://www.patreon.com/ghostscripter
 // @license      MIT
 // @match        https://www.pathofexile.com/trade*
@@ -233,7 +233,7 @@ var frameContent = /* html */ `
     <div class="tab-content" id="myTabContent">
       <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
         <div class="">
-          <h2 class="">Poe Trade Official Site Enhancer <small class="text-secondary font-italic font-weight-light">v. 1.5.6</small></h2>
+          <h2 class="">Poe Trade Official Site Enhancer <small class="text-secondary font-italic font-weight-light">v. 1.5.7</small></h2>
           ${shortDescriptionParagraph}
           <hr class="my-4">
           ${donateTemplate}
@@ -1221,7 +1221,7 @@ var endInit = function() {
 };
 
 
-info("version: 1.5.6");
+info("version: 1.5.7");
 
   ;(function(factory) {
     if(typeof define === 'function' && define.amd) {
