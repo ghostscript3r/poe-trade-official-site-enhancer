@@ -4081,6 +4081,34 @@ var startSocket = function(index, res) {
 
   var leagues = [], currencies, isCurr, ASC = true, DESC = false, DEFERRED_RESOURCES = {};
 
+var parsePoeNinjaResponse = function(response) {
+  // poe.ninja exchange overview: items[] holds names/icons, lines[] holds prices expressed in the
+  // primary currency (chaos). Convert to the {currencyDetails, lines} shape used by the rest of the script.
+  if (!response || response.status !== 200 || !response.responseText) return null;
+  var data;
+  try {
+    data = JSON.parse(response.responseText);
+  } catch (e) {
+    return null;
+  }
+  if (!data || !_.isArray(data.lines) || !_.isArray(data.items)) return null;
+  var itemsById = _.keyBy(data.items, 'id');
+  var currencyDetails = _.map(data.items, function(item) {
+    return {id: item.id, name: item.name, icon: "https://poe.ninja" + item.image, tradeId: item.id};
+  });
+  var lines = _.compact(_.map(data.lines, function(line) {
+    var item = itemsById[line.id];
+    if (!item) return null;
+    return {
+      currencyTypeName: item.name,
+      chaosEquivalent: line.primaryValue,
+      detailsId: item.detailsId || _.kebabCase(item.name),
+      icon: "https://poe.ninja" + item.image
+    };
+  }));
+  return {currencyDetails: currencyDetails, lines: lines};
+};
+
 var getDeferred = function(url, options) {
   var deferred = $.Deferred();
   if (DEFERRED_RESOURCES[url]) {
@@ -4260,15 +4288,15 @@ function getCurrencies(league, cb) {
         });
       } else {
         $.when(
-          getDeferred("https://poe.ninja/api/data/currencyoverview?league="+league+"&type=Currency&date="+moment().format("YYYY-MM-DD")),
-          getDeferred("https://poe.ninja/api/data/currencyoverview?league="+league+"&type=Fragment&date="+moment().format("YYYY-MM-DD")),
-          getDeferred("https://poe.ninja/api/data/itemoverview?league="+league+"&type=Scarab&date="+moment().format("YYYY-MM-DD"))
+          getDeferred("https://poe.ninja/poe1/api/economy/exchange/current/overview?league="+encodeURIComponent(league)+"&type=Currency"),
+          getDeferred("https://poe.ninja/poe1/api/economy/exchange/current/overview?league="+encodeURIComponent(league)+"&type=Fragment"),
+          getDeferred("https://poe.ninja/poe1/api/economy/exchange/current/overview?league="+encodeURIComponent(league)+"&type=Scarab")
         ).then(function () {
           curr = {map: {}, lines: [], currencyDetails: []};
           $.each( arguments, function( i, response ) {
             debug("GM_xmlhttpRequest response", response);
-            if (response.responseText) {
-              var c = JSON.parse(response.responseText);
+            var c = parsePoeNinjaResponse(response);
+            if (c) {
               curr.updated = moment().valueOf();
               if (c.currencyDetails) {
                 curr.currencyDetails = _.uniqBy(curr.currencyDetails.concat(c.currencyDetails), 'id');
